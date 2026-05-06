@@ -41,7 +41,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <div class="embed-youtube">
-<iframe title="YouTube video" src="https://www.youtube.com/embed/hxqp9ocLPQ0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800"  height="450" title="YouTube video" src="https://www.youtube.com/embed/hxqp9ocLPQ0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!-- wp:separator -->
@@ -49,7 +49,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <div class="embed-youtube">
-<iframe title="YouTube video" src="https://www.youtube.com/embed/67mH7Fbgw6U" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" title="YouTube video" src="https://www.youtube.com/embed/67mH7Fbgw6U" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!-- wp:separator -->
