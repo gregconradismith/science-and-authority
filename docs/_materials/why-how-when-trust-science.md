@@ -7,7 +7,7 @@ permalink: "/pages/why-how-when-trust-science/"
 render_with_liquid: false
 ---
 <!-- wp:paragraph -->
-<p>Naomi Oreskes - coauthor with Erik M. Conway of&nbsp;<strong>Merchants of Doubt</strong> - a book that documents how a handful of scientists manufactured doubt on issues ranging from tobacco smoke to climate change - wrote a subsequence book titled <strong>Why Trust Science?</strong> The publisher's note on the back cover says...</p>
+<p>Naomi Oreskes - [[]]  coauthor with Erik M. Conway of&nbsp;<strong>Merchants of Doubt</strong> - a book that documents how a handful of scientists manufactured doubt on issues ranging from tobacco smoke to climate change - wrote a subsequence book titled <strong>Why Trust Science?</strong> The publisher's note on the back cover says...</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
