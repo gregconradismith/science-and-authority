@@ -1,0 +1,10 @@
+---
+layout: default
+---
+    <article class="content-page">
+      <div class="page-kicker">{{ page.kind | default: "Page" | capitalize }}{% if page.kind == "post" and page.date %} &middot; {{ page.date | date: "%b %-d, %Y" }}{% endif %}</div>
+      <h1>{{ page.title | escape }}</h1>
+      <div class="wp-content">
+{{ content }}
+      </div>
+    </article>

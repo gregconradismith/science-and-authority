@@ -1,0 +1,137 @@
+---
+title: "The Institutionalization of Uncertainty"
+kind: "page"
+date: "1970-01-01"
+slug: "the-institutionalization-of-uncertainty"
+permalink: "/pages/the-institutionalization-of-uncertainty/"
+render_with_liquid: false
+---
+<!-- wp:heading {"align":"center"} -->
+<h2>Preparation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Required </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Do the following <span style="font-size:revert;color:initial;">prior to the next class </span>meeting (in the recommended order). </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"type":"wp-embed"} -->
+<ul type="wp-embed"><!-- wp:list-item -->
+<li>If you have not done so already, read xxx</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Read "The Institutionalization of Uncertainty," which is Chapter 14 (pp 176-191) of <em><a rel="noreferrer noopener" href="https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&amp;lang=en&amp;" target="_blank">Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health</a></em> by David Michaels. Oxford University Press, Incorporated, 2008. <a href="../../wp-content/uploads/2022/09/doubt_is_their_product_how_industry27s_assault_on_s..._-_14_the_institutionalization_of_uncertainty.pdf">[PDF]</a> <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196" target="_blank">[SWEM Online]</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Rosenstock, L. (2006). Protecting special interests in the name of “good science”.&nbsp;<em>JAMA</em>,&nbsp;<em>295</em>(20), 2407-2410. <a href="../../wp-content/uploads/2022/09/jco60011.pdf">[PDF]</a> <a href="https://jamanetwork.com/journals/jama/article-abstract/202889" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Kennedy, D. (2004). Disclosure and disinterest.&nbsp;<em>Science</em>,&nbsp;<em>303</em>(5654), 15-15. <a href="../../wp-content/uploads/2022/09/science.303.5654.15.pdf">[PDF]</a> <a href="https://www.science.org/doi/full/10.1126/science.303.5654.15" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Houck, O. (2003). Tales from a troubled marriage: science and law in environmental policy.&nbsp;<em>Science</em>,&nbsp;<em>302</em>(5652), 1926-1929. <a href="../../wp-content/uploads/2022/09/science.1093758.pdf">[PDF]</a> <a href="https://www.science.org/doi/abs/10.1126/science.1093758" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"type":"wp-embed"} -->
+<ul type="wp-embed"><!-- wp:list-item -->
+<li>Read <em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels. <a href="../../wp-content/uploads/2022/09/michaelsmanufactureduncertainty.pdf">[PDF]</a> <a href="../readings/">[Readings]</a>  This is Chapter 4 of Proctor, R. N., &amp; Schiebinger, L. (2008). <em>Agnotology: The making and unmaking of ignorance.</em> Stanford University Press.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3></h3>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2></h2>
+<!-- /wp:heading -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>The idea is to institutionalize the strategies [of manufactured doubt]—to construct bureaucratic mechanisms with which corporate interests can question the science underlying not just regulation but virtually any ‘‘information’’ disseminated by federal agencies as well. This would be the very triumph of uncertainty. (p. 176, Michaels)</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>This legislation, the Data Access Act (also known as the Shelby Amendment), guarantees public access, by way of the Freedom of Information Act (FOIA), to ‘‘all data produced’’ by federally funded research scientists employed by nonprofit institutions. Now, if any federal funds supported a scientist’s study, that person is required to provide the raw research data in response to a request under the Freedom of Information Act. (p. 177)</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>... The Shelby Amendment was an open invitation for anyone to use the Freedom of Information Act to harass scientists, question their work, muddy the waters, delay action, and perhaps even steal intellectual property. You might think that industry would be alarmed by this last threat, but <span style="text-decoration:underline;">industry made certain that privately funded research is not covered</span>. That is, according to the logic of this legislation, industry should be free to dredge and manipulate the data of government-funded work, but federal agencies and outside groups should not be free to reanalyze industry-sponsored research submitted to the agencies during the regulatory process. Right there you have the tip-off to the hidden agenda of the Shelby Amendment. (p. 177)</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2>Further Reading</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>David Michaels (2008). <em>Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health</em>. Oxford University Press, Incorporated, 2008. <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196" target="_blank">[SWEM Online]</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

@@ -206,6 +206,15 @@ main { min-height: 70vh; }
   border: 1px solid var(--line);
   border-radius: 8px;
 }
+.embed-youtube {
+  margin: 26px 0;
+  aspect-ratio: 16 / 9;
+}
+.embed-youtube iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
 .wp-content object { min-height: 560px; }
 .wp-content .wp-block-file {
   margin: 22px 0;

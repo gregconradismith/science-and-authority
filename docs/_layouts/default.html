@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != site.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+  <script src="{{ '/assets/site.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark">{{ site.brand_mark | default: site.title | slice: 0, 3 | escape }}</span>
+      <span><strong>{{ site.title | escape }}</strong><em>{{ site.description | escape }}</em></span>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a href="{{ '/pages/spring-2026-calendar/' | relative_url }}">Calendar</a>
+      <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
+      <a href="{{ '/pages/foundations/' | relative_url }}">Foundations</a>
+      <a href="{{ '/pages/' | relative_url }}">Materials</a>
+      <a href="{{ '/pages/resources/' | relative_url }}">Resources</a>
+      <a href="{{ '/posts/' | relative_url }}">Updates</a>
+    </nav>
+  </header>
+  <main>
+{{ content }}
+  </main>
+  <footer class="site-footer">
+    <span>Static version generated from the WordPress export dated {{ site.exported | escape }}.</span>
+    <a href="{{ site.original_site | escape }}">Original site</a>
+  </footer>
+</body>
+</html>

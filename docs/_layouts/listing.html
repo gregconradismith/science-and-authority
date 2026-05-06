@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% if page.listing == "posts" %}
+  {% assign items = site.posts %}
+{% else %}
+  {% assign items = site.materials | sort: "title" %}
+{% endif %}
+    <section class="listing">
+      <div class="section-heading">
+        <p class="eyebrow">{{ items | size }} items</p>
+        <h1>{{ page.title | escape }}</h1>
+        <p>{{ page.subtitle | escape }}</p>
+      </div>
+      <label class="search-box">
+        <span>Filter</span>
+        <input type="search" data-filter-input placeholder="Search title or text">
+      </label>
+      <div class="card-grid" data-filter-list>
+        {% for item in items %}
+        <article class="card">
+          <p class="eyebrow">{% if page.listing == "posts" %}{{ item.date | date: "%b %-d, %Y" }}{% else %}Course material{% endif %}</p>
+          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+          <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
+        </article>
+        {% endfor %}
+      </div>
+    </section>

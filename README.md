@@ -1,39 +1,39 @@
 # Science & Authority
 
-This repository contains a WordPress export and a generated static version of
-the APSC 453 Science & Authority course site.
+This repository contains editable Markdown source files for the APSC 453
+Science & Authority course site, plus the original WordPress export used to
+create the first static version.
 
-## Static site
+## Editing the site
 
-Open `docs/index.html` in a browser to browse the generated site locally. For
-GitHub Pages, configure the repository to serve from the `main` branch and the
-`/docs` folder.
+Edit course pages in `docs/_materials/` and course updates in `docs/_posts/`.
+The top-level editable pages are:
 
-The generated site includes:
+- `docs/index.md`
+- `docs/pages.md`
+- `docs/posts.md`
 
-- A course landing page
-- Static pages for the syllabus, calendars, readings, foundations, case studies,
-  project descriptions, and resources
-- A course updates archive generated from published WordPress posts
+Assets live in `docs/assets/` and uploaded media lives in
+`docs/wp-content/uploads/`.
+
+## Publishing
+
+When changes are committed to `main`, the GitHub Pages workflow builds the HTML
+site from the Markdown files with Jekyll and deploys the generated `_site`
+artifact.
+
+The source site includes:
+
+- A course landing page generated from `docs/index.md`
+- Static course pages generated from `docs/_materials/*.md`
+- Course updates generated from `docs/_posts/*.md`
 - Local copies of the WordPress media export where practical
 - Lightweight filtering on the page and post index views
 
 One oversized audio file is intentionally left as an external WordPress link
 because it exceeds GitHub's normal 100 MB file limit.
 
-## Regenerate
+## Original export
 
-```sh
-sage -python tools/build_static_site.py
-```
-
-The generator reads `tmp/apsc453scienceampauthority.WordPress.2026-05-06.xml`,
-copies media from `tmp/media-export-203120012-from-0-to-7589`, and rewrites
-`docs/`.
-
-If a media file is referenced in the XML but missing from the local media export,
-you can attempt a direct download from WordPress with:
-
-```sh
-sage -python tools/download_wordpress_uploads.py
-```
+The original WordPress export is preserved at
+`tmp/apsc453scienceampauthority.WordPress.2026-05-06.xml`.
