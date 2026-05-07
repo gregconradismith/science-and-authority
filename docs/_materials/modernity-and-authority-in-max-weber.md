@@ -24,7 +24,7 @@ render_with_liquid: false
 
 <!-- wp:list {"type":"wp-embed"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Listen to <em><a href="../isaac-ariail-reed-on-what-is-authority/">Modernity and Authority in the Work of Max Weber</a></em> (Lecture 6) by Isaac Ariail Reed. [45 min]</li>
+<li>Listen to *Modernity and Authority in the Work of Max Weber [\[Page\]](../isaac-ariail-reed-on-what-is-authority/)* (Lecture 6) by Isaac Ariail Reed. [45 min]</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

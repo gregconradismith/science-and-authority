@@ -20,11 +20,11 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read Burnett, Thomas. <strong>What is scientism?</strong> <a href="https://sciencereligiondialogue.org/resources/what-is-scientism/" target="_blank" rel="noreferrer noopener">[Online]</a><br></li>
+<li>Read Burnett, Thomas. **What is scientism?** [\[Online\]](https://sciencereligiondialogue.org/resources/what-is-scientism/)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>.&nbsp;<em>The New Atlantis</em>, 32-50. <a href="https://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20121116_TNA37Hughes.pdf" target="_blank" rel="noreferrer noopener">[PDF]</a></li>
+<li>Read Hughes, A. L. (2012). **The folly of scientism**. *The New Atlantis*, 32-50. [\[PDF\]](https://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20121116_TNA37Hughes.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -102,7 +102,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Watch <a href="https://vimeo.com/266114263" target="_blank" rel="noreferrer noopener">Science is Everywhere</a> on Vimeo. [2 min]</li>
+<li>Watch Science is Everywhere [\[Publisher\]](https://vimeo.com/266114263) on Vimeo. [2 min]</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

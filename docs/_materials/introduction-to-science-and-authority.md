@@ -27,7 +27,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>I&nbsp;once heard someone complain, “I went to college hoping to&nbsp;<strong>learn how to think</strong>. Instead, I was&nbsp;<strong>taught what to think</strong>.” Putting the <a href="../learning-how-to-think-about-science/">politics</a> of the comment aside, the options for <strong>how to think&nbsp;about science and society</strong> will be a theme of this course.</p>
+<p>I once heard someone complain, “I went to college hoping to **learn how to think**. Instead, I was **taught what to think**.” Putting the politics [\[Page\]](../learning-how-to-think-about-science/) of the comment aside, the options for **how to think about science and society** will be a theme of this course.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -39,15 +39,15 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>In science education there is an emphasis on the <strong><a href="https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/normative-and-positive-statements" target="_blank" rel="noreferrer noopener">positive</a></strong> (a philosophical term for statements about <strong>what is</strong>) and an unease with the <em><strong><a href="https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/normative-and-positive-statements" target="_blank" rel="noreferrer noopener">normative</a></strong> </em>(statements about <strong>what ought to be</strong>).<sup>1</sup> One reason for this is that professors feel an obligation to pass on what we already know (the scientific certitudes mentioned above). The amount of information relevant to students of science is enormous and always growing. There is no time to explore the bigger picture.</p>
+<p>In science education there is an emphasis on the **positive [\[Publisher\]](https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/normative-and-positive-statements)** (a philosophical term for statements about **what is**) and an unease with the ***normative [\[Publisher\]](https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro/v/normative-and-positive-statements)** *(statements about **what ought to be**).1 One reason for this is that professors feel an obligation to pass on what we already know (the scientific certitudes mentioned above). The amount of information relevant to students of science is enormous and always growing. There is no time to explore the bigger picture.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Another reason is that science itself does not address questions of meaning, including the meaning of science. <a href="https://en.wikipedia.org/wiki/Max_Weber">Max Weber</a> (1864--1920), a key figure in the development of modern social sciences, once wrote: “What should we do? How should we live? The fact that science does not give us the answer to these questions is completely undeniable.”<sup>2</sup></p>
+<p>Another reason is that science itself does not address questions of meaning, including the meaning of science. Max Weber [\[Publisher\]](https://en.wikipedia.org/wiki/Max_Weber) (1864--1920), a key figure in the development of modern social sciences, once wrote: “What should we do? How should we live? The fact that science does not give us the answer to these questions is completely undeniable.”2</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If science does not provide answers to questions of meaning or&nbsp;<em>what ought to be</em>, where should we seek them? In the <a href="https://en.wikipedia.org/wiki/Humanities" target="_blank" rel="noreferrer noopener">humanities</a> and <a href="https://en.wikipedia.org/wiki/High_culture" target="_blank" rel="noreferrer noopener">high culture</a>? Through our political and religious commitments? We will explore these questions throughout the course. For now, let us simply acknowledge that a science professor does not necessarily possess more expertise or wisdom about the bigger picture than anyone else—which may explain why these broader questions are seldom addressed in science lectures.</p>
+<p>If science does not provide answers to questions of meaning or *what ought to be*, where should we seek them? In the humanities [\[Publisher\]](https://en.wikipedia.org/wiki/Humanities) and high culture [\[Publisher\]](https://en.wikipedia.org/wiki/High_culture)? Through our political and religious commitments? We will explore these questions throughout the course. For now, let us simply acknowledge that a science professor does not necessarily possess more expertise or wisdom about the bigger picture than anyone else—which may explain why these broader questions are seldom addressed in science lectures.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -91,7 +91,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>In my personal experience, scientists, engineers, and mathematicians (NQR-types) tend to be naive concerning sociology (CSI) and philosophy (ALV) of science when compared, say, to professors of the humanities or a well-read citizen scholar. This is one reason why we will begin <em>Science &amp; Authority</em> by reading sociology, philosophy, and literature, beginning with Richard Sennett and Isaac Ariail Reed (see the next page titled <strong><em><a href="../what-is-authority/">What is Authority?</a></em></strong>).</p>
+<p>In my personal experience, scientists, engineers, and mathematicians (NQR-types) tend to be naive concerning sociology (CSI) and philosophy (ALV) of science when compared, say, to professors of the humanities or a well-read citizen scholar. This is one reason why we will begin *Science & Authority* by reading sociology, philosophy, and literature, beginning with Richard Sennett and Isaac Ariail Reed (see the next page titled ***What is Authority? [\[Page\]](../what-is-authority/)***).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -115,7 +115,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><a href="../notes-introduction-to-science-and-authority/">Notes – Introduction to Science &amp;&nbsp;Authority</a></p>
+<p>Notes – Introduction to Science & Authority [\[Page\]](../notes-introduction-to-science-and-authority/)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

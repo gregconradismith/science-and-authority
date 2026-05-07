@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Our first Science &amp; Authority case study explores the discovery of widespread mercury poisoning from fish consumption and the subsequent struggle to raise awareness about its health effects. Our primary source is the book <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196" target="_blank" rel="noreferrer noopener">Diagnosis: Mercury: Money, Politics and Poison</a> by Jane Marie Hightower, M.D. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196">[SWEM Online]</a>. Dr. Hightower, a physician, discovered that many of her patients who were avid fish consumers had elevated mercury levels and various nonspecific symptoms like fatigue, memory problems, and gastrointestinal issues. The book underscores the importance of (1) independent research and investigation, particularly in the face of industry influence on public health issues, and (2) clear and accessible information for both healthcare providers and the public.</p>
+<p>Our first Science & Authority case study explores the discovery of widespread mercury poisoning from fish consumption and the subsequent struggle to raise awareness about its health effects. Our primary source is the book Diagnosis: Mercury: Money, Politics and Poison [\[SWEM\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196) by Jane Marie Hightower, M.D. [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196). Dr. Hightower, a physician, discovered that many of her patients who were avid fish consumers had elevated mercury levels and various nonspecific symptoms like fatigue, memory problems, and gastrointestinal issues. The book underscores the importance of (1) independent research and investigation, particularly in the face of industry influence on public health issues, and (2) clear and accessible information for both healthcare providers and the public.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -30,17 +30,17 @@ render_with_liquid: false
 <ul class="wp-block-list"><!-- wp:list-item -->
 <li>Do one of the following.<!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read pp. 46-50 of<em>&nbsp;<a href="https://www.amazon.com/dp/B07L14B7P1" target="_blank" rel="noreferrer noopener">The Misinformation Age: How False Beliefs Spread</a>&nbsp;</em>by Cailin O'Connor and James Owen Weatherall (see <a href="../fall-2024-calendar/">Calendar</a> for PDF).</li>
+<li>Read pp. 46-50 of* The Misinformation Age: How False Beliefs Spread [\[Amazon\]](https://www.amazon.com/dp/B07L14B7P1) *by Cailin O'Connor and James Owen Weatherall (see Calendar [\[Page\]](../fall-2024-calendar/) for PDF).</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Listen to this <a href="https://youtu.be/51Roz8CfRXM">Podcast</a> reviewing <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196" target="_blank" rel="noreferrer noopener">Diagnosis: Mercury: Money, Politics and Poison</a> by Jane Marie Hightower, M.D. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196">[SWEM Online]</a> (This not-so-deepfake podcast was recreated using NotebookLM sourcing PDFs of several chapters of Hightower's book.)</li>
+<li>Listen to this Podcast [\[Video\]](https://youtu.be/51Roz8CfRXM) reviewing Diagnosis: Mercury: Money, Politics and Poison [\[SWEM\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196) by Jane Marie Hightower, M.D. [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196) (This not-so-deepfake podcast was recreated using NotebookLM sourcing PDFs of several chapters of Hightower's book.)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Watch the video <a href="https://youtu.be/Kd1uTLTGfNo"><em>Diagnosis of Methylmercury Poissoning from Seafood Consumption</em></a>. </li>
+<li>Watch the video *Diagnosis of Methylmercury Poissoning from Seafood Consumption* [\[Video\]](https://youtu.be/Kd1uTLTGfNo).</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -151,7 +151,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Bocking, S. (2009). Skewing Science.&nbsp;<em>Alternatives Journal</em>,&nbsp;<em>35</em>(3), 8. <a href="../readings/">[Readings]</a></p>
+<p>Bocking, S. (2009). Skewing Science. *Alternatives Journal*, *35*(3), 8. [\[Readings\]](../readings/)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -171,7 +171,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ke, T., Tinkov, A. A., Skalny, A. V., Bowman, A. B., Rocha, J. B., Santamaria, A., &amp; Aschner, M. (2021). Developmental exposure to methylmercury and ADHD, a literature review of epigenetic studies.&nbsp;<em>Environmental Epigenetics</em>,&nbsp;<em>7</em>(1), dvab014. <a href="https://academic.oup.com/eep/article/7/1/dvab014/6433213" target="_blank" rel="noreferrer noopener">[PDF]</a></p>
+<p>Ke, T., Tinkov, A. A., Skalny, A. V., Bowman, A. B., Rocha, J. B., Santamaria, A., & Aschner, M. (2021). Developmental exposure to methylmercury and ADHD, a literature review of epigenetic studies. *Environmental Epigenetics*, *7*(1), dvab014. [\[PDF\]](https://academic.oup.com/eep/article/7/1/dvab014/6433213)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -183,7 +183,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https://www.epa.gov/mercury/mercury-study-report-congress" target="_blank">1998 Mercury Study Report to Congress</a>  <a href="../../wp-content/uploads/2022/09/volume1.pdf">[4-page Overview of Executive Summary]</a></p>
+<p>1998 Mercury Study Report to Congress [\[Publisher\]](https://www.epa.gov/mercury/mercury-study-report-congress) [\[4-page Overview of Executive Summary\]](../../wp-content/uploads/2022/09/volume1.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

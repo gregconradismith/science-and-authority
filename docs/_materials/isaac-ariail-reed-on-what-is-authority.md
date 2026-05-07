@@ -7,7 +7,7 @@ permalink: "/pages/isaac-ariail-reed-on-what-is-authority/"
 render_with_liquid: false
 ---
 <!-- wp:paragraph -->
-<p><strong><a href="https://isaacreed.net/about-and-contact/">Isaac Ariail Reed</a></strong>'s course <em>What Is Authority?</em> - part of the `engagements curriculum' at University of Virginia - was recorded during the COVID 19 pandemic.  The audio and partial transcripts are available to <em>Science &amp; Authority</em> students through the courtesy of Professor Reed.  Do not distribute.  </p>
+<p>**Isaac Ariail Reed [\[Publisher\]](https://isaacreed.net/about-and-contact/)**'s course *What Is Authority?* - part of the `engagements curriculum' at University of Virginia - was recorded during the COVID 19 pandemic. The audio and partial transcripts are available to *Science & Authority* students through the courtesy of Professor Reed. Do not distribute.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->

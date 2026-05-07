@@ -16,7 +16,7 @@ render_with_liquid: false
 
 <!-- wp:list {"type":"wp-embed"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read <em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels.  <a href="../../wp-content/uploads/2022/09/michaelsmanufactureduncertainty.pdf">[PDF]</a> <a href="../readings/">[Readings]</a>  This is Chapter 4 of Proctor, R. N., &amp; Schiebinger, L. (2008). <em>Agnotology: The making and unmaking of ignorance.</em> Stanford University Press.</li>
+<li>Read *Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment* by David Michaels. [\[PDF\]](../../wp-content/uploads/2022/09/michaelsmanufactureduncertainty.pdf) [\[Readings\]](../readings/) This is Chapter 4 of Proctor, R. N., & Schiebinger, L. (2008). *Agnotology: The making and unmaking of ignorance.* Stanford University Press.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -91,7 +91,7 @@ render_with_liquid: false
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards.&nbsp;<em>International Journal of Occupational and Environmental Health</em>,&nbsp;<em>22</em>(4), 269-273. <a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/" target="_blank">[HTML]</a></p>
+<p>Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards. *International Journal of Occupational and Environmental Health*, *22*(4), 269-273. [\[HTML\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -115,7 +115,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The <a rel="noreferrer noopener" href="https://www.nsf.gov" target="_blank">National Science Foundation</a> informational web page on <a rel="noreferrer noopener" href="https://www.nsf.gov/policies/conflicts.jsp" target="_blank">Conflicts of Interest</a> begins as follows.</p>
+<p>The National Science Foundation [\[Publisher\]](https://www.nsf.gov) informational web page on Conflicts of Interest [\[Publisher\]](https://www.nsf.gov/policies/conflicts.jsp) begins as follows.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -171,21 +171,21 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>David Michaels (2008). <em>Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health</em>. Oxford University Press, Incorporated, 2008. <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196" target="_blank">[SWEM Online]</a></p>
+<p>David Michaels (2008). *Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health*. Oxford University Press, Incorporated, 2008. [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><em><a rel="noreferrer noopener" href="https://www.hup.harvard.edu/catalog.php?isbn=9780674047143" target="_blank">Bending Science: How Special Interests Corrupt Public Health Research</a></em>&nbsp;by Thomas O. McGarity and Wendy Wagner. Cambridge: Harvard Univ. Press, 2008.</p>
+<p>*Bending Science: How Special Interests Corrupt Public Health Research [\[Publisher\]](https://www.hup.harvard.edu/catalog.php?isbn=9780674047143)* by Thomas O. McGarity and Wendy Wagner. Cambridge: Harvard Univ. Press, 2008.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Michaels, D. (2005). Doubt is their product: industry groups are fighting government regulation by formenting scientific uncertainty.&nbsp;<em>Scientific American</em>,&nbsp;<em>292</em>(6). <a rel="noreferrer noopener" href="https://www.scientificamerican.com/article/doubt-is-their-product/" target="_blank">[PDF] </a></p>
+<p>Michaels, D. (2005). Doubt is their product: industry groups are fighting government regulation by formenting scientific uncertainty. *Scientific American*, *292*(6). [\[PDF\]](https://www.scientificamerican.com/article/doubt-is-their-product/)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you are interested in pursuing the <a href="https://en.wikipedia.org/wiki/Beryllium">Beryllium</a> story further, read "Defending the Taxicab Standard," which is Chapter 11 (pp 124-141) of <em><a rel="noreferrer noopener" href="https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&amp;lang=en&amp;" target="_blank">Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health</a></em> by David Michaels. Oxford University Press, Incorporated, 2008. <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196" target="_blank">[SWEM Online]</a></p>
+<p>If you are interested in pursuing the Beryllium [\[Publisher\]](https://en.wikipedia.org/wiki/Beryllium) story further, read "Defending the Taxicab Standard," which is Chapter 11 (pp 124-141) of *Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health [\[Publisher\]](https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&lang=en&)* by David Michaels. Oxford University Press, Incorporated, 2008. [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Read <a href="https://law.utexas.edu/faculty/david-e-adelman" target="_blank" rel="noreferrer noopener">David E. Adelman</a>'s review of <em>Bending Science</em> that was published in Perspectives in Biology and Medicine, Volume 52, Number 3, Summer 2009, pp. 464-469. <a href="../readings/">[Readings]</a>. The book <em><a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674047143" target="_blank" rel="noreferrer noopener">Bending Science: How Special Interests Corrupt Public Health Research</a></em> by Thomas O. McGarity and Wendy Wagner was published by Harvard University Press in 2008. </p>
+<p>Read David E. Adelman [\[Publisher\]](https://law.utexas.edu/faculty/david-e-adelman)'s review of *Bending Science* that was published in Perspectives in Biology and Medicine, Volume 52, Number 3, Summer 2009, pp. 464-469. [\[Readings\]](../readings/). The book *Bending Science: How Special Interests Corrupt Public Health Research [\[Publisher\]](https://www.hup.harvard.edu/catalog.php?isbn=9780674047143)* by Thomas O. McGarity and Wendy Wagner was published by Harvard University Press in 2008.</p>
 <!-- /wp:paragraph -->

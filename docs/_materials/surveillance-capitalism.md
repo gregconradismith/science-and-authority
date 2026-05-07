@@ -38,7 +38,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>If you have access to Netflix, consider watching the documentary "<strong><a href="https://en.wikipedia.org/wiki/The_Social_Dilemma" target="_blank" rel="noreferrer noopener">The Social Dilemma</a></strong>" (the trailer is below).</li>
+<li>If you have access to Netflix, consider watching the documentary "**The Social Dilemma [\[Publisher\]](https://en.wikipedia.org/wiki/The_Social_Dilemma)**" (the trailer is below).</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -77,5 +77,5 @@ https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1541758005
 <!-- /wp:embed -->
 
 <!-- wp:paragraph -->
-<p>Matlack, S. (2014). <a href="https://www.thenewatlantis.com/publications/confronting-the-technological-society">Confronting the technological society.</a> <em>The New Atlantis</em>, 45-64. William &amp; Mary students should be able to access this <a href="https://proxy.wm.edu/login?url=https://www.jstor.org/stable/pdf/43551405.pdf">[PDF]</a>.</p>
+<p>Matlack, S. (2014). Confronting the technological society. [\[Publisher\]](https://www.thenewatlantis.com/publications/confronting-the-technological-society) *The New Atlantis*, 45-64. William & Mary students should be able to access this [\[PDF\]](https://proxy.wm.edu/login?url=https://www.jstor.org/stable/pdf/43551405.pdf).</p>
 <!-- /wp:paragraph -->

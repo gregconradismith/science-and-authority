@@ -26,13 +26,13 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read Anderson, C. (2008). <strong>The end of theory: The data deluge makes the scientific method obsolete.</strong> Wired magazine, 16(7), 16-07. <a rel="noreferrer noopener" href="https://www.wired.com/2008/06/pb-theory/" target="_blank">[Online]</a> </li>
+<li>Read Anderson, C. (2008). **The end of theory: The data deluge makes the scientific method obsolete.** Wired magazine, 16(7), 16-07. [\[Online\]](https://www.wired.com/2008/06/pb-theory/)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Jurgenson, N. (2014). <strong>View from nowhere: on the cultural ideology of big data.</strong>&nbsp;<em>The New Inquiry</em>,&nbsp;<em>9</em>. <a rel="noreferrer noopener" href="https://thenewinquiry.com/view-from-nowhere/" target="_blank">[Online]</a></li>
+<li>Jurgenson, N. (2014). **View from nowhere: on the cultural ideology of big data.** *The New Inquiry*, *9*. [\[Online\]](https://thenewinquiry.com/view-from-nowhere/)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -134,19 +134,19 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>The Philosophy of Data - 2013 Feb 4 <a href="https://www.nytimes.com/2013/02/05/opinion/brooks-the-philosophy-of-data.html?smid=url-share" target="_blank" rel="noreferrer noopener">[Online]</a> </li>
+<li>The Philosophy of Data - 2013 Feb 4 [\[Online\]](https://www.nytimes.com/2013/02/05/opinion/brooks-the-philosophy-of-data.html?smid=url-share)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Death by Data - 2014 November 3 <a href="https://www.nytimes.com/2014/11/04/opinion/david-brooks-death-by-data.html?smid=url-share">[Online]</a></li>
+<li>Death by Data - 2014 November 3 [\[Online\]](https://www.nytimes.com/2014/11/04/opinion/david-brooks-death-by-data.html?smid=url-share)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>What Data Can't Do - 2013 Feb 18 <a href="https://www.nytimes.com/2013/02/19/opinion/brooks-what-data-cant-do.html?smid=url-share" target="_blank" rel="noreferrer noopener">[Online]</a></li>
+<li>What Data Can't Do - 2013 Feb 18 [\[Online\]](https://www.nytimes.com/2013/02/19/opinion/brooks-what-data-cant-do.html?smid=url-share)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>What You'll Do Next - 2013 April 15. <a href="https://www.nytimes.com/2013/04/16/opinion/brooks-what-youll-do-next.html?smid=url-share">[Online]</a></li>
+<li>What You'll Do Next - 2013 April 15. [\[Online\]](https://www.nytimes.com/2013/04/16/opinion/brooks-what-youll-do-next.html?smid=url-share)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -155,7 +155,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Thurston, W. P. (1994). On proof and progress in mathematics.&nbsp;<em>Bulletin of the American mathematical Society</em>,&nbsp;<em>30</em>(2), 161-177. <a href="https://www.math.toronto.edu/mccann/199/thurston.pdf" target="_blank" rel="noreferrer noopener">[PDF]</a></p>
+<p>Thurston, W. P. (1994). On proof and progress in mathematics. *Bulletin of the American mathematical Society*, *30*(2), 161-177. [\[PDF\]](https://www.math.toronto.edu/mccann/199/thurston.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

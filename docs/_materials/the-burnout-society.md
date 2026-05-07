@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">Watch this video in which <a href="https://www.ellieandersonphd.com">Prof. Ellie Anderson</a> (Pomona College, Los Angeles) discusses <em><a href="https://www.sup.org/books/title/?id=25725">The Burnout Society</a></em>, an essay by Continental philosopher <a href="https://en.wikipedia.org/wiki/Byung-Chul_Han">Byung-Chul Han</a> (University of the Arts, Berlin), who has  become one of the most widely read philosophers in Europe and beyond.  </p>
+<p class="has-text-align-left">Watch this video in which Prof. Ellie Anderson [\[Publisher\]](https://www.ellieandersonphd.com) (Pomona College, Los Angeles) discusses *The Burnout Society [\[Publisher\]](https://www.sup.org/books/title/?id=25725)*, an essay by Continental philosopher Byung-Chul Han [\[Publisher\]](https://en.wikipedia.org/wiki/Byung-Chul_Han) (University of the Arts, Berlin), who has become one of the most widely read philosophers in Europe and beyond.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -65,7 +65,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Neckel, S., Schaffner, A. K., &amp; Wagner, G. (Eds.). (2017). Burnout, fatigue, exhaustion: An interdisciplinary perspective on a modern affliction. Springer. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/oaj29m/alma991032970183903196">[Online via SWEM]</a></p>
+<p>Neckel, S., Schaffner, A. K., & Wagner, G. (Eds.). (2017). Burnout, fatigue, exhaustion: An interdisciplinary perspective on a modern affliction. Springer. [\[Online via SWEM\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/oaj29m/alma991032970183903196)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -77,7 +77,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ehrenberg, A. (2009). Weariness of the self: Diagnosing the history of depression in the contemporary age. McGill-Queen's Press-MQUP. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033119415003196">[Online via SWEM]</a></p>
+<p>Ehrenberg, A. (2009). Weariness of the self: Diagnosing the history of depression in the contemporary age. McGill-Queen's Press-MQUP. [\[Online via SWEM\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033119415003196)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

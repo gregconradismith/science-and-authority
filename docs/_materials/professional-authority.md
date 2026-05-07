@@ -24,13 +24,13 @@ render_with_liquid: false
 
 <!-- wp:list {"type":"wp-embed"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Listen to <a href="../isaac-ariail-reed-on-what-is-authority/"><em>What Is Authority?</em>&nbsp;– Isaac Ariail Reed – Lecture 2 – Professional Authority</a>. [40 min]</li>
+<li>Listen to *What Is Authority?* – Isaac Ariail Reed – Lecture 2 – Professional Authority [\[Page\]](../isaac-ariail-reed-on-what-is-authority/). [40 min]</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Watch <em><a href="../a-film-to-start-our-conversation-about-authority/">The Experimenter</a> </em>- a film directed by Michael Almereyda (Magnolia Pictures, 2015) about the American social psychologist <a href="https://en.wikipedia.org/wiki/Stanley_Milgram" target="_blank" rel="noreferrer noopener">Stanley Milgram</a>, best known for his controversial experiments on obedience at Yale in the 1960s. Available to W&amp;M students through <a href="https://proxy.wm.edu/login?url=https://wm.kanopy.com/video/experimenter-0">SWEM Kanopy</a>. [1 hr 50 min]</li>
+<li>Watch *The Experimenter [\[Page\]](../a-film-to-start-our-conversation-about-authority/) *- a film directed by Michael Almereyda (Magnolia Pictures, 2015) about the American social psychologist Stanley Milgram [\[Publisher\]](https://en.wikipedia.org/wiki/Stanley_Milgram), best known for his controversial experiments on obedience at Yale in the 1960s. Available to W&M students through SWEM Kanopy [\[Video\]](https://proxy.wm.edu/login?url=https://wm.kanopy.com/video/experimenter-0). [1 hr 50 min]</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -55,7 +55,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>There is a scene in the <em><a href="../a-film-to-start-our-conversation-about-authority/">The Experimenter</a> </em>where an <strong>elephant</strong> follows Milgram down the hallway while he delivers an aside to the audience about the importance of the Holocaust to his work. "As Milgram notes here, the experiment wrapped up in 1962, just days before the execution of Adolf Eichmann, the Nazi official whose capture by Mossad and televised trial in Israel helped snap the West’s myopia about the Holocaust. It also allowed Hannah Arendt, describing Eichmann’s `I was just doing my job' bureaucratic blandness, to introduce `the banality of evil' into the world’s moral conversation." (<a href="https://www.popmatters.com/author/chris_barsanti" target="_blank" rel="noreferrer noopener">Chris Barsanti</a>, <a href="https://www.popmatters.com/196662-the-banality-of-evil-in-experimenter-2495493923.html" target="_blank" rel="noreferrer noopener">The Banality of Evil in the Experimenter</a>, <a href="https://www.popmatters.com" target="_blank" rel="noreferrer noopener">Popmatters</a>)</p>
+<p>There is a scene in the *The Experimenter [\[Page\]](../a-film-to-start-our-conversation-about-authority/) *where an **elephant** follows Milgram down the hallway while he delivers an aside to the audience about the importance of the Holocaust to his work. "As Milgram notes here, the experiment wrapped up in 1962, just days before the execution of Adolf Eichmann, the Nazi official whose capture by Mossad and televised trial in Israel helped snap the West’s myopia about the Holocaust. It also allowed Hannah Arendt, describing Eichmann’s `I was just doing my job' bureaucratic blandness, to introduce `the banality of evil' into the world’s moral conversation." (Chris Barsanti [\[Publisher\]](https://www.popmatters.com/author/chris_barsanti), The Banality of Evil in the Experimenter [\[Publisher\]](https://www.popmatters.com/196662-the-banality-of-evil-in-experimenter-2495493923.html), Popmatters [\[Publisher\]](https://www.popmatters.com))</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

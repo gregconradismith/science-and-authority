@@ -15,7 +15,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Other possible deliverables include: in-depth podcast on your topic, contributions to the course blog, or .... the sky is the limit. If you are short of ideas, consider looking through the Science &amp; Authority <a href="../readings/">Readings</a> page and/or this <a href="https://a.co/2hVA4Wq">Book Ideas List</a>.</p>
+<p>Other possible deliverables include: in-depth podcast on your topic, contributions to the course blog, or .... the sky is the limit. If you are short of ideas, consider looking through the Science & Authority Readings [\[Readings\]](../readings/) page and/or this Book Ideas List [\[Publisher\]](https://a.co/2hVA4Wq).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -40,19 +40,19 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://libcal.swem.wm.edu/appointments/wm-libraries">Research librarians are available by appointment</a>&nbsp;every weekday to meet with you via Zoom or by telephone to discuss ways in which the library can support their research project.</li>
+<li>Research librarians are available by appointment [\[Publisher\]](https://libcal.swem.wm.edu/appointments/wm-libraries) every weekday to meet with you via Zoom or by telephone to discuss ways in which the library can support their research project.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>A remote version of the library's research desk is also open (7 days a week) to take questions by&nbsp;<a href="https://libraries.wm.edu/forms/email-research-question">email</a>&nbsp;and&nbsp;<a href="https://libraries.wm.edu/contact/ask-librarian">chat</a>.</li>
+<li>A remote version of the library's research desk is also open (7 days a week) to take questions by email [\[Publisher\]](https://libraries.wm.edu/forms/email-research-question) and chat [\[Publisher\]](https://libraries.wm.edu/contact/ask-librarian).</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>With a W&amp;M username and password, all of the library's databases and electronic collections remain accessible to you. &nbsp;There is an option to&nbsp;<a href="https://libraries.wm.edu/null?qt-quicktabs_primo_search=1#qt-quicktabs_primo_search">search in Primo for only electronically-available items</a>.</li>
+<li>With a W&M username and password, all of the library's databases and electronic collections remain accessible to you. There is an option to search in Primo for only electronically-available items [\[Publisher\]](https://libraries.wm.edu/null?qt-quicktabs_primo_search=1#qt-quicktabs_primo_search).</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://libraries.wm.edu/libraries/departments/interlibrary-loan">Swem Library's Interlibrary Loan service</a>&nbsp;continues to take requests for electronically-available materials.</li>
+<li>Swem Library's Interlibrary Loan service [\[Publisher\]](https://libraries.wm.edu/libraries/departments/interlibrary-loan) continues to take requests for electronically-available materials.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

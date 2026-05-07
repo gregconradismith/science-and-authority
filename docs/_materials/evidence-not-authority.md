@@ -12,11 +12,11 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read the first part of <em>The Universal Solvent (A Matter of Money, Selling Health)</em>, pp. 128-162 of <em>Making Sense of Science: Separating Substance from Spin</em> by Cornelia Dean (2017, Harvard University Press). [<a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991032884831303196">SWEM Online</a>] <a href="../../wp-content/uploads/2023/10/making_sense_of_science_ch4_the_universal_solvent.pdf">[PDF]</a></li>
+<li>Read the first part of *The Universal Solvent (A Matter of Money, Selling Health)*, pp. 128-162 of *Making Sense of Science: Separating Substance from Spin* by Cornelia Dean (2017, Harvard University Press). [SWEM Online [\[SWEM\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991032884831303196)] [\[PDF\]](../../wp-content/uploads/2023/10/making_sense_of_science_ch4_the_universal_solvent.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read the blog page <a href="../what-our-case-studies-reveal/">What Our Case Studies Reveal</a> (some thoughts of mine as we finish the unit).</li>
+<li>Read the blog page What Our Case Studies Reveal [\[Page\]](../what-our-case-studies-reveal/) (some thoughts of mine as we finish the unit).</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

@@ -24,17 +24,17 @@ render_with_liquid: false
 
 <!-- wp:list {"type":"wp-embed"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Listen to <a href="../isaac-ariail-reed-on-what-is-authority/">Isaac Ariail Reed – Lecture 5 – <em>Kafka and ambivalence towards authority</em></a>. [40 min]</li>
+<li>Listen to Isaac Ariail Reed – Lecture 5 – *Kafka and ambivalence towards authority* [\[Page\]](../isaac-ariail-reed-on-what-is-authority/). [40 min]</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
 <li>Read these two short parables by Franz Kafka AND watch the videos below.<!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Before the Law <a href="../../wp-content/uploads/2022/09/kafka-before-the-law-1.pdf">[PDF]</a>. [10 min ]</li>
+<li>Before the Law [\[PDF\]](../../wp-content/uploads/2022/09/kafka-before-the-law-1.pdf). [10 min ]</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>A Message from the Emperor <a href="../../wp-content/uploads/2022/09/kafka-a-message-from-the-emperor.pdf">[PDF]</a>. [10 min]</li>
+<li>A Message from the Emperor [\[PDF\]](../../wp-content/uploads/2022/09/kafka-a-message-from-the-emperor.pdf). [10 min]</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></li>
 <!-- /wp:list-item -->

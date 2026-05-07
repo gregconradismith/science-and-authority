@@ -28,11 +28,11 @@ render_with_liquid: false
 
 <!-- wp:list {"type":"wp-embed"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Sign up to receive emails when I post to the course blog. Click <a href="https://scienceauthority.wordpress.com">Home</a> to see posts. You will see the place to enter your email at the top of rightmost column.</li>
+<li>Sign up to receive emails when I post to the course blog. Click Home [\[Publisher\]](https://scienceauthority.wordpress.com) to see posts. You will see the place to enter your email at the top of rightmost column.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Add a page on this <a href="https://docs.google.com/presentation/d/1azgRyAcujM03HR23HB3_LUIpT17QoLvOPiLQXafH1KY/edit?usp=sharing"><em><strong>Names &amp; Faces</strong></em> Google doc</a>. Be creative!</li>
+<li>Add a page on this ***Names & Faces*** Google doc [\[Publisher\]](https://docs.google.com/presentation/d/1azgRyAcujM03HR23HB3_LUIpT17QoLvOPiLQXafH1KY/edit?usp=sharing). Be creative!</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -46,15 +46,15 @@ render_with_liquid: false
 
 <!-- wp:list {"type":"wp-embed"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>If you have not already done so, read the blog page <a href="../introduction-to-science-and-authority/"><strong>Introduction to Science &amp; Authority</strong></a> [10 min.]</li>
+<li>If you have not already done so, read the blog page **Introduction to Science & Authority** [\[Page\]](../introduction-to-science-and-authority/) [10 min.]</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read or listen to <em><strong><a href="../what-is-authority-2/">Introductory Thoughts on the Distinction Between Power and Authority</a></strong> </em>by sociologist <strong>Isaac Ariail Reed</strong>. [30 min.]</li>
+<li>Read or listen to ***Introductory Thoughts on the Distinction Between Power and Authority [\[Page\]](../what-is-authority-2/)** *by sociologist **Isaac Ariail Reed**. [30 min.]</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read <strong><em>What is Authority</em>?</strong> - an excerpt from chapter 1 (<em>Fear of Authority</em>) in <strong>Richard Sennet</strong>t's book <em>Authority</em>. <span style="text-decoration:underline">Our focus is pages 16-23.</span> [45 min.] See the <a href="../spring-2026-calendar/">Spring 2026 Calendar</a> for the PDF.</li>
+<li>Read ***What is Authority*?** - an excerpt from chapter 1 (*Fear of Authority*) in **Richard Sennet**t's book *Authority*. Our focus is pages 16-23. [45 min.] See the Spring 2026 Calendar [\[Page\]](../spring-2026-calendar/) for the PDF.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -95,7 +95,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"textAlign":"left"}}} -->
-<p class="has-text-align-left">Both Sennett and Reed define terms by making distinction between <strong>authority</strong> and <strong>powe</strong>r.  Both also mention the<strong> <a href="https://courses.lumenlearning.com/wm-introductiontosociology/chapter/types-of-authority/">three types of authority</a></strong>&nbsp;(recommended reading) outlined by <a href="https://en.wikipedia.org/wiki/Max_Weber">Max Weber</a> in <em>Politics as a Vocation</em>:</p>
+<p class="has-text-align-left">Both Sennett and Reed define terms by making distinction between **authority** and **powe**r. Both also mention the** three types of authority [\[Publisher\]](https://courses.lumenlearning.com/wm-introductiontosociology/chapter/types-of-authority/)** (recommended reading) outlined by Max Weber [\[Publisher\]](https://en.wikipedia.org/wiki/Max_Weber) in *Politics as a Vocation*:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

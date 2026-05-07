@@ -22,7 +22,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Watch <a href="../that-old-lie-the-the-majority-is-always-right/">An Enemy of The People</a> - the 1978 film directed by <a href="https://en.wikipedia.org/wiki/George_Schaefer_(director)">George Schaefer</a> based on <a href="https://en.wikipedia.org/wiki/Arthur_Miller">Arthur Miller</a>'s 1950 adaptation of <a href="https://en.wikipedia.org/wiki/Henrik_Ibsen">Henrik Ibsen</a>'s 1882 play. <a href="https://digitalcampus.swankmp.net/wm355165/watch/401CDDC136E00DBD">[Video]</a> </li>
+<li>Watch An Enemy of The People [\[Page\]](../that-old-lie-the-the-majority-is-always-right/) - the 1978 film directed by George Schaefer [\[Publisher\]](https://en.wikipedia.org/wiki/George_Schaefer_(director)) based on Arthur Miller [\[Publisher\]](https://en.wikipedia.org/wiki/Arthur_Miller)'s 1950 adaptation of Henrik Ibsen [\[Publisher\]](https://en.wikipedia.org/wiki/Henrik_Ibsen)'s 1882 play. [\[Video\]](https://digitalcampus.swankmp.net/wm355165/watch/401CDDC136E00DBD)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -103,7 +103,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Watch <a href="https://youtu.be/-LLmP-y6O6s?si=OmIDiA8D3Tsb7nzI">An Enemy of The People</a> - a 1980 film made for TV by the BBC, based on <a href="https://en.wikipedia.org/wiki/Henrik_Ibsen">Henrik Ibsen</a>'s 1882 play. [80 min.]</p>
+<p>Watch An Enemy of The People [\[Video\]](https://youtu.be/-LLmP-y6O6s?si=OmIDiA8D3Tsb7nzI) - a 1980 film made for TV by the BBC, based on Henrik Ibsen [\[Publisher\]](https://en.wikipedia.org/wiki/Henrik_Ibsen)'s 1882 play. [80 min.]</p>
 <!-- /wp:paragraph -->
 
 <div class="embed-youtube">

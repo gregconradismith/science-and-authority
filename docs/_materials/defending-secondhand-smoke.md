@@ -12,15 +12,15 @@ render_with_liquid: false
 
 <!-- wp:list {"type":"wp-embed"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Watch the 1996 "<strong><a href="https://youtu.be/1_-Vu8LrUDk?si=umlwn5lBs23HYLzf">60 Minutes Rewind</a></strong>" episode on the big tobacco whistleblower Jefferey Wigan (see below) [30 min.] </li>
+<li>Watch the 1996 "**60 Minutes Rewind [\[Video\]](https://youtu.be/1_-Vu8LrUDk?si=umlwn5lBs23HYLzf)**" episode on the big tobacco whistleblower Jefferey Wigan (see below) [30 min.]</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read "Defending Secondhand Smoke," which is Chapter 7 (pp 79-90) of <em><a href="https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&amp;lang=en&amp;" target="_blank" rel="noreferrer noopener">Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health</a></em> by David Michaels. Oxford University Press, Incorporated, 2008. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196" target="_blank" rel="noreferrer noopener">[SWEM Online]</a></li>
+<li>Read "Defending Secondhand Smoke," which is Chapter 7 (pp 79-90) of *Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health [\[Publisher\]](https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&lang=en&)* by David Michaels. Oxford University Press, Incorporated, 2008. [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Watch<em><strong> <a href="https://youtu.be/OdUI_0mIkec?si=UIbwodEBHbm_hnJc">The Insider</a></strong></em> (see below), a 1999 American&nbsp;drama film&nbsp;directed by&nbsp;Michael Mann, from a screenplay adapted by&nbsp;Eric Roth&nbsp;and Mann from&nbsp;Marie Brenner's 1996&nbsp;<em>Vanity Fair</em>&nbsp;article "The Man Who Knew Too Much". It stars&nbsp;Al Pacino&nbsp;and&nbsp;Russell Crowe, with supporting actors including&nbsp;Christopher Plummer,&nbsp;Bruce McGill,&nbsp;Diane Venora,&nbsp;and&nbsp;Michael Gambon.</li>
+<li>Watch*** The Insider [\[Video\]](https://youtu.be/OdUI_0mIkec?si=UIbwodEBHbm_hnJc)*** (see below), a 1999 American drama film directed by Michael Mann, from a screenplay adapted by Eric Roth and Mann from Marie Brenner's 1996 *Vanity Fair* article "The Man Who Knew Too Much". It stars Al Pacino and Russell Crowe, with supporting actors including Christopher Plummer, Bruce McGill, Diane Venora, and Michael Gambon.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -77,7 +77,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:image {"id":4920,"sizeSlug":"large","linkDestination":"none","align":"center","className":"is-resized"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="../../wp-content/uploads/2022/09/fundingeffect-e1664406237875.jpg" alt="" class="wp-image-4920" /><figcaption class="wp-element-caption">Barnes, D. E., &amp; Bero, L. A. (1998). Why review articles on the health effects of passive smoking reach different conclusions.&nbsp;<em>JAMA</em>,&nbsp;<em>279</em>(19), 1566-1570. <a rel="noreferrer noopener" href="https://jamanetwork.com/journals/jama/article-abstract/187551" target="_blank">[HTML]</a></figcaption></figure>
+Barnes, D. E., & Bero, L. A. (1998). Why review articles on the health effects of passive smoking reach different conclusions. *JAMA*, *279*(19), 1566-1570. [\[HTML\]](https://jamanetwork.com/journals/jama/article-abstract/187551)
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -119,15 +119,15 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>David Michaels (2008). <em>Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health</em>. Oxford University Press, Incorporated, 2008. <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196" target="_blank">[SWEM Online]</a></p>
+<p>David Michaels (2008). *Doubt Is Their Product : How Industry's Assault on Science Threatens Your Health*. Oxford University Press, Incorporated, 2008. [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Read the first 3 paragraphs (pp. 269-70) of Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards.&nbsp;<em>International Journal of Occupational and Environmental Health</em>,&nbsp;<em>22</em>(4), 269-273.&nbsp;<a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/" target="_blank">[HTML]</a></p>
+<p>Read the first 3 paragraphs (pp. 269-70) of Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards. *International Journal of Occupational and Environmental Health*, *22*(4), 269-273. [\[HTML\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you have not done so already, read the blog page <a href="../manufactured-uncertainty-and-product-defense/">Manufacturing Uncertainty and Product Defense</a>, in particular, the quotes from Stephen Bocking's <em>Skewing Science</em> and the overview of our class discussion. </p>
+<p>If you have not done so already, read the blog page Manufacturing Uncertainty and Product Defense [\[Page\]](../manufactured-uncertainty-and-product-defense/), in particular, the quotes from Stephen Bocking's *Skewing Science* and the overview of our class discussion.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->

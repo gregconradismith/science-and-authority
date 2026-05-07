@@ -20,13 +20,13 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Watch <em><a href="../selling-sickness-2/"><strong>Selling Sickness</strong></a></em> by Fiske and Scott (2004), a film that exposes the unhealthy relationship between society, medical science and the pharmaceutical industry. [1 hr.] <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033646590603196">[SWEM Online]</a> <a href="https://docuseek2-com.proxy.wm.edu/v/a/nrP4/1/0/0">[Docuseek]</a> </li>
+<li>Watch ***Selling Sickness** [\[Page\]](../selling-sickness-2/)* by Fiske and Scott (2004), a film that exposes the unhealthy relationship between society, medical science and the pharmaceutical industry. [1 hr.] [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033646590603196) [\[Docuseek\]](https://docuseek2-com.proxy.wm.edu/v/a/nrP4/1/0/0)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Optional: Listen to<strong> <a href="https://open.spotify.com/episode/5gs9EP8Y9t4j0CHriZa0e0" target="_blank" rel="noreferrer noopener"><em>Does the DSM Need a Rethink</em></a></strong><a href="https://open.spotify.com/episode/5gs9EP8Y9t4j0CHriZa0e0" target="_blank" rel="noreferrer noopener"> [Part 1, Episode 6 on Spotify]</a> from the <em><a href="https://open.spotify.com/show/7vfadPkNEvvycWS2FTxXuO" target="_blank" rel="noreferrer noopener">Expanding Brain Podscast</a></em> hosted by William &amp; Mary alum <a href="https://workbyakshata.wordpress.com" target="_blank" rel="noreferrer noopener">Akshata Pisharody</a> (<a href="https://mobile.twitter.com/artbyakshata" target="_blank" rel="noreferrer noopener">@artbyakshata</a>), now a <a href="https://math.wustl.edu/people/akshata-pisharody" target="_blank" rel="noreferrer noopener">Ph.D. student</a> in Mathematics and Statistics at Washington University in St. Louis. [70 min.]</li>
+<li>Optional: Listen to** *Does the DSM Need a Rethink* [\[Audio\]](https://open.spotify.com/episode/5gs9EP8Y9t4j0CHriZa0e0)**[\[Part 1, Episode 6 on Spotify\]](https://open.spotify.com/episode/5gs9EP8Y9t4j0CHriZa0e0) from the *Expanding Brain Podscast [\[Audio\]](https://open.spotify.com/show/7vfadPkNEvvycWS2FTxXuO)* hosted by William & Mary alum Akshata Pisharody [\[Publisher\]](https://workbyakshata.wordpress.com) (@artbyakshata [\[Publisher\]](https://mobile.twitter.com/artbyakshata)), now a Ph.D. student [\[Publisher\]](https://math.wustl.edu/people/akshata-pisharody) in Mathematics and Statistics at Washington University in St. Louis. [70 min.]</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -39,7 +39,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Frances, A. (2013). The new crisis of confidence in psychiatric diagnosis.&nbsp;<em>Annals of Internal Medicine</em>,&nbsp;<em>159</em>(10), 720. <a href="../readings/">[Readings]</a></p>
+<p>Frances, A. (2013). The new crisis of confidence in psychiatric diagnosis. *Annals of Internal Medicine*, *159*(10), 720. [\[Readings\]](../readings/)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

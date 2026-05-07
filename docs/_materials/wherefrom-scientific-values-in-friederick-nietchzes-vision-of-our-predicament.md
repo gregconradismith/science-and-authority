@@ -24,11 +24,11 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read The Normative Structure of Science by Robert K. Merton. <a href="../../wp-content/uploads/2022/09/merton-normative-structure-of-science.pdf">[PDF]</a></li>
+<li>Read The Normative Structure of Science by Robert K. Merton. [\[PDF\]](../../wp-content/uploads/2022/09/merton-normative-structure-of-science.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Watch <a href="https://youtu.be/vzcD-LCKuNs">Genius of the Modern World - Friedrich Nietzsche</a>, a documentary presented by Bettany Hughes. [1 hr]</li>
+<li>Watch Genius of the Modern World - Friedrich Nietzsche [\[Video\]](https://youtu.be/vzcD-LCKuNs), a documentary presented by Bettany Hughes. [1 hr]</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

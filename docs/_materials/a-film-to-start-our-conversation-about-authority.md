@@ -20,7 +20,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://proxy.wm.edu/login?url=https://wm.kanopy.com/video/experimenter-0">[SWEM Kanopy]</a></p>
+<p>[\[SWEM Kanopy\]](https://proxy.wm.edu/login?url=https://wm.kanopy.com/video/experimenter-0)</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 

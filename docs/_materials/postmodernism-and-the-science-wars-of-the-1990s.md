@@ -12,13 +12,13 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read Johnathan Marks, <strong>Science as a culture and as a "side".</strong>  Ch. 1 in <em>Why I Am Not a Scientist: Anthropology and Modern Knowledge</em>. University of California Press, 2009, pp. 1-24.  <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196" target="_blank" rel="noreferrer noopener">[SWEM Online]</a> <a href="../../wp-content/uploads/2022/11/marks2009_why_i_am_not_a_scientist_ch1_scienceasacultureandaside.pdf">[PDF]</a></li>
+<li>Read Johnathan Marks, **Science as a culture and as a "side".** Ch. 1 in *Why I Am Not a Scientist: Anthropology and Modern Knowledge*. University of California Press, 2009, pp. 1-24. [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196) [\[PDF\]](../../wp-content/uploads/2022/11/marks2009_why_i_am_not_a_scientist_ch1_scienceasacultureandaside.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read Jop de Vrieze.  <strong>‘Science wars’ veteran has a new mission.  </strong><em>Science</em>.  358(6360):159, 2017. <a href="https://www.science.org/doi/full/10.1126/science.358.6360.159" target="_blank" rel="noreferrer noopener">[DOI]</a> <a href="../../wp-content/uploads/2026/03/sciencewarsveteranbrunolatour2017.pdf">[PDF]</a></li>
+<li>Read Jop de Vrieze. **‘Science wars’ veteran has a new mission. ***Science*. 358(6360):159, 2017. [\[DOI\]](https://www.science.org/doi/full/10.1126/science.358.6360.159) [\[PDF\]](../../wp-content/uploads/2026/03/sciencewarsveteranbrunolatour2017.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -31,7 +31,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.amazon.com/Why-I-Am-Not-Scientist/dp/0520259602/" target="_blank" rel="noreferrer noopener">Jonathan Marks (2009)</a> describes an episode in the <strong>science wars</strong> that illustrates the problem that arise when discussing the socially constructed aspects of scientific knowledge and meanings.</p>
+<p>Jonathan Marks (2009) [\[Amazon\]](https://www.amazon.com/Why-I-Am-Not-Scientist/dp/0520259602/) describes an episode in the **science wars** that illustrates the problem that arise when discussing the socially constructed aspects of scientific knowledge and meanings.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -169,19 +169,19 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Marks, J. (2009).&nbsp; <strong>Science as a Culture and as a "Side."</strong>  Ch. 1 in <em>Why I Am Not a Scientist: Anthropology and Modern Knowledge</em>. University of California Press. <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196" target="_blank">[SWEM Online]</a> </p>
+<p>Marks, J. (2009). **Science as a Culture and as a "Side."** Ch. 1 in *Why I Am Not a Scientist: Anthropology and Modern Knowledge*. University of California Press. [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Gould, S. J. (2000). Deconstructing the "science wars" by reconstructing an old mold.&nbsp;<em>Science</em>,&nbsp;<em>287</em>(5451), 253-261.  <a rel="noreferrer noopener" href="https://www.science.org/doi/10.1126/science.287.5451.253" target="_blank">[DOI]</a></p>
+<p>Gould, S. J. (2000). Deconstructing the "science wars" by reconstructing an old mold. *Science*, *287*(5451), 253-261. [\[DOI\]](https://www.science.org/doi/10.1126/science.287.5451.253)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Zuckerkandl, E. (2000). Social constructionism, a lost cause.&nbsp;<em>Journal of Molecular Evolution</em>,&nbsp;<em>51</em>(6), 517. <a href="https://www.proquest.com/docview/928738554" target="_blank" rel="noreferrer noopener">[ProQuest]</a></p>
+<p>Zuckerkandl, E. (2000). Social constructionism, a lost cause. *Journal of Molecular Evolution*, *51*(6), 517. [\[ProQuest\]](https://www.proquest.com/docview/928738554)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>De Vrieze, J. (2017). ‘Science wars’ veteran has a new mission. <a rel="noreferrer noopener" href="https://www.science.org/doi/full/10.1126/science.358.6360.159" target="_blank">[DOI]</a></p>
+<p>De Vrieze, J. (2017). ‘Science wars’ veteran has a new mission. [\[DOI\]](https://www.science.org/doi/full/10.1126/science.358.6360.159)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

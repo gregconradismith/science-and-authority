@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033577397803196" target="_blank" rel="noreferrer noopener">[SWEM Online]</a> <a href="https://video-alexanderstreet-com.proxy.wm.edu/watch/merchants-of-doubt?utm_campaign=Video&amp;utm_medium=MARC&amp;utm_source=aspresolver" target="_blank" rel="noreferrer noopener">[Alexander Street]</a></p>
+<p>[\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033577397803196) [\[Alexander Street\]](https://video-alexanderstreet-com.proxy.wm.edu/watch/merchants-of-doubt?utm_campaign=Video&utm_medium=MARC&utm_source=aspresolver)</p>
 <!-- /wp:paragraph -->
 
 <div class="embed-youtube">

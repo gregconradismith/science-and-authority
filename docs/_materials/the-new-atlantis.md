@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><em>The New Atlantis</em> was a utopian novel by <a href="https://en.wikipedia.org/wiki/Francis_Bacon">Sir Francis Bacon</a> that envisioned the <strong>modern research university</strong> and articulated the rationale for experimental science and its possibilities for <strong>improving the human condition</strong>.  Bacon's made use of the two-book distinction between <strong>Bible and Nature</strong> that marks the birth of the gap between the “<strong>two academic cultures</strong>,” the humanities and the sciences.&nbsp; </p>
+<p>*The New Atlantis* was a utopian novel by Sir Francis Bacon [\[Publisher\]](https://en.wikipedia.org/wiki/Francis_Bacon) that envisioned the **modern research university** and articulated the rationale for experimental science and its possibilities for **improving the human condition**. Bacon's made use of the two-book distinction between **Bible and Nature** that marks the birth of the gap between the “**two academic cultures**,” the humanities and the sciences.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -50,7 +50,7 @@ render_with_liquid: false
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>[<em>The New Atlantis</em>] was the first comprehensive articulation of the rationale for experimental science and its possibilities for improving the human condition through systematic study.&nbsp;&nbsp;... [Bacon] sent copies to [King] James and his advisers.&nbsp;&nbsp;Its closest modern equivalent is <a href="https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm">Science: The Endless Frontier</a>, crafted by the US engineer and science administrator&nbsp;<a href="https://en.wikipedia.org/wiki/Vannevar_Bush">Vannevar Bush</a>&nbsp;in 1945.&nbsp;... That report shaped US science policy for decades and provided part of the rationale for the creation of the <a rel="noreferrer noopener" href="https://www.nsf.gov" target="_blank">National Science Foundation</a>. A twenty-first-century revision updating the arguments for maintaining a diverse, extensive, and globally connected scientific infrastructure is badly needed. (Crease, p. 33)</p>
+<p>[*The New Atlantis*] was the first comprehensive articulation of the rationale for experimental science and its possibilities for improving the human condition through systematic study. ... [Bacon] sent copies to [King] James and his advisers. Its closest modern equivalent is Science: The Endless Frontier [\[Publisher\]](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm), crafted by the US engineer and science administrator Vannevar Bush [\[Publisher\]](https://en.wikipedia.org/wiki/Vannevar_Bush) in 1945. ... That report shaped US science policy for decades and provided part of the rationale for the creation of the National Science Foundation [\[Publisher\]](https://www.nsf.gov). A twenty-first-century revision updating the arguments for maintaining a diverse, extensive, and globally connected scientific infrastructure is badly needed. (Crease, p. 33)</p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -80,7 +80,7 @@ render_with_liquid: false
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>Francis Bacon’s works are pervaded by the firm belief that he was living in a new epoch ... based on knowledge and mechanical arts, which would permit dominion over nature. This dominion arises from mankind’s taking concrete action to improve the living conditions of humanity. ... [H]uman dominion over nature implies the necessity of improving the conditions of the whole mankind, in a manner that opens the way of thinking in which ‘backward’ peoples are subject to this action of improvement. Thus, colonialism is strictly related to the imperiality of human dominion over nature. (<a rel="noreferrer noopener" href="https://doi.org/10.1080/01916599.2018.1512282" target="_blank">Scalercio, <em>History of European Ideas</em>,&nbsp;<em>44</em>(8), 1076-1091, 2018</a>).</p>
+<p>Francis Bacon’s works are pervaded by the firm belief that he was living in a new epoch ... based on knowledge and mechanical arts, which would permit dominion over nature. This dominion arises from mankind’s taking concrete action to improve the living conditions of humanity. ... [H]uman dominion over nature implies the necessity of improving the conditions of the whole mankind, in a manner that opens the way of thinking in which ‘backward’ peoples are subject to this action of improvement. Thus, colonialism is strictly related to the imperiality of human dominion over nature. (Scalercio, *History of European Ideas*, *44*(8), 1076-1091, 2018 [\[DOI\]](https://doi.org/10.1080/01916599.2018.1512282)).</p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 

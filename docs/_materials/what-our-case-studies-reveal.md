@@ -23,7 +23,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In <em>Making Sense of Science</em> by Cornelia Dean, the chapter titled <em>The Universal Solvent</em> is about science and science funding (i.e., money is the univeral solvent).  The second half of the chapter focuses on medicine and human nutrition and the Food and Drug Administration does not fare very well in that context (e.g., the food pyramid).  I do not have a deep understanding of regulatory bodies such as the Food and Drug Administration, but I do know that the production and dissemination of accurate, science-based information that the public needs to make decisions about a healthy diet – this basic function of the FDA - has been criticized (<a href="https://www.amazon.com/dp/1400069807" target="_blank" rel="noreferrer noopener">Michael Moss, 2013. Salt Sugar Fat: How the Food Giants Hooked Us</a>). But, in defense of the FDA, as Michaels points out in his discussion of OSHA, federal agencies must continually make practical decisions about what can be accomplished with limited resources, and without taking actions that generate political blowback (e.g., from the agribusiness lobby).</p>
+<p>In *Making Sense of Science* by Cornelia Dean, the chapter titled *The Universal Solvent* is about science and science funding (i.e., money is the univeral solvent). The second half of the chapter focuses on medicine and human nutrition and the Food and Drug Administration does not fare very well in that context (e.g., the food pyramid). I do not have a deep understanding of regulatory bodies such as the Food and Drug Administration, but I do know that the production and dissemination of accurate, science-based information that the public needs to make decisions about a healthy diet – this basic function of the FDA - has been criticized (Michael Moss, 2013. Salt Sugar Fat: How the Food Giants Hooked Us [\[Amazon\]](https://www.amazon.com/dp/1400069807)). But, in defense of the FDA, as Michaels points out in his discussion of OSHA, federal agencies must continually make practical decisions about what can be accomplished with limited resources, and without taking actions that generate political blowback (e.g., from the agribusiness lobby).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -119,7 +119,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Douglas, Heather. Science, Policy, and the Value-Free Ideal, University of Pittsburgh Press, 2009.&nbsp;<a rel="noreferrer noopener" href="http://ebookcentral.proquest.com/lib/cwm/detail.action?docID=2038867" target="_blank">[SWEM Online]</a></p>
+<p>Douglas, Heather. Science, Policy, and the Value-Free Ideal, University of Pittsburgh Press, 2009. [\[SWEM Online\]](http://ebookcentral.proquest.com/lib/cwm/detail.action?docID=2038867)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
