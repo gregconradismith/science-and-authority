@@ -79,4 +79,3 @@ A bibliography of <a href="https://apsc450computationalneuroscience.wordpress.co
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/0ORHGa-vQp0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;

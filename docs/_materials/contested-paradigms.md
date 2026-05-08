@@ -6,14 +6,11 @@ slug: "contested-paradigms"
 permalink: "/pages/contested-paradigms/"
 render_with_liquid: false
 ---
-<!-- wp:paragraph -->
+
 <p>Scientific authority when scientists themselves disagree? Degenerating science and dead-end science.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
 <p>Readings from Thomas Kuhn. The Structure of Scientific Revolutions. University of Chicago Press, 4th edition, 2012.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
 <p>Readings from Imre Lakatos. Falsification and the methodology of scientific research programmes. In Can theories be refuted?, pages 205–259. Springer, 1976</p>
-<!-- /wp:paragraph -->

@@ -6,30 +6,25 @@ slug: "how-to-think"
 permalink: "/pages/how-to-think/"
 render_with_liquid: false
 ---
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
+
+<ul>
 <li>Make distinctions</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+</ul>
 
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
+
+<ul>
 <li>Read authoritative authors, then question.  The comma is important. </li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+</ul>
 
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
+
+<ul>
 <li>Admit your personal convictions.  Try to prove yourself wrong, or at least ask yourself what new information would be sufficient to change your mind.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+</ul>
 
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
+
+<ul>
 <li>Understanding is far more than being `correct.'  Topics, like people, need to be approached on their own terms, interrogated in a manner that is consistent with their nature</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+</ul>
 
-<!-- wp:paragraph -->
+
 <p>More to come!</p>
-<!-- /wp:paragraph -->

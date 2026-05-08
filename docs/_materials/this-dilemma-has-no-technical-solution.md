@@ -6,150 +6,110 @@ slug: "this-dilemma-has-no-technical-solution"
 permalink: "/pages/this-dilemma-has-no-technical-solution/"
 render_with_liquid: false
 ---
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
 <h2 class="wp-block-heading">Preparation</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"left"} -->
+
 <p class="has-text-align-left">Do the following <span style="font-size:revert;color:initial">prior to the next class</span>. </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248.<strong> </strong><a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">[</a><a href="../../wp-content/uploads/2024/10/hardin-1968-tragedy-of-the-commons.pdf">PDF</a><a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">]</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
 
-<!-- wp:paragraph -->
+<ul class="wp-block-list">
+<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">[</a><a href="../../wp-content/uploads/2024/10/hardin-1968-tragedy-of-the-commons.pdf">PDF</a><a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">]</a></li>
+</ul>
+
+
 <p> According to Google Scholar, this article has been cited over 50,000 times.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
 
-<!-- wp:pullquote -->
+
 <figure class="wp-block-pullquote"><blockquote><p><em>It is our considered professional judgment that this dilemma has no technical solution</em>. </p><cite>Wiesner &amp; York (1964)</cite></blockquote></figure>
-<!-- /wp:pullquote -->
 
-<!-- wp:separator -->
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
 
-<!-- wp:heading -->
+
 <h2 class="wp-block-heading">Discussion</h2>
-<!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
+
 <h3 class="wp-block-heading">From the Conclusion of <em>The Tragedy of the Commons </em></h3>
-<!-- /wp:heading -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>Perhaps the simplest summary of this analysis of man’s population problems is this: the commons, if justifiable at all, is justifiable only under conditions of low-population density. As the human population has increased, the commons has had to be abandoned in one aspect after another.&nbsp;</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>First we abandoned the commons in food gathering, enclosing farm land and restricting pastures and hunting and fishing areas. These restrictions are still not complete throughout the world.&nbsp;</p>
-<!-- /wp:paragraph -->
+<blockquote class="wp-block-quote">
+<p>Perhaps the simplest summary of this analysis of man’s population problems is this: the commons, if justifiable at all, is justifiable only under conditions of low-population density. As the human population has increased, the commons has had to be abandoned in one aspect after another. </p>
 
-<!-- wp:paragraph -->
-<p>Somewhat later we saw that the commons as a place for waste disposal would also have to be abandoned. Restrictions on the disposal of domestic sewage are widely accepted in the Western world; we are still struggling to close the commons to pollution by automobiles, factories, insecticide sprayers, fertilizing operations, and atomic energy installations.&nbsp;</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>In a still more embryonic state is our recognition of the evils of the commons in matters of pleasure. ... The shopping public is assaulted with mindless music, without its consent. ... Advertisers muddy the airwaves of radio and television and pollute the view of travelers. We are a long way from outlawing the commons in matters of pleasure.&nbsp;</p>
-<!-- /wp:paragraph -->
+<p>First we abandoned the commons in food gathering, enclosing farm land and restricting pastures and hunting and fishing areas. These restrictions are still not complete throughout the world. </p>
 
-<!-- wp:paragraph -->
-<p>Every new enclosure of the commons involves the infringement of somebody’s personal liberty. Infringements made in the distant past are accepted because no contemporary complains of a loss. It is the newly proposed infringements that we vigorously oppose; cries of “rights” and “freedom” fill the air.&nbsp;</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>But what does “freedom” mean? When men mutually agreed to pass laws against robbing, mankind became more free, not less so. Individuals locked into the logic of the commons are free only to bring on universal ruin; once they see the necessity of mutual coercion, they become free to pursue other goals. I believe it was Hegel who said, “Freedom is the recognition of necessity.”&nbsp;</p>
-<!-- /wp:paragraph -->
+<p>Somewhat later we saw that the commons as a place for waste disposal would also have to be abandoned. Restrictions on the disposal of domestic sewage are widely accepted in the Western world; we are still struggling to close the commons to pollution by automobiles, factories, insecticide sprayers, fertilizing operations, and atomic energy installations. </p>
 
-<!-- wp:paragraph -->
-<p>The most important aspect of necessity that we must now recognize, is the necessity of abandoning the commons in breeding. No technical solution can rescue us from the misery of overpopulation. Freedom to breed will bring ruin to all. At the moment, to avoid hard decisions many of us are tempted to propagandize for conscience and responsible parenthood. The temptation must be resisted, because an appeal to independently acting consciences selects for the disappearance of all conscience in the long run, and an increase in anxiety in the short.&nbsp;</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>The only way we can preserve and nurture other and more precious freedoms is by relinquishing the freedom to breed, and that very soon.&nbsp;</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
+<p>In a still more embryonic state is our recognition of the evils of the commons in matters of pleasure.... The shopping public is assaulted with mindless music, without its consent.... Advertisers muddy the airwaves of radio and television and pollute the view of travelers. We are a long way from outlawing the commons in matters of pleasure. </p>
 
-<!-- wp:separator -->
+
+<p>Every new enclosure of the commons involves the infringement of somebody’s personal liberty. Infringements made in the distant past are accepted because no contemporary complains of a loss. It is the newly proposed infringements that we vigorously oppose; cries of “rights” and “freedom” fill the air. </p>
+
+
+<p>But what does “freedom” mean? When men mutually agreed to pass laws against robbing, mankind became more free, not less so. Individuals locked into the logic of the commons are free only to bring on universal ruin; once they see the necessity of mutual coercion, they become free to pursue other goals. I believe it was Hegel who said, “Freedom is the recognition of necessity.” </p>
+
+
+<p>The most important aspect of necessity that we must now recognize, is the necessity of abandoning the commons in breeding. No technical solution can rescue us from the misery of overpopulation. Freedom to breed will bring ruin to all. At the moment, to avoid hard decisions many of us are tempted to propagandize for conscience and responsible parenthood. The temptation must be resisted, because an appeal to independently acting consciences selects for the disappearance of all conscience in the long run, and an increase in anxiety in the short. </p>
+
+
+<p>The only way we can preserve and nurture other and more precious freedoms is by relinquishing the freedom to breed, and that very soon. </p>
+</blockquote>
+
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>To many, the word coercion implies arbitrary decisions of distant and irresponsible bureaucrats; but this is not a necessary part of its meaning. The only kind of coercion I recommend is mutual coercion, mutually agreed upon by the majority of the people affected.&nbsp;</p>
-<!-- /wp:paragraph --><cite>Hardin 1968</cite></blockquote>
-<!-- /wp:quote -->
 
-<!-- wp:separator -->
+<blockquote class="wp-block-quote">
+<p>To many, the word coercion implies arbitrary decisions of distant and irresponsible bureaucrats; but this is not a necessary part of its meaning. The only kind of coercion I recommend is mutual coercion, mutually agreed upon by the majority of the people affected. </p>
+<cite>Hardin 1968</cite></blockquote>
+
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
 
-<!-- wp:paragraph -->
+
 <p>The online <a rel="noreferrer noopener" href="https://www.science.org/doi/abs/10.1126/science.162.3859.1243" target="_blank">abstract</a> of Harding (1968) reads:  The population problem has no technical solution; it requires a fundamental extension in morality.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>When I decided on a scientific career, one of the things that appealed to me about science was the modesty of its practitioners. The typical scientist seemed to be a person who knew one small corner of the natural world and knew it very well, better than most other human beings living and better even than most who had ever lived. But outside of their circumscribed areas of expertise, scientists would hesitate to express an authoritative opinion. ...</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>The temptation to overreach, however, seems increasingly indulged today in discussions about science. ... All too many of my contemporaries in science have accepted without question the hype that suggests that an advanced degree in some area of natural science confers the ability to pontificate wisely on any and all subjects.</p>
-<!-- /wp:paragraph --><cite>Hughes 2012</cite></blockquote>
-<!-- /wp:quote -->
+<blockquote class="wp-block-quote">
+<p>When I decided on a scientific career, one of the things that appealed to me about science was the modesty of its practitioners. The typical scientist seemed to be a person who knew one small corner of the natural world and knew it very well, better than most other human beings living and better even than most who had ever lived. But outside of their circumscribed areas of expertise, scientists would hesitate to express an authoritative opinion....</p>
 
-<!-- wp:separator -->
+
+<p>The temptation to overreach, however, seems increasingly indulged today in discussions about science.... All too many of my contemporaries in science have accepted without question the hype that suggests that an advanced degree in some area of natural science confers the ability to pontificate wisely on any and all subjects.</p>
+<cite>Hughes 2012</cite></blockquote>
+
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
 
-<!-- wp:heading {"align":"center"} -->
+
 <h2 class="wp-block-heading"><a href="../readings/">Further Reading</a></h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Hughes, A. L. (2012). The folly of scientism.&nbsp;<em>The New Atlantis</em>, 32-50. <a rel="noreferrer noopener" href="https://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20121116_TNA37Hughes.pdf" target="_blank">[PDF]</a></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<p>Hughes, A. L. (2012). The folly of scientism. <em>The New Atlantis</em>, 32-50. <a rel="noreferrer noopener" href="https://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20121116_TNA37Hughes.pdf" target="_blank">[PDF]</a></p>
+
+
 <p><a rel="noreferrer noopener" href="https://ecampusontario.pressbooks.pub/businessethicsopenstax/chapter/utilitarianism-the-greatest-good-for-the-greatest-number/" target="_blank">Utilitarianism: The Greatest Good for the Greatest Number</a>.  Ch. 9 of Byars, S., &amp; Stanberry, K. (2018). <em>Business Ethics</em>. Openstax College.  </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
 <p><a rel="noreferrer noopener" href="https://www.worldometers.info/world-population/" target="_blank">World Population Clock - Worldometer</a></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
 <p><a rel="noreferrer noopener" href="https://www.un.org/en/about-us/universal-declaration-of-human-rights" target="_blank">United Nations Universal Declaration of Human Rights</a></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Aligica, P. D. (2010). Elinor Ostrom–Nobel Prize in Economics 2009.&nbsp;<em>Economic Affairs</em>,&nbsp;<em>30</em>(1), 95-96. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0270.2009.01982.x" target="_blank" rel="noreferrer noopener">[DOI]</a></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:separator -->
+<p>Aligica, P. D. (2010). Elinor Ostrom–Nobel Prize in Economics 2009. <em>Economic Affairs</em>, <em>30</em>(1), 95-96. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0270.2009.01982.x" target="_blank" rel="noreferrer noopener">[DOI]</a></p>
+
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
-
-<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

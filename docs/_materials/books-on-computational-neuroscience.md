@@ -95,9 +95,3 @@ render_with_liquid: false
 <strong>Trappenberg</strong>, Thomas. <em><strong> <a href="https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780199568413?cc=us&amp;lang=en&amp;">Fundamentals of Computational Neuroscience.</a></strong></em> 2nd Edition.  <a href="https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780199568413?cc=us&amp;lang=en&amp;">Oxford University Press</a>, 2010. <a href="https://www.amazon.com/dp/0199568413/">[Amazon]</a>
 
 <strong>Wallisch</strong>, Pascal and Michael <strong>Lusignan</strong>, Marc <strong>Benayoun</strong>, Tanya I. <strong>Baker</strong>, Adam Seth <strong>Dickey</strong>, Nicho <strong>Hatsopoulos</strong>. <a href="https://www.sciencedirect.com/book/9780123838360/matlab-for-neuroscientists"><em><strong>Matlab for Neuroscientists: An Introduction to Scientific Computing in Matlab.</strong></em></a> Academic Press, 2008. <a href="https://www.amazon.com/dp/0123745519/">[Amazon]</a> <a href="https://wm-primo.hosted.exlibrisgroup.com:443/01COWM_WM:01COWM_WM_ALMA:01COWM_WM_ALMA51799535670003196">[SWEM]</a> <a href="http://ebookcentral.proquest.com/lib/cwm/detail.action?docID=1517435">[ProQuestEBookCentral]</a> <a href="https://www.sciencedirect.com/book/9780123838360/matlab-for-neuroscientists">[SienceDirect]</a>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

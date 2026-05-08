@@ -6,27 +6,17 @@ slug: "your-course-notebook"
 permalink: "/pages/your-course-notebook/"
 render_with_liquid: false
 ---
-<!-- wp:paragraph -->
-<p>I recommend that your course Notebook be a conveniently sized physical composition notebook.  &nbsp;The notebook is a place for your thinking about Science &amp; Authority, notes about the course readings, and reminders of questions to ask in class.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<p>I recommend that your course Notebook be a conveniently sized physical composition notebook.   The notebook is a place for your thinking about Science &amp; Authority, notes about the course readings, and reminders of questions to ask in class.</p>
+
+
 <p>When you are assigned writing prompts, your response should be written in your Notebook.  Write in a professional yet personal manner.  Please write (and rewrite if necessary) using a pen.  </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
 <p>When given a writing prompt, the default expectation is a 200-400 word response.  It is helpful to write out the question/prompt as well as your answers (so as not to lose the context).</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
 <p>Bring your Notebook and relevant readings to class. Always come prepared to share what you have written with other students!</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:image {"id":3596,"width":803,"height":803,"sizeSlug":"large","linkDestination":"none"} -->
+
 <figure class="wp-block-image size-large is-resized"><img src="../../wp-content/uploads/2022/08/1021423303.jpg" alt="" class="wp-image-3596" width="803" height="803" /></figure>
-<!-- /wp:image -->
-
-
-
-
-

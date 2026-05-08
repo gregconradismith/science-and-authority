@@ -67,7 +67,3 @@ render_with_liquid: false
 <li>The <a href="https://www.wm.edu/offices/wellness/healthcenter/">W&amp;M Health Center</a> at (757) 221-4386.</li>
 </ul>
 <p>and others listed <a href="https://docs.google.com/document/d/18Vl-71Z8AQMgzlWSTJUH5xAm65xS7OQf-BsrGRx-kJQ/edit">here</a>.</p>
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

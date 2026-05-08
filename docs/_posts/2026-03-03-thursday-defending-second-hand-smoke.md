@@ -6,14 +6,8 @@ slug: "thursday-defending-second-hand-smoke"
 permalink: "/posts/thursday-defending-second-hand-smoke/"
 render_with_liquid: false
 ---
-<!-- wp:paragraph -->
+
 <p>Thanks for the good conversation today.  On Thursday March 4 we will be discussing the assigned reading (1) and watchings (2) on the blog page: <a href="../../pages/defending-secondhand-smoke/">Defending Secondhand Smoke</a>.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
 <p>--gdCS </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

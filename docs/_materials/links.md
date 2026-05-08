@@ -6,6 +6,5 @@ slug: "links"
 permalink: "/pages/links/"
 render_with_liquid: false
 ---
-<!-- wp:paragraph -->
+
 <p>None yet.</p>
-<!-- /wp:paragraph -->

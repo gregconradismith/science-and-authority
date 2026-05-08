@@ -6,16 +6,8 @@ slug: "think-about-this-debate-question-over-spring-break"
 permalink: "/posts/think-about-this-debate-question-over-spring-break/"
 render_with_liquid: false
 ---
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+
+<blockquote class="wp-block-quote">
 <p><strong>Resolved: Science has increased our knowledge of how humans function, and simultaneously destabilized our understanding of what a human person is.</strong></p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
+</blockquote>
 <p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
