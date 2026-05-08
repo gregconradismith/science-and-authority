@@ -54,7 +54,7 @@ render_with_liquid: false
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read ***What is Authority*?** - an excerpt from chapter 1 (*Fear of Authority*) in **Richard Sennet**t's book *Authority*. Our focus is pages 16-23. [45 min.] See the Spring 2026 Calendar [\[Page\]](../spring-2026-calendar/) for the PDF.</li>
+<li>Read ***What is Authority*?** - an excerpt from chapter 1 (*Fear of Authority*) in **Richard Sennet**t's book *Authority*. Our focus is pages 16-23. [45 min.] See the Overview [\[Page\]](../spring-2026-calendar/) for the PDF.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

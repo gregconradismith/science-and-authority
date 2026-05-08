@@ -28,7 +28,7 @@ render_with_liquid: false
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read Sections I-IV of <em>Conjectures and Refutations</em> by <a href="https://en.wikipedia.org/wiki/Karl_Popper" target="_blank" rel="noreferrer noopener">Karl Popper</a> (see <a href="../spring-2026-calendar/">Calendar</a> for PDF) [60 min].</li>
+<li>Read Sections I-IV of <em>Conjectures and Refutations</em> by <a href="https://en.wikipedia.org/wiki/Karl_Popper" target="_blank" rel="noreferrer noopener">Karl Popper</a> (see <a href="../spring-2026-calendar/">Overview</a> for PDF) [60 min].</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

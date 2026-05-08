@@ -1,5 +1,5 @@
 ---
-title: "Spring 2026 Calendar"
+title: "Overview"
 kind: "page"
 date: "1970-01-01"
 slug: "spring-2026-calendar"
@@ -7,7 +7,7 @@ permalink: "/pages/spring-2026-calendar/"
 render_with_liquid: false
 ---
 <!-- wp:paragraph -->
-<p><strong>(1) Thursday, January 22 - <em>First Day of Classes -</em> <a href="https://science-authority.com/week-0/"></a><a href="../introduction-to-science-and-authority/"><span>Introduction</span> to Science &amp; Authority</a>.</strong></p>
+<p><strong>(1) <em>First Day of Classes -</em> <a href="https://science-authority.com/week-0/"></a><a href="../introduction-to-science-and-authority/"><span>Introduction</span> to Science &amp; Authority</a>.</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -23,7 +23,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>(2) Thursday, January 29 - <a href="../what-is-authority/" target="_blank" rel="noreferrer noopener">Defining terms … What is Science? What is Authority?</a></strong></p>
+<p><strong>(2) <a href="../what-is-authority/" target="_blank" rel="noreferrer noopener">Defining terms … What is Science? What is Authority?</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -37,7 +37,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(3) Tuesday, February 3 - <a href="../professional-authority/">Professional Authority</a></strong></p>
+<p><strong>(3) <a href="../professional-authority/">Professional Authority</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -51,7 +51,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(4) Thursday, February 5</strong> - <strong><a href="https://science-authority.com/?page_id=3964">Falsification and Scientific Authority</a></strong></p>
+<p><strong>(4) <a href="https://science-authority.com/?page_id=3964">Falsification and Scientific Authority</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -65,7 +65,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(5) Tuesday, February 10 - <a href="../the-new-atlantis/">Francis Bacon's New Atlantis</a></strong></p>
+<p><strong>(5) <a href="../the-new-atlantis/">Francis Bacon's New Atlantis</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -75,7 +75,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(6) Thursday, February 12 - <a href="https://science-authority.com/?page_id=3995">Lookin' up the truth (The Galileo Affair)</a></strong></p>
+<p><strong>(6) <a href="https://science-authority.com/?page_id=3995">Lookin' up the truth (The Galileo Affair)</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -89,7 +89,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(7) Tuesday, February 17 -</strong> <strong><a href="../ambivalence-towards-authority/">Ambivalence Towards Authority</a></strong></p>
+<p><strong>(7) <a href="../ambivalence-towards-authority/">Ambivalence Towards Authority</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"type":"wp-embed"} -->
@@ -103,7 +103,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(8) Thursday, February 19 -</strong> <strong><a href="../modernity-and-authority-in-max-weber/">Modernity and Authority in the Work of Max Weber</a></strong></p>
+<p><strong>(8) <a href="../modernity-and-authority-in-max-weber/">Modernity and Authority in the Work of Max Weber</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"type":"wp-embed"} -->
@@ -117,7 +117,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(9) Tuesday, February 24 -</strong> <a style="font-weight: bold" href="../wherefrom-scientific-values-in-friederick-nietchzes-vision-of-our-predicament/">Scientific Values in the Modern World</a></p>
+<p><strong>(9) </strong><a style="font-weight: bold" href="../wherefrom-scientific-values-in-friederick-nietchzes-vision-of-our-predicament/">Scientific Values in the Modern World</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -147,7 +147,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>(10) Thursday, February 26 -</strong> <a href="../diagnosis-mercury-money-politics-and-poison/"><strong>Diagnosis: Mercury: Money, Politics, and Poisson</strong></a></p>
+<p><strong>(10) </strong><a href="../diagnosis-mercury-money-politics-and-poison/"><strong>Diagnosis: Mercury: Money, Politics, and Poisson</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -165,7 +165,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(11) Tuesday, March 3 -</strong> <strong><a href="../an-enemy-of-the-people/">An Enemy of the People</a></strong></p>
+<p><strong>(11) <a href="../an-enemy-of-the-people/">An Enemy of the People</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -175,7 +175,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(12) Thursday, March 5 </strong>- <strong><a href="../defending-secondhand-smoke/">Defending Secondhand Smoke</a></strong></p>
+<p><strong>(12) <a href="../defending-secondhand-smoke/">Defending Secondhand Smoke</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"type":"wp-embed"} -->
@@ -197,7 +197,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><em>Spring Break - March 7-15</em></p>
+<p><em>Spring Break</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -205,7 +205,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>(13) Tuesday, March 17 -</strong> <strong><a href="../manufactured-uncertainty-and-product-defense/">Manufactured uncertainty and product defense</a></strong></p>
+<p><strong>(13) <a href="../manufactured-uncertainty-and-product-defense/">Manufactured uncertainty and product defense</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"type":"wp-embed"} -->
@@ -219,7 +219,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(13) Thursday, March 19 </strong>- <strong><a href="../the-diagnostic-statistical-manual/">The Diagnostic Statistical Manual and Selling Sickness</a></strong></p>
+<p><strong>(13) <a href="../the-diagnostic-statistical-manual/">The Diagnostic Statistical Manual and Selling Sickness</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -233,11 +233,11 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Midterm Project Deadline - Sunday evening (March 22)</mark></strong></p>
+<p><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Midterm Project Deadline</mark></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>(14) Tuesday, March 24 -</strong> <strong><a href="../the-panic-virus/">Vaccination Policy and the Panic Virus</a></strong> </p>
+<p><strong>(14) <a href="../the-panic-virus/">Vaccination Policy and the Panic Virus</a></strong> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -247,7 +247,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(16) Thursday, March 26 -</strong> <strong><a href="../evidence-not-authority/">The Universal Solvent</a></strong></p>
+<p><strong>(16) <a href="../evidence-not-authority/">The Universal Solvent</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -277,7 +277,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>(17) Tuesday, March 31 - <a href="../science-of-exploitation/">The Science of Exploitation </a>  </strong></p>
+<p><strong>(17) <a href="../science-of-exploitation/">The Science of Exploitation </a>  </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -291,7 +291,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(19) Thursday, April 2</strong> - <strong><a href="../postmodernism-and-the-science-wars-of-the-1990s/">Postmodernism and the "Science Wars" of the 1990s</a></strong></p>
+<p><strong>(19) <a href="../postmodernism-and-the-science-wars-of-the-1990s/">Postmodernism and the "Science Wars" of the 1990s</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -305,7 +305,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(19) Tuesday, April 7</strong> - <strong><a href="../scientism-2/">Science as Ideology</a></strong></p>
+<p><strong>(19) <a href="../scientism-2/">Science as Ideology</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -319,7 +319,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(20) Thursday, April 9 </strong>- <strong><a href="../the-burnout-society/">The Burnout Society</a></strong></p>
+<p><strong>(20) <a href="../the-burnout-society/">The Burnout Society</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -329,7 +329,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(21) Tuesday, April 14 </strong>- <strong><a href="../surveillance-capitalism/">Surveillance Capitalism</a> </strong></p>
+<p><strong>(21) <a href="../surveillance-capitalism/">Surveillance Capitalism</a> </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -339,7 +339,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(22) Thursday, April 16 </strong>- <strong><a href="../data-ism/">Data-ism: The Ideology of Big Data</a></strong></p>
+<p><strong>(22) <a href="../data-ism/">Data-ism: The Ideology of Big Data</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -349,7 +349,7 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(23) Tuesday, April 21 -</strong> <a href="../choice-is-not-freedom/"><strong>Choice is not Freedom</strong></a></p>
+<p><strong>(23) </strong><a href="../choice-is-not-freedom/"><strong>Choice is not Freedom</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -359,21 +359,21 @@ render_with_liquid: false
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(24) Thursday, April 23 - <a href="https://youtu.be/NA0JXEzQrZM?si=fv9FEp5Od4YJJyeD">Hannah Arendt on Political Life</a></strong></p>
+<p><strong>(24) <a href="https://youtu.be/NA0JXEzQrZM?si=fv9FEp5Od4YJJyeD">Hannah Arendt on Political Life</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><em>Final Project:  </em><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Target window for Final Project submission is May 4 through May 12. </mark></strong></li>
+<li><em>Final Project:  </em><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Target window for Final Project submission. </mark></strong></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>(25) Tuesday, April 28 </strong>- <em>Final Project summaries and peer feedback.</em></p>
+<p><strong>(25) </strong><em>Final Project summaries and peer feedback.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>(26) Thursday, April 30 </strong>-<em> Last Day of Classes</em></p>
+<p><strong>(26) </strong><em>Last Day of Classes</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -381,7 +381,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"textColor":"vivid-red"} -->
-<p class="has-vivid-red-color has-text-color"><strong>Wednesday, May 13 - Final Project Deadline </strong></p>
+<p class="has-vivid-red-color has-text-color"><strong>Final Project Deadline </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->

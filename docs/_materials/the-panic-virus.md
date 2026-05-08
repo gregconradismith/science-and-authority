@@ -24,7 +24,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read the following three chapters from ***The Panic Virus** [\[Publisher\]](https://www.simonandschuster.com/books/The-Panic-Virus/Seth-Mnookin/9781439158654) *by Seth Mnookin: ***Enter Andrew Wakefield*** (Ch. 8), ***The Lancet Paper*** (Ch. 9), and ***The Media and Its Messages*** (Ch. 13). See Calendar [\[Page\]](../spring-2026-calendar/) for PDFs.</li>
+<li>Read the following three chapters from ***The Panic Virus** [\[Publisher\]](https://www.simonandschuster.com/books/The-Panic-Virus/Seth-Mnookin/9781439158654) *by Seth Mnookin: ***Enter Andrew Wakefield*** (Ch. 8), ***The Lancet Paper*** (Ch. 9), and ***The Media and Its Messages*** (Ch. 13). See Overview [\[Page\]](../spring-2026-calendar/) for PDFs.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
