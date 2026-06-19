@@ -170,6 +170,13 @@ main { min-height: 70vh; }
 .home-announcements .section-heading {
   text-align: center;
 }
+.listing-heading-centered {
+  text-align: center;
+}
+.listing-heading-centered p:not(.eyebrow) {
+  margin-left: auto;
+  margin-right: auto;
+}
 .eyebrow {
   margin: 0 0 8px;
   color: var(--accent-2);

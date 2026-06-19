@@ -7,7 +7,7 @@ layout: default
   {% assign items = site.materials | sort: "title" %}
 {% endif %}
     <section class="listing">
-      <div class="section-heading">
+      <div class="section-heading{% if page.listing == "posts" %} listing-heading-centered{% endif %}">
         <p class="eyebrow">{{ items | size }} items</p>
         <h1>{{ page.title | escape }}</h1>
         <p>{{ page.subtitle | escape }}</p>
