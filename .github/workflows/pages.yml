@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "docs/**"
+      - ".github/workflows/pages.yml"
   workflow_dispatch:
 
 permissions:
@@ -40,6 +43,10 @@ jobs:
       - name: Build with Jekyll
         working-directory: docs
         run: bundle exec jekyll build --destination ../_site --baseurl "${{ steps.pages.outputs.base_path }}"
+
+      - name: Remove private artifacts from Pages output
+        run: |
+          find _site -type f -iname "*.pdf" -delete
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
