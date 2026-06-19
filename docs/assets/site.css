@@ -170,10 +170,11 @@ main { min-height: 70vh; }
 .home-announcements .section-heading {
   text-align: center;
 }
-.listing-heading-centered {
+.posts-listing .section-heading,
+.posts-listing .section-heading h1 {
   text-align: center;
 }
-.listing-heading-centered p:not(.eyebrow) {
+.posts-listing .section-heading p:not(.eyebrow) {
   margin-left: auto;
   margin-right: auto;
 }
