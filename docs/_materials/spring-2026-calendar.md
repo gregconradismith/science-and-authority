@@ -1,10 +1,11 @@
 ---
-title: "Overview"
+title: "Spring 2026 Calendar"
 kind: "page"
 date: "1970-01-01"
 slug: "spring-2026-calendar"
 permalink: "/pages/spring-2026-calendar/"
 render_with_liquid: false
+layout: calendar
 ---
 
 <p><strong>(1) <em>First Day of Classes -</em> <a href="https://science-authority.com/week-0/"></a><a href="../introduction-to-science-and-authority/"><span>Introduction</span> to Science &amp; Authority</a>.</strong></p>

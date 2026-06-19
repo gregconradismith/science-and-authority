@@ -255,6 +255,88 @@ main { min-height: 70vh; }
   background: transparent;
 }
 .empty-note { color: var(--muted); font-style: italic; }
+.calendar-page {
+  width: min(1080px, calc(100% - 36px));
+}
+.calendar-page .wp-content {
+  display: grid;
+  gap: 16px;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  padding: 0;
+}
+.calendar-page .wp-content h2 {
+  margin: 24px 0 0;
+  color: var(--accent);
+  font-size: clamp(22px, 3vw, 30px);
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 1.16;
+  text-transform: uppercase;
+}
+.calendar-page .wp-content h2:first-child { margin-top: 0; }
+.calendar-page .wp-content h3 {
+  margin: 4px 0 -8px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+.calendar-page .wp-content ul {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+  padding: clamp(18px, 3vw, 26px);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 22px rgba(28, 31, 34, .05);
+  list-style: none;
+}
+.calendar-page .wp-content > p {
+  max-width: none;
+  margin: 0;
+  padding: clamp(18px, 3vw, 26px);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 22px rgba(28, 31, 34, .05);
+}
+.calendar-page .wp-content > p strong {
+  color: var(--accent-2);
+  font-size: clamp(20px, 2.6vw, 28px);
+  line-height: 1.18;
+}
+.calendar-page .wp-content li {
+  margin: 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  color: var(--accent-2);
+  font-size: clamp(20px, 2.6vw, 28px);
+  font-weight: 800;
+  line-height: 1.18;
+}
+.calendar-page .wp-content li:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+.calendar-page .wp-content li a {
+  color: var(--ink);
+  text-decoration: none;
+}
+.calendar-page .calendar-note {
+  color: var(--ink);
+  font-style: italic;
+}
+.calendar-page .wp-content hr {
+  width: 100%;
+  margin: 4px 0;
+  border: 0;
+  border-top: 1px solid var(--line);
+}
 .site-footer {
   display: flex;
   justify-content: space-between;
