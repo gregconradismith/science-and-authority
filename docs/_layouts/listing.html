@@ -12,6 +12,16 @@ layout: default
         <h1>{{ page.title | escape }}</h1>
         <p>{{ page.subtitle | escape }}</p>
       </div>
+      {% if page.listing == "posts" %}
+      <ol class="post-list">
+        {% for item in items %}
+        <li>
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
+        </li>
+        {% endfor %}
+      </ol>
+      {% else %}
       <label class="search-box">
         <span>Filter</span>
         <input type="search" data-filter-input placeholder="Search title or text">
@@ -25,4 +35,5 @@ layout: default
         </article>
         {% endfor %}
       </div>
+      {% endif %}
     </section>
