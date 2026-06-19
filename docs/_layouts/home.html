@@ -1,66 +1,36 @@
 ---
 layout: default
 ---
-{% assign featured_slugs = "spring-2026-calendar,syllabus,readings,foundations,projects-3,fall-2025-final-project-description,resources,flyer" | split: "," %}
-{% assign course_arc_slugs = "introduction-to-science-and-authority,what-is-authority-2,professional-authority,falsification,the-new-atlantis,looking-up-the-truth,modernity-and-authority-in-max-weber,diagnosis-mercury-money-politics-and-poison,an-enemy-of-the-people,manufactured-uncertainty-and-product-defense,the-panic-virus,evidence-not-authority,scientism-2,surveillance-capitalism,data-ism,why-how-when-trust-science" | split: "," %}
-    <section class="hero">
+    <section class="hero home-hero">
+      <div class="hero-banner" role="img" aria-label="Science and Authority course artwork">
+        <div class="hero-banner-copy">
+          <h1>{{ site.title | escape }}</h1>
+          <p>{{ site.description | escape }}</p>
+        </div>
+      </div>
       <div class="hero-copy">
-        <p class="eyebrow">William &amp; Mary COLL 400 capstone</p>
-        <h1>{{ site.title | escape }}</h1>
-        <p>{{ site.description | escape }}. A static, browsable edition of the course site exported from WordPress.</p>
-        <div class="hero-actions">
-          <a class="button primary" href="{{ '/pages/spring-2026-calendar/' | relative_url }}">View overview</a>
-          <a class="button" href="{{ '/pages/' | relative_url }}">Browse materials</a>
-        </div>
+        <nav class="hero-nav" aria-label="Course pages">
+          <a href="{{ '/pages/about/' | relative_url }}">About</a>
+          <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
+          <a href="{{ '/pages/spring-2026-calendar/' | relative_url }}">Calendar</a>
+          <a href="{{ '/pages/readings/' | relative_url }}">Readings</a>
+          <a href="{{ '/pages/projects-3/' | relative_url }}">Projects</a>
+          <a href="{{ '/posts/' | relative_url }}">Announcements</a>
+        </nav>
       </div>
-      <img src="{{ '/wp-content/uploads/2024/08/cool-graphic-reflecting-modern-science-and-totalitarian-society-with-young-2.png' | relative_url }}" alt="Science and Authority course artwork">
     </section>
 
-    <section class="section">
+    <section class="section home-announcements">
       <div class="section-heading">
-        <p class="eyebrow">Core course pages</p>
-        <h2>Start here</h2>
+        <p class="eyebrow">Recent posts</p>
+        <h2>Announcements</h2>
       </div>
-      <div class="card-grid">
-        {% for slug in featured_slugs %}
-          {% assign item = site.materials | where: "slug", slug | first %}
-          {% if item %}
-        <article class="card feature">
-          <p class="eyebrow">Course material</p>
-          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
-        </article>
-          {% endif %}
+      <ol class="post-list">
+        {% for item in site.posts %}
+        <li>
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
+        </li>
         {% endfor %}
-      </div>
-    </section>
-
-    <section class="section two-column">
-      <div>
-        <div class="section-heading">
-          <p class="eyebrow">{{ course_arc_slugs | size }} selected pages</p>
-          <h2>Course arc</h2>
-        </div>
-        <ol class="link-list">
-          {% for slug in course_arc_slugs %}
-            {% assign item = site.materials | where: "slug", slug | first %}
-            {% if item %}
-          <li><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a><span>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 14 }}</span></li>
-            {% endif %}
-          {% endfor %}
-        </ol>
-      </div>
-      <aside class="updates-panel">
-        <div class="section-heading">
-          <p class="eyebrow">Recent posts</p>
-          <h2>Course updates</h2>
-        </div>
-        {% for item in site.posts limit: 6 %}
-        <article class="card">
-          <p class="eyebrow">{{ item.date | date: "%b %-d, %Y" }}</p>
-          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
-        </article>
-        {% endfor %}
-      </aside>
+      </ol>
     </section>

@@ -86,6 +86,40 @@ main { min-height: 70vh; }
   border: 1px solid var(--line);
   box-shadow: var(--shadow);
 }
+.home-hero {
+  display: block;
+  min-height: 0;
+  padding: 0;
+}
+.hero-banner {
+  display: grid;
+  place-items: center;
+  min-height: clamp(220px, 34vw, 430px);
+  padding: clamp(34px, 7vw, 84px) clamp(18px, 4vw, 56px);
+  background:
+    linear-gradient(180deg, rgba(23, 25, 28, .46), rgba(23, 25, 28, .34)),
+    url("../wp-content/uploads/2024/08/cool-graphic-reflecting-modern-science-and-totalitarian-society-with-young-2.png") center / cover no-repeat;
+  border-bottom: 1px solid var(--line);
+  text-align: center;
+}
+.hero-banner-copy {
+  max-width: 1200px;
+}
+.hero-banner-copy h1 {
+  max-width: none;
+  color: white;
+  white-space: normal;
+  text-shadow: 0 3px 18px rgba(23, 25, 28, .62);
+}
+.hero-banner-copy p {
+  margin: 0 auto;
+  color: white;
+  text-shadow: 0 2px 12px rgba(23, 25, 28, .72);
+}
+.home-hero .hero-copy {
+  padding: clamp(24px, 4vw, 44px) clamp(18px, 4vw, 56px) clamp(34px, 5vw, 64px);
+  text-align: center;
+}
 .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
 .button {
   display: inline-flex;
@@ -99,6 +133,30 @@ main { min-height: 70vh; }
   font-weight: 700;
 }
 .button.primary { background: var(--accent); color: white; }
+.hero-nav {
+  justify-content: center;
+  gap: 16px;
+  margin: 32px auto 0;
+}
+.hero-nav a {
+  display: inline-flex;
+  min-width: min(210px, 100%);
+  min-height: 68px;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 28px;
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  color: white;
+  font-size: clamp(22px, 2.8vw, 34px);
+  font-weight: 800;
+}
+.hero-nav a:hover {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: white;
+}
 .section, .listing {
   padding: clamp(34px, 6vw, 70px) clamp(18px, 4vw, 56px);
 }
@@ -109,6 +167,9 @@ main { min-height: 70vh; }
   line-height: 1.08;
 }
 .section-heading p:not(.eyebrow) { max-width: 780px; color: var(--muted); }
+.home-announcements .section-heading {
+  text-align: center;
+}
 .eyebrow {
   margin: 0 0 8px;
   color: var(--accent-2);
@@ -168,6 +229,31 @@ main { min-height: 70vh; }
 }
 .link-list a { color: var(--ink); font-weight: 800; text-decoration: none; }
 .link-list span { grid-column: 2; color: var(--muted); font-size: 15px; }
+.post-list {
+  display: grid;
+  gap: 0;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+}
+.post-list li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 18px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+.post-list a {
+  color: var(--ink);
+  font-weight: 800;
+  text-decoration: none;
+}
+.post-list span {
+  color: var(--muted);
+  font-size: 14px;
+  white-space: nowrap;
+}
 .content-page {
   width: min(940px, calc(100% - 36px));
   margin: 0 auto;
