@@ -39,3 +39,7 @@ because it exceeds GitHub's normal 100 MB file limit.
 
 The original WordPress export is preserved at
 `tmp/apsc453scienceampauthority.WordPress.2026-05-06.xml`.
+
+## Codex Coordination
+
+Codex session state is tracked in `.codex/handoff.md`; durable decisions and task history may also appear in `.codex/` when useful.
