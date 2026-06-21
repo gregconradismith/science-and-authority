@@ -3,6 +3,7 @@ layout: default
 ---
 {% if page.listing == "posts" %}
   {% assign items = site.posts %}
+  {% assign pinned_items = site.posts | where: "pinned", true %}
 {% else %}
   {% assign items = site.materials | sort: "title" %}
 {% endif %}
@@ -14,11 +15,19 @@ layout: default
       </div>
       {% if page.listing == "posts" %}
       <ol class="post-list">
-        {% for item in items %}
+        {% for item in pinned_items %}
         <li>
           <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
           <span>{{ item.date | date: "%b %-d, %Y" }}</span>
         </li>
+        {% endfor %}
+        {% for item in items %}
+        {% unless item.pinned %}
+        <li>
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
+        </li>
+        {% endunless %}
         {% endfor %}
       </ol>
       {% else %}

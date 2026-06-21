@@ -26,11 +26,20 @@ layout: default
         <h2>Announcements</h2>
       </div>
       <ol class="post-list">
-        {% for item in site.posts %}
+        {% assign pinned_items = site.posts | where: "pinned", true %}
+        {% for item in pinned_items %}
         <li>
           <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
           <span>{{ item.date | date: "%b %-d, %Y" }}</span>
         </li>
+        {% endfor %}
+        {% for item in site.posts %}
+        {% unless item.pinned %}
+        <li>
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
+        </li>
+        {% endunless %}
         {% endfor %}
       </ol>
     </section>
