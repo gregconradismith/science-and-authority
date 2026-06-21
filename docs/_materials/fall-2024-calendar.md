@@ -259,7 +259,7 @@ render_with_liquid: false
 <li>Read Read Burnett, Thomas. <strong>What is scientism?</strong> <a href="https://sciencereligiondialogue.org/resources/what-is-scientism/" target="_blank" rel="noreferrer noopener">[Online]</a></li>
 
 
-<li>Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>. <em>The New Atlantis</em>, 32-50. <a href="https://thenewatlantis.com/https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md" target="_blank" rel="noreferrer noopener">[PDF]</a></li>
+<li>Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>. <em>The New Atlantis</em>, 32-50. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md" target="_blank" rel="noreferrer noopener">[PDF]</a></li>
 </ul>
 
 

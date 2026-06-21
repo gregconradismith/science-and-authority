@@ -95,7 +95,7 @@ render_with_liquid: false
 ## Class 19: Science as Ideology
 
 - Read Burnett, Thomas. <strong>What is scientism?</strong> <a href="https://sciencereligiondialogue.org/resources/what-is-scientism/">Online</a>
-- Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>. <em>The New Atlantis</em>, 32-50. <a href="https://thenewatlantis.com/https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+- Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>. <em>The New Atlantis</em>, 32-50. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Class 20: The Burnout Society
 

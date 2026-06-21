@@ -98,7 +98,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading"><a href="../readings/">Further Reading</a></h2>
 
 
-<p>Hughes, A. L. (2012). The folly of scientism. <em>The New Atlantis</em>, 32-50. <a rel="noreferrer noopener" href="https://thenewatlantis.com/https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md" target="_blank">[PDF]</a></p>
+<p>Hughes, A. L. (2012). The folly of scientism. <em>The New Atlantis</em>, 32-50. <a rel="noreferrer noopener" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md" target="_blank">[PDF]</a></p>
 
 
 <p><a rel="noreferrer noopener" href="https://ecampusontario.pressbooks.pub/businessethicsopenstax/chapter/utilitarianism-the-greatest-good-for-the-greatest-number/" target="_blank">Utilitarianism: The Greatest Good for the Greatest Number</a>.  Ch. 9 of Byars, S., &amp; Stanberry, K. (2018). <em>Business Ethics</em>. Openstax College.  </p>
