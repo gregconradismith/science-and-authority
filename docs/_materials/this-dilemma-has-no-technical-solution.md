@@ -19,7 +19,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">[</a><a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md">PDF</a><a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">]</a> <a href="https://doi.org/10.1126/science.162.3859.1243">[DOI]</a></li>
+<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. [<a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md">PDF</a>] <a href="https://doi.org/10.1126/science.162.3859.1243">[DOI]</a></li>
 </ul>
 
 

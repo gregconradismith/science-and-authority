@@ -69,4 +69,4 @@ https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1541758005
 </div></figure>
 
 
-<p>Matlack, S. (2014). Confronting the technological society. <a href="https://www.thenewatlantis.com/publications/confronting-the-technological-society">Publisher</a> <em>The New Atlantis</em>, 45-64. William & Mary students should be able to access this <a href="https://proxy.wm.edu/login?url=https://www.jstor.org/stable/pdf/43551405.pdf">PDF</a>.</p>
+<p>Matlack, S. (2014). Confronting the technological society. <a href="https://www.thenewatlantis.com/publications/confronting-the-technological-society">Publisher</a> <em>The New Atlantis</em>, 45-64.</p>

@@ -70,7 +70,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<h2 class="wp-block-heading">From <em>On proof and progress in mathematics</em> by <a href="https://www.ams.org/notices/201511/rnoti-p1318.pdf" target="_blank" rel="noreferrer noopener">William P. Thurston</a> (1994). </h2>
+<h2 class="wp-block-heading">From <em>On proof and progress in mathematics</em> by William P. Thurston (1994). </h2>
 
 
 <p>What is it that mathematicians accomplish? There are many issues buried in this question, which I have tried to phrase in a way that does not presuppose the nature of the answer. It would not be good to start, for example, with the question <em>How do mathematicians prove theorems?</em> This question introduces an interesting topic, but to start with it would be to project two hidden assumptions:</p>
@@ -122,7 +122,7 @@ render_with_liquid: false
 <p>Rota, G. C. (1985). Mathematics, philosophy, and artificial intelligence: A dialogue with Gian-Carlo Rota and David Sharp. <em>Los Alamos Science, Spring/Summer</em>. </p>
 
 
-<p>Thurston, W. P. (1994). On proof and progress in mathematics. <em>Bulletin of the American mathematical Society</em>, <em>30</em>(2), 161-177. <a href="https://www.math.toronto.edu/mccann/199/thurston.pdf">PDF</a></p>
+<p>Thurston, W. P. (1994). On proof and progress in mathematics. <em>Bulletin of the American mathematical Society</em>, <em>30</em>(2), 161-177. </p>
 
 
 <p>Katz, Y. (2012). Noam Chomsky on where artificial intelligence went wrong. <em>The Atlantic</em>. <a href="https://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/" target="_blank" rel="noreferrer noopener">[Online]</a></p>

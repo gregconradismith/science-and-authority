@@ -44,13 +44,13 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further Reading </h2>
 
 
-<p>Read Bossaller, J. S. (2014). <em>Evidence, not authority: Reconsidering presentation of science for difficult decisions</em>. <em>Reference and User Services Quarterly</em>, <em>53</em>(3), 232-241. This is our final reading on immunization and anti-vaccination movements. It is a helpful `What then shall we do?' piece. <a href="https://www.jstor.org/stable/pdf/refuseserq.53.3.232.pdf">PDF</a> <a href="https://doi.org/10.5860/rusq.53n3.232">[DOI]</a></p>
+<p>Read Bossaller, J. S. (2014). <em>Evidence, not authority: Reconsidering presentation of science for difficult decisions</em>. <em>Reference and User Services Quarterly</em>, <em>53</em>(3), 232-241. This is our final reading on immunization and anti-vaccination movements. It is a helpful `What then shall we do?' piece.  <a href="https://doi.org/10.5860/rusq.53n3.232">[DOI]</a></p>
 
 
 <p>DeStefano, F. (2007). Vaccines and autism: evidence does not support a causal association. <em>Clinical Pharmacology & Therapeutics</em>, <em>82</em>(6), 756-759. <a href="https://doi.org/10.1038/sj.clpt.6100407">[DOI]</a></p>
 
 
-<p>Opel, D. J., Diekema, D. S., & Marcuse, E. K. (2011). Assuring research integrity in the wake of Wakefield. <em>BMJ</em>, <em>342</em>. <a href="https://doi.org/10.1136/bmj.d2">[DOI]</a> <a href="https://www.researchgate.net/profile/Edgar-Marcuse/publication/49765104_Assuring_research_integrity_in_the_wake_of_Wakefield/links/004635398cf56e7985000000/Assuring-research-integrity-in-the-wake-of-Wakefield.pdf">PDF</a></p>
+<p>Opel, D. J., Diekema, D. S., & Marcuse, E. K. (2011). Assuring research integrity in the wake of Wakefield. <em>BMJ</em>, <em>342</em>. <a href="https://doi.org/10.1136/bmj.d2">[DOI]</a> </p>
 
 
 <p>Deer, B. (2011). How the case against the MMR vaccine was fixed. <em>BMJ</em>, <em>342</em>. <a href="https://doi.org/10.1136/bmj.c5347">[DOI]</a> <a href="https://wm.primo.exlibrisgroup.com/discovery/openurl?institution=01COWM_INST&vid=01COWM_INST:01COWM_WM_NEWUI&aulast=Deer&id=pmid:21209059&auinit=B&atitle=How%20the%20case%20against%20the%20MMR%20vaccine%20was%20fixed&sid=google">SWEM Online</a></p>

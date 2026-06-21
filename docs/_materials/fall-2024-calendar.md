@@ -53,7 +53,7 @@ render_with_liquid: false
 <li><em>Falsification and Scientific Authority</em> (Lecture 3) by Isaac Ariail Reed. <a href="../isaac-ariail-reed-on-what-is-authority/">[Audio]</a></li>
 
 
-<li><em>Conjectures and Refutations</em> by Karl Popper (Sections I-IV). <a href="http://www.dpi.inpe.br/gilberto/cursos/cst-311/popper_conjectures_refutations.pdf">[PDF]</a></li>
+<li><em>Conjectures and Refutations</em> by Karl Popper (Sections I-IV). </li>
 </ul>
 
 
@@ -195,7 +195,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>David E. Adelman's review of <em>Bending Science</em> in Perspectives in Biology and Medicine, Volume 52, Number 3, Summer 2009, pp. 464-469. <a href="https://muse.jhu.edu/article/315732" target="_blank" rel="noreferrer noopener">[PDF]</a></li>
+<li>David E. Adelman's review of <em>Bending Science</em> in Perspectives in Biology and Medicine, Volume 52, Number 3, Summer 2009, pp. 464-469. <a href="https://muse.jhu.edu/article/315732" target="_blank" rel="noreferrer noopener">Publisher</a></li>
 
 
 <li><em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a> </li>

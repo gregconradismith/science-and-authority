@@ -19,7 +19,7 @@ render_with_liquid: false
 <p>As a mid-term deliverable, you and your team (the other students assigned to the same chapter, see below) will present your chapter to the class and lead an in-class discussion. We will schedule these presentations after Fall Break.</p>
 
 
-<p><a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991032884831303196">Download a PDF</a> of your chapter from <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991032884831303196">[ SWEM Online ]</a> <a href="https://ebookcentral-proquest-com.proxy.wm.edu/lib/cwm/detail.action?docID=4830753">[ProQuest Ebook Central]</a>.  If possible, complete a first reading before class on Monday, October 16.</p>
+<p><a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991032884831303196">SWEM</a> of your chapter from <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991032884831303196">[ SWEM Online ]</a> <a href="https://ebookcentral-proquest-com.proxy.wm.edu/lib/cwm/detail.action?docID=4830753">[ProQuest Ebook Central]</a>.  If possible, complete a first reading before class on Monday, October 16.</p>
 
 
 <ol class="wp-block-list">

@@ -51,7 +51,7 @@ layout: calendar
 <li><em>Falsification and Scientific Authority</em> (Lecture 3) by Isaac Ariail Reed. <a href="../isaac-ariail-reed-on-what-is-authority/">[Audio]</a></li>
 
 
-<li><em>Conjectures and Refutations</em> by Karl Popper (Sections I-IV). <a href="http://www.dpi.inpe.br/gilberto/cursos/cst-311/popper_conjectures_refutations.pdf">[PDF]</a></li>
+<li><em>Conjectures and Refutations</em> by Karl Popper (Sections I-IV). </li>
 </ul>
 
 

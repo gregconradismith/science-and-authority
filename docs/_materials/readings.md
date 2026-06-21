@@ -22,7 +22,7 @@ render_with_liquid: false
 ## Class 4: Falsification and Scientific Authority
 
 - <em>Falsification and Scientific Authority</em> (Lecture 3) by Isaac Ariail Reed. <a href="../isaac-ariail-reed-on-what-is-authority/">Audio</a>
-- <em>Conjectures and Refutations</em> by Karl Popper (Sections I-IV). <a href="http://www.dpi.inpe.br/gilberto/cursos/cst-311/popper_conjectures_refutations.pdf">PDF</a>
+- <em>Conjectures and Refutations</em> by Karl Popper (Sections I-IV).
 
 ## Class 5: Francis Bacon's New Atlantis
 
@@ -123,7 +123,7 @@ Sennett, Richard (1993). "What is authority?" pages 16-27 of <em>Authority</em>.
 
 Fromm, E. (2010). <em>On Disobedience: Why Freedom Means Saying "No" to Power</em> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Popper, K. (2014). <em>Conjectures and refutations: The growth of scientific knowledge</em>. Routledge <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF Excerpt</a> <a href="http://www.paulrosenfels.org/Popper.pdf">PDF Book</a> <a href="https://www.amazon.com/dp/1013443934">Amazon</a>
+Popper, K. (2014). <em>Conjectures and refutations: The growth of scientific knowledge</em>. Routledge <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF Excerpt</a> PDF Book <a href="https://www.amazon.com/dp/1013443934">Amazon</a>
 
 Crease, R. P. (2002). Finding the flaw in falsifiability. <em>Physics World</em>, <em>15</em>(12), 15 <a href="https://doi.org/10.1088/2058-7058/15/12/19">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
@@ -179,7 +179,7 @@ Introduction <a href="https://github.com/gregconradismith/science-and-authority-
 
 - The Research Enterprise, pp 57-94 <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-- Things Go Wrong, pp 95-127 <a href="https://science-authority.com/2023/09/24/watch-an-enemy-of-the-people-bbc-version-for-class-monday/">PDF</a>
+- Things Go Wrong, pp 95-127
 
 - The Universal Solvent, pp 128-181 <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
@@ -219,7 +219,7 @@ Rota, G. C. (1985). Mathematics, philosophy, and artificial intelligence: A dial
 
 Thurston, W. P. (1994). On proof and progress in mathematics. <em>Bulletin of the American mathematical Society</em>, <em>30</em>(2), 161-177 <a href="https://doi.org/10.1090/s0273-0979-1994-00502-6">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Katz, Y. (2012). Noam Chomsky on where artificial intelligence went wrong. <em>The Atlantic</em> <a href="https://philarchive.org/archive/KATNCO">PDF</a>
+Katz, Y. (2012). Noam Chomsky on where artificial intelligence went wrong. <em>The Atlantic</em> <a href="https://philarchive.org/archive/KATNCO">PhilArchive</a>
 
 ### What was the fact?
 
@@ -235,7 +235,7 @@ Marks, J. (2009). <em>Why I Am Not a Scientist: Anthropology and Modern Knowledg
 
 ### Gendered Science: Feminist epistemology and Women in Neuroscience
 
-Anderson, E. (1995). <strong>Feminist epistemology: An interpretation and a defense.</strong> <em>Hypatia</em>, 10(3), 50-84. Sibener et al. (2022). <strong>Lessons from the Stories of Women in Neuroscience.</strong> <em>Journal of Neuroscience</em>, <em>42</em>(24), 4769-4773 <a href="https://doi.org/10.1111/j.1527-2001.1995.tb00737.x">[DOI]</a> <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/77F25104A8E3ABF1A1B48A3A9C3BAF89/S0887536700007728a.pdf/feminist_epistemology_an_interpretation_and_a_defense.pdf">PDF</a> <a href="https://www.jneurosci.org/content/42/24/4769">PDF Online</a>
+Anderson, E. (1995). <strong>Feminist epistemology: An interpretation and a defense.</strong> <em>Hypatia</em>, 10(3), 50-84. Sibener et al. (2022). <strong>Lessons from the Stories of Women in Neuroscience.</strong> <em>Journal of Neuroscience</em>, <em>42</em>(24), 4769-4773 <a href="https://doi.org/10.1111/j.1527-2001.1995.tb00737.x">[DOI]</a>  <a href="https://www.jneurosci.org/content/42/24/4769">Publisher</a>
 
 ---
 

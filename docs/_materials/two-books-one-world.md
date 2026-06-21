@@ -64,7 +64,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading"><a href="../readings/">Further Reading</a></h2>
 
 
-<p>Stephen Jay Gould (1997).  Nonoverlapping Magisteria, <em>Natural History</em>, vol. 106, pp. 16-22. <a rel="noreferrer noopener" href="https://bibliotekanauki.pl/articles/553150.pdf" target="_blank">[PDF]</a></p>
+<p>Stephen Jay Gould (1997).  Nonoverlapping Magisteria, <em>Natural History</em>, vol. 106, pp. 16-22. </p>
 
 
 <p>Alistair E. McGrath (2020). <em>Science &amp; Religion: A New Introduction</em>. John Wiley &amp; Sons. <a rel="noreferrer noopener" href="https://www.amazon.com/Science-Religion-Introduction-Alister-McGrath/dp/1119599873/" target="_blank">[Amazon]</a></p>

@@ -111,7 +111,7 @@ render_with_liquid: false
 <h3 class="wp-block-heading">Careerism is a concern of both conservatives and progressives</h3>
 
 
-<p>In a blog post entitled “<a rel="noreferrer noopener" href="http://pogoarchives.org/labyrinth/05-gi-wilson-w-covers.pdf" target="_blank">Careerism and Psychopathy in the US Military</a>," G. I. Wilson (Colonel, USMC, retired) writes:</p>
+<p>In a blog post entitled “Careerism and Psychopathy in the US Military," G. I. Wilson (Colonel, USMC, retired) writes:</p>
 
 
 <p>I have observed the Department of Defense (DOD) all too closely for over three decades. It has become an overgrown bureaucracy committed to standing still for, if not actively promoting, poorly conceived policy agendas and hardware programs funded and supported by Congress.... For the careerists in America’s national security apparatus, it is all about awarding contracts and personal advancement, not winning wars.</p>
@@ -136,7 +136,7 @@ render_with_liquid: false
 <p><em>Bending Science: How Special Interests Corrupt Public Health Research <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674047143">Publisher</a></em> by Thomas O. McGarity and Wendy Wagner. Cambridge: Harvard Univ. Press, 2008.</p>
 
 
-<p>Michaels, D. (2005). Doubt is their product: industry groups are fighting government regulation by formenting scientific uncertainty. <em>Scientific American</em>, <em>292</em>(6). <a href="https://www.scientificamerican.com/article/doubt-is-their-product/">PDF</a></p>
+<p>Michaels, D. (2005). Doubt is their product: industry groups are fighting government regulation by formenting scientific uncertainty. <em>Scientific American</em>, <em>292</em>(6). <a href="https://www.scientificamerican.com/article/doubt-is-their-product/">Article</a></p>
 
 
 <p>If you are interested in pursuing the Beryllium <a href="https://en.wikipedia.org/wiki/Beryllium">Publisher</a> story further, read "Defending the Taxicab Standard," which is Chapter 11 (pp 124-141) of <em>Doubt Is Their Product: How Industry's Assault on Science Threatens Your Health <a href="https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&lang=en&">Publisher</a></em> by David Michaels. Oxford University Press, Incorporated, 2008. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196">SWEM Online</a></p>
