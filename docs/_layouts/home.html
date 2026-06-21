@@ -4,20 +4,18 @@ layout: default
     <section class="hero home-hero">
       <div class="hero-banner" role="img" aria-label="Science and Authority course artwork">
         <div class="hero-banner-copy">
-          <h1>{{ site.title | escape }}</h1>
+          <h1>{{ page.hero_title | default: site.title | escape }}</h1>
           <p>{{ site.description | escape }}</p>
         </div>
       </div>
-      <div class="hero-copy">
-        <nav class="hero-nav" aria-label="Course pages">
-          <a href="{{ '/pages/about/' | relative_url }}">About</a>
-          <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
-          <a href="{{ '/pages/spring-2026-calendar/' | relative_url }}">Calendar</a>
-          <a href="{{ '/pages/readings/' | relative_url }}">Readings</a>
-          <a href="{{ '/pages/projects-3/' | relative_url }}">Projects</a>
-          <a href="{{ '/posts/' | relative_url }}">Announcements</a>
-        </nav>
-      </div>
+      <nav class="site-nav home-site-nav" aria-label="Course pages">
+        <a href="{{ '/pages/about/' | relative_url }}">About</a>
+        <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
+        <a href="{{ '/pages/spring-2026-calendar/' | relative_url }}">Calendar</a>
+        <a href="{{ '/pages/readings/' | relative_url }}">Readings</a>
+        <a href="{{ '/pages/projects-3/' | relative_url }}">Projects</a>
+        <a href="{{ '/posts/' | relative_url }}">Announcements</a>
+      </nav>
     </section>
 
     <section class="section home-announcements">
