@@ -30,14 +30,12 @@ layout: default
         {% for item in pinned_items %}
         <li>
           <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
         </li>
         {% endfor %}
         {% for item in site.posts %}
         {% unless item.pinned %}
         <li>
           <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
         </li>
         {% endunless %}
         {% endfor %}
