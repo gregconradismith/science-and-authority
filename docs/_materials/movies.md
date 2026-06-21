@@ -13,7 +13,7 @@ render_with_liquid: false
 <p><a href="../galileo/">Galileo</a> - And the philosophical concepts for which he was both celebrated and condemned.</p>
 
 
-<p><a href="../that-old-lie-the-the-majority-is-always-right/">An Enemy of the People</a> - That old lie the the majority is always right.</p>
+<p><a href="../that-old-lie-the-the-majority-is-always-right/">An Enemy of the People</a> - That old lie that the majority is always right.</p>
 
 
 <p><a href="../selling-sickness-2/">Selling Sickness</a> - the unhealthy relationship between society, medical science and the pharmaceutical industry. </p>

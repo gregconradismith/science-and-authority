@@ -1,5 +1,5 @@
 ---
-title: "Secularization and Decllining religious authority"
+title: "Secularization and declining religious authority"
 kind: "page"
 date: "1970-01-01"
 slug: "secularization-and-decllining-religious-authority"

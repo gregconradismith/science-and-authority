@@ -1,5 +1,5 @@
 ---
-title: "That old lie the the majority is always right"
+title: "That old lie that the majority is always right"
 kind: "page"
 date: "1970-01-01"
 slug: "that-old-lie-the-the-majority-is-always-right"

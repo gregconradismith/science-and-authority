@@ -11,7 +11,9 @@ layout: default
       <div class="section-heading">
         <p class="eyebrow">{{ items | size }} items</p>
         <h1>{{ page.title | escape }}</h1>
+        {% if page.subtitle %}
         <p>{{ page.subtitle | escape }}</p>
+        {% endif %}
       </div>
       {% if page.listing == "posts" %}
       <label class="search-box">
