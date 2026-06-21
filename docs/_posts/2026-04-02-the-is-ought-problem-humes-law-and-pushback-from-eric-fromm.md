@@ -7,7 +7,7 @@ permalink: "/posts/the-is-ought-problem-humes-law-and-pushback-from-eric-fromm/"
 render_with_liquid: false
 ---
 
-<p>Great conversation today.   The idea that you cannot logically derive a moral conclusion (“ought”) purely from descriptive facts (“is”) without adding some normative premise comes most famously from <strong>David Hume</strong>, an 18th-century Scottish philosopher.  This became known as the “<strong>is–ought problem</strong>” (or “<strong>Hume’s Law</strong>”). </p>
+<p>Great conversation today.   The idea that you cannot logically derive a moral conclusion (“ought”) purely from descriptive facts (“is”) without adding some normative premise comes most famously from <strong>David Hume</strong>, the Scottish philosopher.  This became known as the “<strong>is–ought problem</strong>” (or “<strong>Hume’s Law</strong>”). </p>
 
 
 <p>I ended class with the idea that we consider pushing back on this conception, in spite of the fact that our course began with Max Weber emphasizing the "is-ought" distinction. </p>

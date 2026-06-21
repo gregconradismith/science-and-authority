@@ -10,7 +10,7 @@ render_with_liquid: false
 <p>I am not sure I did a great job explaining the relevance of the "The Grand Inquisitor” to our course.  Allow me to try again.</p>
 
 
-<p>“The Grand Inquisitor” is a story told within The Brothers Karamazov by Fyodor Dostoevsky. In the novel, the skeptical brother Ivan tells this story to his younger brother Alyosha, who is a novice monk. The setting is sixteenth-century Seville, at the height of the Spanish Inquisition. Christ returns to earth silently and begins performing miracles. The people recognize him. They are drawn to him immediately. But the Grand Inquisitor, a powerful cardinal, has Christ arrested.</p>
+<p>“The Grand Inquisitor” is a story told within The Brothers Karamazov by Fyodor Dostoevsky. In the novel, the skeptical brother Ivan tells this story to his younger brother Alyosha, who is a novice monk. The setting is Seville, at the height of the Spanish Inquisition. Christ returns to earth silently and begins performing miracles. The people recognize him. They are drawn to him immediately. But the Grand Inquisitor, a powerful cardinal, has Christ arrested.</p>
 
 
 <p>That night, the Inquisitor visits Christ in his cell and delivers a long monologue. Christ says nothing. The Inquisitor explains that Christ made a fatal mistake in giving human beings freedom. In the wilderness temptations (bread, miracle, authority), Christ refused to turn stones into bread, refused to perform spectacular signs on demand, and refused worldly power. In doing so, he affirmed human freedom—freedom to love, freedom to choose, freedom to believe without coercion.</p>
@@ -31,7 +31,7 @@ render_with_liquid: false
 <p>You are training to enter professions that wield real authority—medicine, engineering, data science, research. You will have expertise others do not. Will the authority that you wield be secure enough to respect the freedom of others?  When confronted with dehumanizing technologies and philosophies, will you "kiss the Inquisitor"?  Will you have the strength to disengage from destructive argumentation, affirm your own freedom,  and walk out the open door to your vocational calling? </p>
 
 
-<p>Enjoy the reading by Max Weber.  See you Thursday.</p>
+<p>Enjoy the reading by Max Weber.</p>
 
 
 <p>--Greg</p>

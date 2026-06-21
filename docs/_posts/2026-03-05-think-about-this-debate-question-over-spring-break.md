@@ -1,9 +1,9 @@
 ---
-title: "Think about this \"debate\" question over Spring Break"
+title: "Think about this \"debate\" question"
 kind: "post"
 date: "2026-03-05"
-slug: "think-about-this-debate-question-over-spring-break"
-permalink: "/posts/think-about-this-debate-question-over-spring-break/"
+slug: "think-about-this-debate-question"
+permalink: "/posts/think-about-this-debate-question/"
 render_with_liquid: false
 ---
 

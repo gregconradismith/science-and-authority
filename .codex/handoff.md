@@ -56,6 +56,9 @@ editable Markdown source in `docs/`.
   `docs/_layouts/home.html` and `docs/_layouts/listing.html` were already
   present before this announcement cleanup and should be treated as separate
   work unless Greg says otherwise.
+- Later on 2026-06-21, the remaining announcement posts were scrubbed of
+  visible date, semester, and scheduling language while preserving Jekyll
+  frontmatter dates, filenames, and required asset paths.
 
 ## Useful Commands
 
