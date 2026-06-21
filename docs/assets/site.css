@@ -201,6 +201,32 @@ main { min-height: 70vh; }
 .home-announcements .section-heading {
   text-align: center;
 }
+.home-course-status {
+  padding-bottom: clamp(18px, 3vw, 34px);
+}
+.home-course-status .section-heading,
+.home-start .section-heading {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.home-course-status .section-heading {
+  border-bottom: 1px solid var(--line);
+  border-top: 1px solid var(--ink);
+  margin-bottom: 0;
+  padding: 18px 0 20px;
+  text-align: center;
+}
+.home-course-status .section-heading h2 {
+  font-size: clamp(1.55rem, 3vw, 2.5rem);
+}
+.home-start {
+  padding-top: clamp(18px, 3vw, 34px);
+}
+.home-start .link-list {
+  max-width: 980px;
+  margin: 0 auto;
+}
 .posts-listing .section-heading,
 .posts-listing .section-heading h1 {
   text-align: center;

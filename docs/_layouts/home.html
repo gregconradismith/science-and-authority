@@ -18,6 +18,40 @@ layout: default
       </nav>
     </section>
 
+    {% if page.course_status %}
+    <section class="section home-course-status">
+      <div class="section-heading">
+        <p class="eyebrow">Current status</p>
+        <h2>{{ page.course_status | escape }}</h2>
+      </div>
+    </section>
+    {% endif %}
+
+    <section class="section home-start">
+      <div class="section-heading">
+        <p class="eyebrow">Course portal</p>
+        <h2>Start here</h2>
+      </div>
+      <ol class="link-list">
+        <li>
+          <a href="{{ '/pages/about/' | relative_url }}">About</a>
+          <span>Course frame, themes, and expectations.</span>
+        </li>
+        <li>
+          <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
+          <span>Policies, assignments, grading, and course rhythm.</span>
+        </li>
+        <li>
+          <a href="{{ '/pages/spring-2026-calendar/' | relative_url }}">Calendar</a>
+          <span>Meeting-by-meeting topics and due dates.</span>
+        </li>
+        <li>
+          <a href="{{ '/pages/readings/' | relative_url }}">Readings</a>
+          <span>Texts and prompts for seminar preparation.</span>
+        </li>
+      </ol>
+    </section>
+
     <section class="section home-announcements">
       <div class="section-heading">
         <p class="eyebrow">Recent posts</p>
