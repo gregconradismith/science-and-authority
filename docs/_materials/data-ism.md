@@ -22,7 +22,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read Anderson, C. (2008). <strong>The end of theory: The data deluge makes the scientific method obsolete.</strong> Wired magazine, 16(7), 16-07. <a href="https://www.wired.com/2008/06/pb-theory/">Online</a></li>
+<li>Read Anderson, C. (2008). <strong>The end of theory: The data deluge makes the scientific method obsolete.</strong> Wired magazine, 16(7), 16-07. <a href="https://www.wired.com/2008/06/pb-theory/">Online</a> <a href="https://doi.org/10.59350/de0kk-wrq94">[DOI]</a></li>
 </ul>
 
 

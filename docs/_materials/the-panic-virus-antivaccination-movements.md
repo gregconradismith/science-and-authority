@@ -41,7 +41,7 @@ render_with_liquid: false
 <h2>Discussion </h2>
 
 
-<p>Read this <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus-antivaccination-movements.md">review</a> of <em>The Panic Virus</em> by Konner, M. (2011). <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus-antivaccination-movements.md">Epidemiology: Epidemic of panic.</a> <em>Nature</em>, <em>469</em>(7331), 468-469.</p>
+<p>Read this <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus-antivaccination-movements.md">review</a> of <em>The Panic Virus</em> by Konner, M. (2011). <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus-antivaccination-movements.md">Epidemiology: Epidemic of panic.</a> <em>Nature</em>, <em>469</em>(7331), 468-469. <a href="https://doi.org/10.1038/469468a">[DOI]</a></p>
 
 
 <p>Center for Disease Control and Convention <a rel="noreferrer noopener" href="https://www.cdc.gov/mmwr/" target="_blank">Morbidity and Mortality Weekly Report (MMWR)</a>.</p>

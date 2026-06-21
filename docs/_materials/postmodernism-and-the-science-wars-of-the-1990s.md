@@ -18,7 +18,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read Jop de Vrieze. <strong>‘Science wars’ veteran has a new mission. <em></strong>Science</em>. 358(6360):159, 2017. <a href="https://www.science.org/doi/full/10.1126/science.358.6360.159">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/postmodernism-and-the-science-wars-of-the-1990s.md">PDF</a></li>
+<li>Read Jop de Vrieze. <strong>‘Science wars’ veteran has a new mission. <em></strong>Science</em>. 358(6360):159, 2017. <a href="https://doi.org/10.1126/science.358.6360.159">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/postmodernism-and-the-science-wars-of-the-1990s.md">PDF</a></li>
 </ul>
 
 
@@ -31,7 +31,7 @@ render_with_liquid: false
 <p>Jonathan Marks (2009) <a href="https://www.amazon.com/Why-I-Am-Not-Scientist/dp/0520259602/">Amazon</a> describes an episode in the <strong>science wars</strong> that illustrates the problem that arise when discussing the socially constructed aspects of scientific knowledge and meanings.</p>
 
 
-<p>The <em>Journal of Molecular Evolution</em> in 2000 includes a minimally referenced "Opinion" essay, written by the editor in chief, the distinguished biochemist Emile Zuckerkandl. The essay - titled "Social constructionism, a lost cause" - protests strongly against an article published in <em>Science</em> that same year by the paleontologist Stephen Jay Gould.  Something Gould said about the "science wars" (described below) caused Zuckerkandl to self-publish a response defending the objectivity of science.</p>
+<p>The <em>Journal of Molecular Evolution</em> in 2000 includes a minimally referenced "Opinion" essay, written by the editor in chief, the distinguished biochemist Emile Zuckerkandl. The essay - titled "Social constructionism, a lost cause" <a href="https://doi.org/10.1007/s002390010115">[DOI]</a> - protests strongly against an article published in <em>Science</em> that same year by the paleontologist Stephen Jay Gould.  Something Gould said about the "science wars" (described below) caused Zuckerkandl to self-publish a response defending the objectivity of science.</p>
 
 
 <blockquote class="wp-block-quote">
@@ -137,12 +137,12 @@ render_with_liquid: false
 <p>Marks, J. (2009). <strong>Science as a Culture and as a "Side."</strong> Ch. 1 in <em>Why I Am Not a Scientist: Anthropology and Modern Knowledge</em>. University of California Press. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196">SWEM Online</a></p>
 
 
-<p>Gould, S. J. (2000). Deconstructing the "science wars" by reconstructing an old mold. <em>Science</em>, <em>287</em>(5451), 253-261. <a href="https://www.science.org/doi/10.1126/science.287.5451.253">DOI</a></p>
+<p>Gould, S. J. (2000). Deconstructing the "science wars" by reconstructing an old mold. <em>Science</em>, <em>287</em>(5451), 253-261. <a href="https://doi.org/10.1126/science.287.5451.253">[DOI]</a></p>
 
 
-<p>Zuckerkandl, E. (2000). Social constructionism, a lost cause. <em>Journal of Molecular Evolution</em>, <em>51</em>(6), 517. <a href="https://www.proquest.com/docview/928738554">ProQuest</a></p>
+<p>Zuckerkandl, E. (2000). Social constructionism, a lost cause. <em>Journal of Molecular Evolution</em>, <em>51</em>(6), 517. <a href="https://www.proquest.com/docview/928738554">ProQuest</a> <a href="https://doi.org/10.1007/s002390010115">[DOI]</a></p>
 
 
-<p>De Vrieze, J. (2017). ‘Science wars’ veteran has a new mission. <a href="https://www.science.org/doi/full/10.1126/science.358.6360.159">DOI</a></p>
+<p>De Vrieze, J. (2017). ‘Science wars’ veteran has a new mission. <a href="https://doi.org/10.1126/science.358.6360.159">[DOI]</a></p>
 <p></p>
 <p></p>

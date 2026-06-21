@@ -267,7 +267,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a></li>
+<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a> <a href="https://doi.org/10.1126/science.162.3859.1243">[DOI]</a></li>
 
 
 <li>In class:  Watch <strong><a href="https://youtu.be/NA0JXEzQrZM?si=Zwj7Brw07e2c4Qek">Hannah Arendt on Political Life</a></strong> by Ellie Anderson.</li>

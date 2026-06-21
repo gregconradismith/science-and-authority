@@ -80,5 +80,5 @@ render_with_liquid: false
 <p><a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons" target="_blank" rel="noreferrer noopener">https://en.wikipedia.org/wiki/Tragedy_of_the_commons</a></p>
 
 
-<p>The <a rel="noreferrer noopener" href="https://www.science.org/doi/abs/10.1126/science.162.3859.1243" target="_blank">abstract</a> of Harding (1968) is:  The population problem has no technical solution; it requires a fundamental extension in morality.</p>
+<p>The <a rel="noreferrer noopener" href="https://www.science.org/doi/abs/10.1126/science.162.3859.1243" target="_blank">abstract</a> <a href="https://doi.org/10.1126/science.162.3859.1243">[DOI]</a> of Harding (1968) is:  The population problem has no technical solution; it requires a fundamental extension in morality.</p>
 <p>  </p>

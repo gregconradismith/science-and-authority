@@ -17,10 +17,10 @@ render_with_liquid: false
 <li>Consider the definitions of <em>naturalized</em>, <em>social</em>, and <em>feminist epistemology</em> (see below).<br><br></li>
 
 
-<li>Read two sections of Anderson, E. (1995). <strong>Feminist epistemology: An interpretation and a defense.</strong> <em>Hypatia</em>, 10(3), 50-84. <a href="https://doi.org/10.1111/j.1527-2001.1995.tb00737.x" target="_blank" rel="noreferrer noopener">[PDF]</a><br><br>Feminist epistemology as a branch of naturalized, social epistemology (pp. 53-58).<br>The gendered division of theoretical labor (pp. 58-62).<br><br></li>
+<li>Read two sections of Anderson, E. (1995). <strong>Feminist epistemology: An interpretation and a defense.</strong> <em>Hypatia</em>, 10(3), 50-84. <a href="https://doi.org/10.1111/j.1527-2001.1995.tb00737.x" target="_blank" rel="noreferrer noopener">[DOI]</a><br><br>Feminist epistemology as a branch of naturalized, social epistemology (pp. 53-58).<br>The gendered division of theoretical labor (pp. 58-62).<br><br></li>
 
 
-<li>Read Sibener et al. (2022). <strong>Lessons from the Stories of Women in Neuroscience.</strong> <em>Journal of Neuroscience</em>, <em>42</em>(24), 4769-4773. <a href="https://doi.org/10.1523/JNEUROSCI.0536-22.2022" target="_blank" rel="noreferrer noopener">[PDF]</a></li>
+<li>Read Sibener et al. (2022). <strong>Lessons from the Stories of Women in Neuroscience.</strong> <em>Journal of Neuroscience</em>, <em>42</em>(24), 4769-4773. <a href="https://doi.org/10.1523/JNEUROSCI.0536-22.2022" target="_blank" rel="noreferrer noopener">[DOI]</a></li>
 </ul>
 
 
@@ -111,7 +111,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading"><a href="../readings/">Further Reading</a></h2>
 
 
-<p>Goldstein, V. S. (1960). <strong>The human situation: A feminine view. </strong><em>The Journal of Religion</em>, <em>40</em>(2), 100-112. <a rel="noreferrer noopener" href="https://www.journals.uchicago.edu/doi/pdf/10.1086/485231?casa_token=iYiLJ3CC17wAAAAA:q3aGBKTX7Ztj-py5s6bARfbKyFv29XzlXbimAdK9fCzgqFWE6U5ebyKqUvCRQVgNmXtcs4cnoXs" target="_blank">[PDF]</a></p>
+<p>Goldstein, V. S. (1960). <strong>The human situation: A feminine view. </strong><em>The Journal of Religion</em>, <em>40</em>(2), 100-112. <a rel="noreferrer noopener" href="https://doi.org/10.1086/485231" target="_blank">[DOI]</a></p>
 
 
 <p>Longino, H. E. (1990).  <strong>Research on sex differences</strong>, Ch 6 of <em>Science as social knowledge: Values and objectivity in scientific inquiry</em>.  Princeton University Press.  <a rel="noreferrer noopener" href="https://www-jstor-org.proxy.wm.edu/stable/j.ctvx5wbfz" target="_blank">[SWEM Online]</a></p>

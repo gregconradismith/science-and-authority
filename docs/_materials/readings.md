@@ -90,7 +90,7 @@ render_with_liquid: false
 ## Class 19: Postmodernism and the "Science Wars" of the 1990s
 
 - Read Johnathan Marks, <strong>Science as a culture and as a "side".</strong> Ch. 1 in <em>Why I Am Not a Scientist: Anthropology and Modern Knowledge</em>. University of California Press, 2009, pp. 1-24. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196">SWEM Online</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
-- Read Jop de Vrieze. <strong>‘Science wars’ veteran has a new mission.</strong> <em>Science</em>. 358(6360):159, 2017. <a href="https://www.science.org/doi/full/10.1126/science.358.6360.159">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+- Read Jop de Vrieze. <strong>‘Science wars’ veteran has a new mission.</strong> <em>Science</em>. 358(6360):159, 2017. <a href="https://doi.org/10.1126/science.358.6360.159">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Class 19: Science as Ideology
 
@@ -125,7 +125,7 @@ Fromm, E. (2010). <em>On Disobedience: Why Freedom Means Saying "No" to Power</e
 
 Popper, K. (2014). <em>Conjectures and refutations: The growth of scientific knowledge</em>. Routledge <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF Excerpt</a> <a href="http://www.paulrosenfels.org/Popper.pdf">PDF Book</a> <a href="https://www.amazon.com/dp/1013443934">Amazon</a>
 
-Crease, R. P. (2002). Finding the flaw in falsifiability. <em>Physics World</em>, <em>15</em>(12), 15 <a href="https://doi.org/10.1088/2058-7058/15/12/19">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Crease, R. P. (2002). Finding the flaw in falsifiability. <em>Physics World</em>, <em>15</em>(12), 15 <a href="https://doi.org/10.1088/2058-7058/15/12/19">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Finocchiaro, M. A. (2019). <em>On Trial For Reason: Science, Religion, and Culture in the Galileo Affair</em>. Oxford University Press. <em>Ch 1 Introduction - Avoiding Myths and Muddles</em> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF Ch 1</a> Ch 2 When the Earth Stood Still <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF Ch 2</a> <a href="https://www.amazon.com/dp/0198797923">Amazon</a> <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033825762803196">SWEM</a>
 
@@ -137,7 +137,7 @@ Michaels, D. (2008). Defending second-hand smoke. Chapter 7 in <em>Doubt is thei
 
 ### Manufactured uncertainty and product defense
 
-Adelman, D. E. (2009). Bending Science: How Special Interests Corrupt Public Health Research. <em>Perspectives in Biology and Medicine</em>, <em>52</em>(3), 464-469 <a href="https://doi.org/10.1353/pbm.0.0112">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Adelman, D. E. (2009). Bending Science: How Special Interests Corrupt Public Health Research. <em>Perspectives in Biology and Medicine</em>, <em>52</em>(3), 464-469 <a href="https://doi.org/10.1353/pbm.0.0112">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Michaels, D. (2008). Manufactured uncertainty. Contested science and the protection of the public's health and environment. Chapter 4 in Proctor, R. N., & Schiebinger, L. (2008). <em>Agnotology: The making and unmaking of ignorance</em> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
@@ -163,9 +163,9 @@ Chapter 12, <em>The Media and Its Messages</em> <a href="https://github.com/greg
 
 ### The Diagnostic Statistical Manual and Selling Sickness
 
-Frances, A. (2013). The new crisis of confidence in psychiatric diagnosis. <em>Annals of internal medicine</em>, <em>159</em>(10), 720 <a href="https://doi.org/10.7326/0003-4819-159-10-201311190-00021">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Frances, A. (2013). The new crisis of confidence in psychiatric diagnosis. <em>Annals of internal medicine</em>, <em>159</em>(10), 720 <a href="https://doi.org/10.7326/0003-4819-159-10-201311190-00021">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Bossaller, J. S. (2014). Evidence, not authority: Reconsidering presentation of science for difficult decisions. <em>Reference and User Services Quarterly</em>, <em>53</em>(3), 232-241 <a href="https://doi.org/10.5860/rusq.53n3.232">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Bossaller, J. S. (2014). Evidence, not authority: Reconsidering presentation of science for difficult decisions. <em>Reference and User Services Quarterly</em>, <em>53</em>(3), 232-241 <a href="https://doi.org/10.5860/rusq.53n3.232">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Willingham, D. T. (2012). Measured Approach or Magical Elixir? American Educator, 5 <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
@@ -189,7 +189,7 @@ Conclusion <a href="https://github.com/gregconradismith/science-and-authority-pr
 
 ### This Dilemma Has No Technical Solution
 
-Read Hardin, G. (1968). <strong>The tragedy of the commons.</strong> <em>Science</em>, 162(3859), 1243-1248. <a href="https://doi.org/10.1126/science.162.3859.1243">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Read Hardin, G. (1968). <strong>The tragedy of the commons.</strong> <em>Science</em>, 162(3859), 1243-1248. <a href="https://doi.org/10.1126/science.162.3859.1243">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ### Climate Science and the Cold War
 
@@ -197,13 +197,13 @@ Naomi Oreskes and Erik M. Conway (2008). Challenging knowledge: How climate scie
 
 ### Who Speaks for Science?
 
-Allchin, D. (2021). Who Speaks for Science?. <em>Science & Education</em>, 1-18 <a href="https://doi.org/10.1007/s11191-021-00257-4">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Allchin, D. (2021). Who Speaks for Science?. <em>Science & Education</em>, 1-18 <a href="https://doi.org/10.1007/s11191-021-00257-4">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ### Data-ism
 
 Brooks, D. (2013). <strong>The Philosophy of Data</strong> - 2013 Feb 4 <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Anderson, C. (2008). <strong>The end of theory: The data deluge makes the scientific method obsolete.</strong> Wired magazine, 16(7), 16-07 <a href="https://doi.org/10.59350/de0kk-wrq94">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Anderson, C. (2008). <strong>The end of theory: The data deluge makes the scientific method obsolete.</strong> Wired magazine, 16(7), 16-07 <a href="https://doi.org/10.59350/de0kk-wrq94">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Jurgenson, N. (2014). <strong>View from nowhere: on the cultural ideology of big data.</strong> <em>The New Inquiry</em>, <em>9</em> <a href="https://thenewinquiry.com/view-from-nowhere/">Online</a>
 
@@ -215,9 +215,9 @@ Other relevant Op-Eds by David Brooks:
 
 - What You'll Do Next - 2013 April 15 <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Rota, G. C. (1985). Mathematics, philosophy, and artificial intelligence: A dialogue with Gian-Carlo Rota and David Sharp. <em>Los Alamos Science, Spring/Summer</em> <a href="https://doi.org/10.1201/b11084-6">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Rota, G. C. (1985). Mathematics, philosophy, and artificial intelligence: A dialogue with Gian-Carlo Rota and David Sharp. <em>Los Alamos Science, Spring/Summer</em> <a href="https://doi.org/10.1201/b11084-6">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Thurston, W. P. (1994). On proof and progress in mathematics. <em>Bulletin of the American mathematical Society</em>, <em>30</em>(2), 161-177 <a href="https://doi.org/10.1090/s0273-0979-1994-00502-6">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Thurston, W. P. (1994). On proof and progress in mathematics. <em>Bulletin of the American mathematical Society</em>, <em>30</em>(2), 161-177 <a href="https://doi.org/10.1090/s0273-0979-1994-00502-6">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Katz, Y. (2012). Noam Chomsky on where artificial intelligence went wrong. <em>The Atlantic</em> <a href="https://philarchive.org/archive/KATNCO">PDF</a>
 
@@ -235,7 +235,7 @@ Marks, J. (2009). <em>Why I Am Not a Scientist: Anthropology and Modern Knowledg
 
 ### Gendered Science: Feminist epistemology and Women in Neuroscience
 
-Anderson, E. (1995). <strong>Feminist epistemology: An interpretation and a defense.</strong> <em>Hypatia</em>, 10(3), 50-84. Sibener et al. (2022). <strong>Lessons from the Stories of Women in Neuroscience.</strong> <em>Journal of Neuroscience</em>, <em>42</em>(24), 4769-4773 <a href="https://doi.org/10.1111/j.1527-2001.1995.tb00737.x">DOI</a> <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/77F25104A8E3ABF1A1B48A3A9C3BAF89/S0887536700007728a.pdf/feminist_epistemology_an_interpretation_and_a_defense.pdf">PDF</a> <a href="https://www.jneurosci.org/content/42/24/4769">PDF Online</a>
+Anderson, E. (1995). <strong>Feminist epistemology: An interpretation and a defense.</strong> <em>Hypatia</em>, 10(3), 50-84. Sibener et al. (2022). <strong>Lessons from the Stories of Women in Neuroscience.</strong> <em>Journal of Neuroscience</em>, <em>42</em>(24), 4769-4773 <a href="https://doi.org/10.1111/j.1527-2001.1995.tb00737.x">[DOI]</a> <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/77F25104A8E3ABF1A1B48A3A9C3BAF89/S0887536700007728a.pdf/feminist_epistemology_an_interpretation_and_a_defense.pdf">PDF</a> <a href="https://www.jneurosci.org/content/42/24/4769">PDF Online</a>
 
 ---
 
@@ -243,31 +243,31 @@ Anderson, E. (1995). <strong>Feminist epistemology: An interpretation and a defe
 
 ## Further Readings (Alphabetical by Author)
 
-Bhaskar, R., 2014. <em>The possibility of naturalism: A philosophical critique of the contemporary human sciences</em>. Routledge <a href="https://doi.org/10.4324/9780203976623">DOI</a> <a href="https://www.routledge.com/The-Possibility-of-Naturalism-A-philosophical-critique-of-the-contemporary/Bhaskar/p/book/9781138798885">Publisher</a> <a href="https://www.amazon.com/dp/0415198747">Amazon</a> <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA21559687820003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US">SWEM</a>
+Bhaskar, R., 2014. <em>The possibility of naturalism: A philosophical critique of the contemporary human sciences</em>. Routledge <a href="https://doi.org/10.4324/9780203976623">[DOI]</a> <a href="https://www.routledge.com/The-Possibility-of-Naturalism-A-philosophical-critique-of-the-contemporary/Bhaskar/p/book/9781138798885">Publisher</a> <a href="https://www.amazon.com/dp/0415198747">Amazon</a> <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA21559687820003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US">SWEM</a>
 
 Barton, G., editor. Longman Literature edition of Arthur Miller's adaptation <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Bernhoft, R. A. (2012). Mercury toxicity and treatment: a review of the literature. <em>Journal of environmental and public health</em>, <em>2012</em> <a href="https://doi.org/10.1155/2012/460508">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Bernhoft, R. A. (2012). Mercury toxicity and treatment: a review of the literature. <em>Journal of environmental and public health</em>, <em>2012</em> <a href="https://doi.org/10.1155/2012/460508">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Blenkharn, I. (2009). Diagnosis: mercury, money, politics & poison, Jane M. Hightower, Island Press/Shearwater Books (2009), ISBN 978-1-59726-396-5 <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Bocking, S. (2009). Skewing Science. <em>Alternatives Journal</em>, <em>35</em>(3), 8 <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Chaves, M. (1994). Secularization as declining religious authority. <em>Social forces</em>, <em>72</em>(3), 749-774 <a href="https://doi.org/10.2307/2579779">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Chaves, M. (1994). Secularization as declining religious authority. <em>Social forces</em>, <em>72</em>(3), 749-774 <a href="https://doi.org/10.2307/2579779">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Crease, R. P. (2002). Finding the flaw in falsifiability. <em>Physics World</em>, <em>15</em>(12), 15 <a href="https://doi.org/10.1088/2058-7058/15/12/19">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Crease, R. P. (2002). Finding the flaw in falsifiability. <em>Physics World</em>, <em>15</em>(12), 15 <a href="https://doi.org/10.1088/2058-7058/15/12/19">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Finocchiaro, M. A. (2019). <em>On Trial For Reason: Science, Religion, and Culture in the Galileo Affair</em>. Oxford University Press. <em>Ch 1 Introduction - Avoiding Myths and Muddles</em> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF Ch 1</a> Ch 2 When the Earth Stood Still <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF Ch 2</a> <a href="https://www.amazon.com/dp/0198797923">Amazon</a> <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033825762803196">SWEM</a>
 
 Hightower, J. M. (2011). <em>Diagnosis: mercury: Money, politics, and poison</em>. Island Press <a href="https://www.amazon.com/dp/1610910028/">Amazon</a>
 
-Kafka, Franz. (1924). <em>The Trial: A New Translation Based on the Restored Text</em> (The Schocken Kafka Library), 1999 <a href="https://doi.org/10.1215/9780822383192-003">DOI</a> <a href="https://www.amazon.com/dp/0805209999">Amazon</a>
+Kafka, Franz. (1924). <em>The Trial: A New Translation Based on the Restored Text</em> (The Schocken Kafka Library), 1999 <a href="https://doi.org/10.1215/9780822383192-003">[DOI]</a> <a href="https://www.amazon.com/dp/0805209999">Amazon</a>
 
 Kuhn, T. S. (1970). <em>The structure of scientific revolutions</em> (Vol. 111). University of Chicago Press: Chicago.
 
-Lakatos, I. (1976). Falsification and the methodology of scientific research programmes. In <em>Can theories be refuted?</em> (pp. 205-259). Springer, Dordrecht <a href="https://doi.org/10.1007/978-94-010-1863-0_14">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a> <a href="https://www.amazon.com/dp/9027706298/">Amazon</a> <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991007667349703196">SWEM</a>
+Lakatos, I. (1976). Falsification and the methodology of scientific research programmes. In <em>Can theories be refuted?</em> (pp. 205-259). Springer, Dordrecht <a href="https://doi.org/10.1007/978-94-010-1863-0_14">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a> <a href="https://www.amazon.com/dp/9027706298/">Amazon</a> <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991007667349703196">SWEM</a>
 
-Michaels, D. (2008). <em>Doubt is their product: how industry's assault on science threatens your health</em>. Oxford University Press <a href="https://doi.org/10.1177/02610183100300030705">DOI</a> <a href="https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&lang=en&">Publisher</a> <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196">SWEM</a>
+Michaels, D. (2008). <em>Doubt is their product: how industry's assault on science threatens your health</em>. Oxford University Press <a href="https://doi.org/10.1177/02610183100300030705">[DOI]</a> <a href="https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&lang=en&">Publisher</a> <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196">SWEM</a>
 
 - "Defending the Taxicab Standard" Chapter 11 (pp 124-141) <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
@@ -277,25 +277,25 @@ Miller, A. (2015). <em>The collected essays of Arthur Miller</em>. Bloomsbury Pu
 
 - Ibsen's Warning (p. 386-387) <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Moynihan, R., CG, P., Heath, I., & Henry, D. (2002). <em>Selling sickness: the pharmaceutical industry and disease mongering.</em> <em>BMJ</em>, <em>324</em>(7342), 886-891 <a href="https://doi.org/10.1136/bmj.324.7342.886">DOI</a>
+Moynihan, R., CG, P., Heath, I., & Henry, D. (2002). <em>Selling sickness: the pharmaceutical industry and disease mongering.</em> <em>BMJ</em>, <em>324</em>(7342), 886-891 <a href="https://doi.org/10.1136/bmj.324.7342.886">[DOI]</a>
 
-Richards, Robert J. and Daston, Lorraine. <em>Kuhn's 'Structure of Scientific Revolutions' at Fifty: Reflections on a Science Classic</em>, Chicago: University of Chicago Press, 2016 <a href="https://doi.org/10.1007/s11016-016-0126-1">DOI</a>
+Richards, Robert J. and Daston, Lorraine. <em>Kuhn's 'Structure of Scientific Revolutions' at Fifty: Reflections on a Science Classic</em>, Chicago: University of Chicago Press, 2016 <a href="https://doi.org/10.1007/s11016-016-0126-1">[DOI]</a>
 
-Perkowitz, S. (2011). Galileo Through a Lens: Views of His Life and Work on Stage and Screen. In <em>The Inspiration of Astronomical Phenomena VI</em> (Vol. 441, p. 85) <a href="https://doi.org/10.1201/9781003274964-22">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Perkowitz, S. (2011). Galileo Through a Lens: Views of His Life and Work on Stage and Screen. In <em>The Inspiration of Astronomical Phenomena VI</em> (Vol. 441, p. 85) <a href="https://doi.org/10.1201/9781003274964-22">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-MacKenzie, D. (2008). Diagnosis: Mercury by Jane Hightower. <em>New Scientist</em>, <em>200</em>(2676), 47 <a href="https://doi.org/10.1016/s0262-4079(08)62508-7">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+MacKenzie, D. (2008). Diagnosis: Mercury by Jane Hightower. <em>New Scientist</em>, <em>200</em>(2676), 47 <a href="https://doi.org/10.1016/s0262-4079(08)62508-7">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Merton, R. K. (1973). <em>The sociology of science: Theoretical and empirical investigations</em>. University of Chicago press. p. 267-278 <a href="https://doi.org/10.1126/science.184.4137.656">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Merton, R. K. (1973). <em>The sociology of science: Theoretical and empirical investigations</em>. University of Chicago press. p. 267-278 <a href="https://doi.org/10.1126/science.184.4137.656">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Max Weber, Charisma and Disenchantment: The Vocation Lectures. Edited by Paul Reitter and Chad Wellmon. Translated from the German by Damion Searls. New York Review of Books <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 O'Connor, C., & Weatherall, J. O. (2019). <em>The Misinformation Age: How False Beliefs Spread</em>. Yale University Press <a href="https://www.amazon.com/dp/B07L14B7P1">Amazon</a>
 
-Suskind, Ron (October 17, 2004). "Faith, Certainty and the Presidency of George W. Bush". <em>The New York Times Magazine</em> <a href="https://doi.org/10.4135/9781483300627.n29">DOI</a> <a href="https://www.nytimes.com/2004/10/17/magazine/17BUSH.html?ex=1255665600&en=890a96189e162076&ei=5090&partner=rssuserland">Publisher</a>
+Suskind, Ron (October 17, 2004). "Faith, Certainty and the Presidency of George W. Bush". <em>The New York Times Magazine</em> <a href="https://doi.org/10.4135/9781483300627.n29">[DOI]</a> <a href="https://www.nytimes.com/2004/10/17/magazine/17BUSH.html?ex=1255665600&en=890a96189e162076&ei=5090&partner=rssuserland">Publisher</a>
 
-Willingham, D. T. (2012). <em>When can you trust the experts?: How to tell good science from bad in education</em>. John Wiley & Sons <a href="https://doi.org/10.1038/scientificamerican0812-84d">DOI</a> <a href="https://www.amazon.com/dp/1118130278">Amazon</a> <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122684003196">SWEM</a>
+Willingham, D. T. (2012). <em>When can you trust the experts?: How to tell good science from bad in education</em>. John Wiley & Sons <a href="https://doi.org/10.1038/scientificamerican0812-84d">[DOI]</a> <a href="https://www.amazon.com/dp/1118130278">Amazon</a> <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122684003196">SWEM</a>
 
-Van Laan, T. F. (1986). Generic Complexity in Ibsen's an Enemy of the People. <em>Comparative Drama</em>, <em>20</em>(2), 95-114 <a href="https://doi.org/10.1353/cdr.1986.0039">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
+Van Laan, T. F. (1986). Generic Complexity in Ibsen's an Enemy of the People. <em>Comparative Drama</em>, <em>20</em>(2), 95-114 <a href="https://doi.org/10.1353/cdr.1986.0039">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ### Need to alphabetize
 

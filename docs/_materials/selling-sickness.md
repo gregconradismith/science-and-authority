@@ -7,10 +7,10 @@ permalink: "/pages/selling-sickness/"
 render_with_liquid: false
 ---
 
-<p>Moynihan, R., CG, P., Heath, I., &amp; Henry, D. (2002). <em>Selling sickness: the pharmaceutical industry and disease mongering.</em> <em>BMJ</em>, <em>324</em>(7342), 886-891.  <a href="https://doi.org/10.1136/bmj.324.7342.886">https://doi.org/10.1136/bmj.324.7342.886</a></p>
+<p>Moynihan, R., CG, P., Heath, I., &amp; Henry, D. (2002). <em>Selling sickness: the pharmaceutical industry and disease mongering.</em> <em>BMJ</em>, <em>324</em>(7342), 886-891.  <a href="https://doi.org/10.1136/bmj.324.7342.886">[DOI]</a></p>
 
 
-<p>Healy, D. (2012). <em>Pharmageddon</em>. University of California Press.  <a rel="noreferrer noopener" href="https://doi.org/10.1525/9780520951815" target="_blank">https://doi.org/10.1525/9780520951815</a></p>
+<p>Healy, D. (2012). <em>Pharmageddon</em>. University of California Press.  <a rel="noreferrer noopener" href="https://doi.org/10.1525/9780520951815" target="_blank">[DOI]</a></p>
 
 
 <p>Fiske, P. (Producer), &amp; Scott, C. (Director). (2004). <em>Selling sickness</em> [Streaming video]. United States: Icarus Films.  <a href="https://docuseek2-com.proxy.wm.edu/v/a/nrP4/1/0/0">https://docuseek2-com.proxy.wm.edu/v/a/nrP4/1/0/0</a> <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033646590603196" target="_blank">https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033646590603196</a></p>

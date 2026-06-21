@@ -17,7 +17,7 @@ A bibliography of <a href="https://apsc450computationalneuroscience.wordpress.co
 <div class="column">
 
 <a href="https://link.springer.com/journal/11229">Synthese</a>
-<p id="title">Volume 153, Issue 3, December 2006.  <a href="https://link.springer.com/article/10.1007/s11229-006-9094-0">John Bickle, editor.  This issue is the third annual special issue of Synthese dedicated to “Neuroscience and its Philosophy.”</a></p>
+<p id="title">Volume 153, Issue 3, December 2006.  <a href="https://link.springer.com/article/10.1007/s11229-006-9094-0">John Bickle, editor.  This issue is the third annual special issue of Synthese dedicated to “Neuroscience and its Philosophy.”</a> <a href="https://doi.org/10.1007/s11229-006-9094-0">[DOI]</a></p>
 
 </div>
 </div>

@@ -132,10 +132,10 @@ render_with_liquid: false
 <p>World Health Organization. (2008). <a rel="noreferrer noopener" href="https://www.who.int/publications/i/item/9789241596572" target="_blank">Mercury: assessing the environmental burden of disease at national and local levels.</a> <em>Poulin, J</em>.</p>
 
 
-<p>Bender, M., Lymberidi-Settimo, E. &amp; Groth III, E. <a rel="noreferrer noopener" href="https://doi.org/10.1057/jphp.2013.39" target="_blank">New mercury treaty exposes health risks.</a> <em>J Public Health Pol</em> <strong>35</strong>, 1–13 (2014).  </p>
+<p>Bender, M., Lymberidi-Settimo, E. &amp; Groth III, E. New mercury treaty exposes health risks. <a href="https://doi.org/10.1057/jphp.2013.39">[DOI]</a> <em>J Public Health Pol</em> <strong>35</strong>, 1–13 (2014).  </p>
 
 
-<p>Ke, T., Tinkov, A. A., Skalny, A. V., Bowman, A. B., Rocha, J. B., Santamaria, A., & Aschner, M. (2021). Developmental exposure to methylmercury and ADHD, a literature review of epigenetic studies. <em>Environmental Epigenetics</em>, <em>7</em>(1), dvab014. <a href="https://academic.oup.com/eep/article/7/1/dvab014/6433213">PDF</a></p>
+<p>Ke, T., Tinkov, A. A., Skalny, A. V., Bowman, A. B., Rocha, J. B., Santamaria, A., & Aschner, M. (2021). Developmental exposure to methylmercury and ADHD, a literature review of epigenetic studies. <em>Environmental Epigenetics</em>, <em>7</em>(1), dvab014. <a href="https://doi.org/10.1093/eep/dvab014">[DOI]</a> <a href="https://academic.oup.com/eep/article/7/1/dvab014/6433213">PDF</a></p>
 
 
 <p>Ascher, M. (2011). Risk assessment of methyl mercury and its effects on neurodevelopment - In: Developmental Neurotoxicology Research.  In: Wang, C., &amp; Slikker Jr, W. (Eds.). <em>Developmental Neurotoxicology Research: Principles, Models, Techniques, Strategies, and Mechanisms</em>. John Wiley &amp; Sons.  </p>

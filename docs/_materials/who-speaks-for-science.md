@@ -22,7 +22,7 @@ render_with_liquid: false
 
 
 <ul>
-<li>Read Allchin, D. (2021). <strong>Who Speaks for Science?</strong>. <em>Science &amp; Education</em>, 1-18. <a rel="noreferrer noopener" href="https://link.springer.com/article/10.1007/s11191-021-00257-4" target="_blank">[PDF]</a></li>
+<li>Read Allchin, D. (2021). <strong>Who Speaks for Science?</strong>. <em>Science &amp; Education</em>, 1-18. <a rel="noreferrer noopener" href="https://doi.org/10.1007/s11191-021-00257-4" target="_blank">[DOI]</a></li>
 </ul>
 
 

@@ -19,7 +19,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">[</a><a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md">PDF</a><a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">]</a></li>
+<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">[</a><a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md">PDF</a><a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">]</a> <a href="https://doi.org/10.1126/science.162.3859.1243">[DOI]</a></li>
 </ul>
 
 
@@ -78,7 +78,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p>The online <a rel="noreferrer noopener" href="https://www.science.org/doi/abs/10.1126/science.162.3859.1243" target="_blank">abstract</a> of Harding (1968) reads:  The population problem has no technical solution; it requires a fundamental extension in morality.</p>
+<p>The online <a rel="noreferrer noopener" href="https://www.science.org/doi/abs/10.1126/science.162.3859.1243" target="_blank">abstract</a> <a href="https://doi.org/10.1126/science.162.3859.1243">[DOI]</a> of Harding (1968) reads:  The population problem has no technical solution; it requires a fundamental extension in morality.</p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -110,7 +110,7 @@ render_with_liquid: false
 <p><a rel="noreferrer noopener" href="https://www.un.org/en/about-us/universal-declaration-of-human-rights" target="_blank">United Nations Universal Declaration of Human Rights</a></p>
 
 
-<p>Aligica, P. D. (2010). Elinor Ostrom–Nobel Prize in Economics 2009. <em>Economic Affairs</em>, <em>30</em>(1), 95-96. <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0270.2009.01982.x" target="_blank" rel="noreferrer noopener">[DOI]</a></p>
+<p>Aligica, P. D. (2010). Elinor Ostrom–Nobel Prize in Economics 2009. <em>Economic Affairs</em>, <em>30</em>(1), 95-96. <a href="https://doi.org/10.1111/j.1468-0270.2009.01982.x" target="_blank" rel="noreferrer noopener">[DOI]</a></p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

@@ -28,13 +28,13 @@ render_with_liquid: false
 <li></li>
 
 
-<li>Rosenstock, L. (2006). Protecting special interests in the name of “good science”. <em>JAMA</em>, <em>295</em>(20), 2407-2410. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://jamanetwork.com/journals/jama/article-abstract/202889" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<li>Rosenstock, L. (2006). Protecting special interests in the name of “good science”. <em>JAMA</em>, <em>295</em>(20), 2407-2410. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://jamanetwork.com/journals/jama/article-abstract/202889" target="_blank" rel="noreferrer noopener">[HTML]</a> <a href="https://doi.org/10.1001/jama.295.20.2407">[DOI]</a></li>
 
 
-<li>Kennedy, D. (2004). Disclosure and disinterest. <em>Science</em>, <em>303</em>(5654), 15-15. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://www.science.org/doi/full/10.1126/science.303.5654.15" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<li>Kennedy, D. (2004). Disclosure and disinterest. <em>Science</em>, <em>303</em>(5654), 15-15. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://doi.org/10.1126/science.303.5654.15" target="_blank" rel="noreferrer noopener">[DOI]</a></li>
 
 
-<li>Houck, O. (2003). Tales from a troubled marriage: science and law in environmental policy. <em>Science</em>, <em>302</em>(5652), 1926-1929. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://www.science.org/doi/abs/10.1126/science.1093758" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<li>Houck, O. (2003). Tales from a troubled marriage: science and law in environmental policy. <em>Science</em>, <em>302</em>(5652), 1926-1929. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://doi.org/10.1126/science.1093758" target="_blank" rel="noreferrer noopener">[DOI]</a></li>
 </ul>
 <p></p>
 

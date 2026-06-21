@@ -66,7 +66,7 @@ render_with_liquid: false
 
 
 <blockquote class="wp-block-quote">
-<p>Francis Bacon’s works are pervaded by the firm belief that he was living in a new epoch... based on knowledge and mechanical arts, which would permit dominion over nature. This dominion arises from mankind’s taking concrete action to improve the living conditions of humanity.... [H]uman dominion over nature implies the necessity of improving the conditions of the whole mankind, in a manner that opens the way of thinking in which ‘backward’ peoples are subject to this action of improvement. Thus, colonialism is strictly related to the imperiality of human dominion over nature. (Scalercio, <em>History of European Ideas</em>, <em>44</em>(8), 1076-1091, 2018 <a href="https://doi.org/10.1080/01916599.2018.1512282)">DOI</a>.</p>
+<p>Francis Bacon’s works are pervaded by the firm belief that he was living in a new epoch... based on knowledge and mechanical arts, which would permit dominion over nature. This dominion arises from mankind’s taking concrete action to improve the living conditions of humanity.... [H]uman dominion over nature implies the necessity of improving the conditions of the whole mankind, in a manner that opens the way of thinking in which ‘backward’ peoples are subject to this action of improvement. Thus, colonialism is strictly related to the imperiality of human dominion over nature. (Scalercio, <em>History of European Ideas</em>, <em>44</em>(8), 1076-1091, 2018 <a href="https://doi.org/10.1080/01916599.2018.1512282">[DOI]</a>.</p>
 </blockquote>
 
 

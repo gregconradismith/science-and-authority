@@ -74,7 +74,7 @@ render_with_liquid: false
 </blockquote>
 
 
-<p>Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards. <em>International Journal of Occupational and Environmental Health</em>, <em>22</em>(4), 269-273. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/">HTML</a></p>
+<p>Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards. <em>International Journal of Occupational and Environmental Health</em>, <em>22</em>(4), 269-273. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/">HTML</a> <a href="https://doi.org/10.1080/10773525.2016.1245487">[DOI]</a></p>
 
 
 <p><a href="https://www.forbes.com/sites/edwardsegal/">Edward Segal</a> (April 12, 2021) Senior Contributor,<em> Forbes.</em> <a rel="noreferrer noopener" href="https://www.forbes.com/sites/edwardsegal/2021/04/12/what-bidens-nomination-of-doug-parker-to-head-osha-means-for-business-leaders/?sh=24fe2b9e7d00" target="_blank">What Biden’s Nomination Of Doug Parker To Head OSHA Means For Business Leaders</a></p>

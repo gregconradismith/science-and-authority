@@ -65,7 +65,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-Barnes, D. E., & Bero, L. A. (1998). Why review articles on the health effects of passive smoking reach different conclusions. <em>JAMA</em>, <em>279</em>(19), 1566-1570. <a href="https://jamanetwork.com/journals/jama/article-abstract/187551">HTML</a>
+Barnes, D. E., & Bero, L. A. (1998). Why review articles on the health effects of passive smoking reach different conclusions. <em>JAMA</em>, <em>279</em>(19), 1566-1570. <a href="https://jamanetwork.com/journals/jama/article-abstract/187551">HTML</a> <a href="https://doi.org/10.1001/jama.279.19.1566">[DOI]</a>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -85,7 +85,7 @@ Barnes, D. E., & Bero, L. A. (1998). Why review articles on the health effects o
 <h3 class="wp-block-heading">Recent reports on tobacco use and health consequences of smoking</h3>
 
 
-<p>Cornelius, M. E., Wang, T. W., Jamal, A., Loretan, C. G., &amp; Neff, L. J. (2020). <a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7676638/" target="_blank">Tobacco product use among adults—United States</a>, 2019. <em>Morbidity and Mortality Weekly Report</em>, <em>69</em>(46), 1736.</p>
+<p>Cornelius, M. E., Wang, T. W., Jamal, A., Loretan, C. G., &amp; Neff, L. J. (2020). <a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7676638/" target="_blank">Tobacco product use among adults—United States</a>, 2019. <em>Morbidity and Mortality Weekly Report</em>, <em>69</em>(46), 1736. <a href="https://doi.org/10.15585/mmwr.mm6946a4">[DOI]</a></p>
 
 
 <p>US Department of Health and Human Services. (2014). <a rel="noreferrer noopener" href="https://pubmed.ncbi.nlm.nih.gov/24455788/" target="_blank">The Health Consequences of Smoking—50 Years of Progress: A Report of the Surgeon General</a>.</p>
@@ -100,7 +100,7 @@ Barnes, D. E., & Bero, L. A. (1998). Why review articles on the health effects o
 <p>David Michaels (2008). <em>Doubt Is Their Product: How Industry's Assault on Science Threatens Your Health</em>. Oxford University Press, Incorporated, 2008. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196">SWEM Online</a></p>
 
 
-<p>Read the first 3 paragraphs (pp. 269-70) of Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards. <em>International Journal of Occupational and Environmental Health</em>, <em>22</em>(4), 269-273. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/">HTML</a></p>
+<p>Read the first 3 paragraphs (pp. 269-70) of Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards. <em>International Journal of Occupational and Environmental Health</em>, <em>22</em>(4), 269-273. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/">HTML</a> <a href="https://doi.org/10.1080/10773525.2016.1245487">[DOI]</a></p>
 
 
 <p>If you have not done so already, read the blog page Manufacturing Uncertainty and Product Defense <a href="../manufactured-uncertainty-and-product-defense/">Page</a>, in particular, the quotes from Stephen Bocking's <em>Skewing Science</em> and the overview of our class discussion.</p>

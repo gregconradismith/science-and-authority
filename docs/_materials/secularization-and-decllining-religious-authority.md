@@ -90,7 +90,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading"><a href="../readings/">Further Reading</a></h2>
 
 
-<p>Chaves, M. (1994). Secularization as declining religious authority. <em>Social forces</em>, <em>72</em>(3), 749-774.</p>
+<p>Chaves, M. (1994). Secularization as declining religious authority. <em>Social forces</em>, <em>72</em>(3), 749-774. <a href="https://doi.org/10.2307/2579779">[DOI]</a></p>
 
 
 <p>Kafka, Franz. (1924). <em>The Trial: A New Translation Based on the Restored Text</em> (The Schocken Kafka Library), 1999. <a href="https://www.amazon.com/dp/0805209999" target="_blank" rel="noreferrer noopener">[Amazon]</a></p>

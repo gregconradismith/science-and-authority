@@ -238,7 +238,7 @@ layout: calendar
 <li>Read Johnathan Marks, <strong>Science as a culture and as a "side".</strong>  Ch. 1 in <em>Why I Am Not a Scientist: Anthropology and Modern Knowledge</em>. University of California Press, 2009, pp. 1-24.  <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196" target="_blank" rel="noreferrer noopener">[SWEM Online]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/spring-2026-calendar.md">[PDF]</a></li>
 
 
-<li>Read Jop de Vrieze.  <strong>‘Science wars’ veteran has a new mission.  </strong><em>Science</em>.  358(6360):159, 2017. <a href="https://www.science.org/doi/full/10.1126/science.358.6360.159" target="_blank" rel="noreferrer noopener">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/spring-2026-calendar.md">[PDF]</a></li>
+<li>Read Jop de Vrieze.  <strong>‘Science wars’ veteran has a new mission.  </strong><em>Science</em>.  358(6360):159, 2017. <a href="https://doi.org/10.1126/science.358.6360.159" target="_blank" rel="noreferrer noopener">[DOI]</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/spring-2026-calendar.md">[PDF]</a></li>
 </ul>
 
 

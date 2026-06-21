@@ -6,7 +6,7 @@ slug: "defending-secondhand-smoke-backup"
 permalink: "/pages/defending-secondhand-smoke-backup/"
 render_with_liquid: false
 ---
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="../../wp-content/uploads/2022/09/fundingeffect-e1664406237875.jpg" alt="" class="wp-image-4920" width="585" height="288" /><figcaption class="wp-element-caption">Barnes, D. E., &amp; Bero, L. A. (1998). Why review articles on the health effects of passive smoking reach different conclusions. <em>JAMA</em>, <em>279</em>(19), 1566-1570. <a rel="noreferrer noopener" href="https://jamanetwork.com/journals/jama/article-abstract/187551" target="_blank">[HTML]</a></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="../../wp-content/uploads/2022/09/fundingeffect-e1664406237875.jpg" alt="" class="wp-image-4920" width="585" height="288" /><figcaption class="wp-element-caption">Barnes, D. E., &amp; Bero, L. A. (1998). Why review articles on the health effects of passive smoking reach different conclusions. <em>JAMA</em>, <em>279</em>(19), 1566-1570. <a rel="noreferrer noopener" href="https://jamanetwork.com/journals/jama/article-abstract/187551" target="_blank">[HTML]</a> <a href="https://doi.org/10.1001/jama.279.19.1566">[DOI]</a></figcaption></figure>
 
 
 <h2 class="wp-block-heading">Preparation</h2>
@@ -19,7 +19,7 @@ render_with_liquid: false
 <li>If you have not done so already, read the blog page <a href="../manufactured-uncertainty-and-product-defense/">Manufacturing Uncertainty and Product Defense</a>, in particular, the quotes from Stephen Bocking's <em>Skewing Science</em> and the overview of our class discussion. </li>
 
 
-<li>Read the first 3 paragraphs (pp. 269-70) of Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards. <em>International Journal of Occupational and Environmental Health</em>, <em>22</em>(4), 269-273. <a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/" target="_blank">[HTML]</a></li>
+<li>Read the first 3 paragraphs (pp. 269-70) of Infante, P. F. (2016). The continuing struggle between career civil servants and political appointees in the development of government public health standards. <em>International Journal of Occupational and Environmental Health</em>, <em>22</em>(4), 269-273. <a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137556/" target="_blank">[HTML]</a> <a href="https://doi.org/10.1080/10773525.2016.1245487">[DOI]</a></li>
 
 
 <li>Watch the 1996 "60 Minutes Rewind" episode on the big tobacco whistleblower Jefferey Wigan (see below) [30 min.] </li>
@@ -73,7 +73,7 @@ render_with_liquid: false
 <p>Recent reports on tobacco use and health consequences of smoking:</p>
 
 
-<p>Cornelius, M. E., Wang, T. W., Jamal, A., Loretan, C. G., &amp; Neff, L. J. (2020). <a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7676638/" target="_blank">Tobacco product use among adults—United States</a>, 2019. <em>Morbidity and Mortality Weekly Report</em>, <em>69</em>(46), 1736.</p>
+<p>Cornelius, M. E., Wang, T. W., Jamal, A., Loretan, C. G., &amp; Neff, L. J. (2020). <a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7676638/" target="_blank">Tobacco product use among adults—United States</a>, 2019. <em>Morbidity and Mortality Weekly Report</em>, <em>69</em>(46), 1736. <a href="https://doi.org/10.15585/mmwr.mm6946a4">[DOI]</a></p>
 
 
 <p>US Department of Health and Human Services. (2014). <a rel="noreferrer noopener" href="https://pubmed.ncbi.nlm.nih.gov/24455788/" target="_blank">The Health Consequences of Smoking—50 Years of Progress: A Report of the Surgeon General</a>.</p>
