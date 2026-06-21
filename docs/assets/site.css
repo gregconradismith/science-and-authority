@@ -309,11 +309,11 @@ main { min-height: 70vh; }
   margin-bottom: 10px;
 }
 .wp-content {
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: clamp(20px, 4vw, 44px);
-  box-shadow: var(--shadow);
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
 }
 .wp-content h1, .wp-content h2, .wp-content h3 { line-height: 1.15; margin-top: 1.5em; }
 .wp-content h1:first-child, .wp-content h2:first-child, .wp-content h3:first-child { margin-top: 0; }
