@@ -4,7 +4,7 @@ document.addEventListener("input", (event) => {
   if (!input) return;
   const list = document.querySelector("[data-filter-list]");
   const query = input.value.trim().toLowerCase();
-  for (const item of list.querySelectorAll(".card")) {
+  for (const item of list.querySelectorAll("[data-filter-item]")) {
     item.hidden = query && !item.textContent.toLowerCase().includes(query);
   }
 });
