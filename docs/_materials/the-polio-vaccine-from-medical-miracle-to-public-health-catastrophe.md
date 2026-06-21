@@ -7,6 +7,8 @@ permalink: "/pages/the-polio-vaccine-from-medical-miracle-to-public-health-catas
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-polio-vaccine-from-medical-miracle-to-public-health-catastrophe.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Preparation</h2>
 
 
@@ -15,7 +17,7 @@ render_with_liquid: false
 </ul>
 
 
-<div class="wp-block-file"><a id="wp-block-file--media-ed32cee8-e9d6-4cd7-a627-662e8bcbc6c2" href="../../wp-content/uploads/2023/10/the-panic-virus-ch-3.pdf">The Polio Vaccine</a><a href="../../wp-content/uploads/2023/10/the-panic-virus-ch-3.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-ed32cee8-e9d6-4cd7-a627-662e8bcbc6c2">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-ed32cee8-e9d6-4cd7-a627-662e8bcbc6c2" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-polio-vaccine-from-medical-miracle-to-public-health-catastrophe.md">The Polio Vaccine</a></div>
 
 
 <ul>

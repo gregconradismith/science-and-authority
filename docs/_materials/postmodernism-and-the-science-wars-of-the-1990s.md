@@ -7,16 +7,18 @@ permalink: "/pages/postmodernism-and-the-science-wars-of-the-1990s/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/postmodernism-and-the-science-wars-of-the-1990s.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Assignment </h2>
 
 
 <ul class="wp-block-list">
-<li>Read Johnathan Marks, <strong>Science as a culture and as a "side".</strong> Ch. 1 in <em>Why I Am Not a Scientist: Anthropology and Modern Knowledge</em>. University of California Press, 2009, pp. 1-24. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196">SWEM Online</a> <a href="../../wp-content/uploads/2022/11/marks2009_why_i_am_not_a_scientist_ch1_scienceasacultureandaside.pdf">PDF</a></li>
+<li>Read Johnathan Marks, <strong>Science as a culture and as a "side".</strong> Ch. 1 in <em>Why I Am Not a Scientist: Anthropology and Modern Knowledge</em>. University of California Press, 2009, pp. 1-24. <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991015784619703196">SWEM Online</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/postmodernism-and-the-science-wars-of-the-1990s.md">PDF</a></li>
 </ul>
 
 
 <ul class="wp-block-list">
-<li>Read Jop de Vrieze. <strong>‘Science wars’ veteran has a new mission. <em></strong>Science</em>. 358(6360):159, 2017. <a href="https://www.science.org/doi/full/10.1126/science.358.6360.159">DOI</a> <a href="../../wp-content/uploads/2026/03/sciencewarsveteranbrunolatour2017.pdf">PDF</a></li>
+<li>Read Jop de Vrieze. <strong>‘Science wars’ veteran has a new mission. <em></strong>Science</em>. 358(6360):159, 2017. <a href="https://www.science.org/doi/full/10.1126/science.358.6360.159">DOI</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/postmodernism-and-the-science-wars-of-the-1990s.md">PDF</a></li>
 </ul>
 
 

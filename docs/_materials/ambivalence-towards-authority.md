@@ -7,6 +7,8 @@ permalink: "/pages/ambivalence-towards-authority/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/ambivalence-towards-authority.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Overview</h2>
 
 
@@ -25,10 +27,10 @@ render_with_liquid: false
 
 <li>Read these two short parables by Franz Kafka AND watch the videos below.
 <ul class="wp-block-list">
-<li>Before the Law <a href="../../wp-content/uploads/2022/09/kafka-before-the-law-1.pdf">PDF</a>. [10 min ]</li>
+<li>Before the Law <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/ambivalence-towards-authority.md">PDF</a>. [10 min ]</li>
 
 
-<li>A Message from the Emperor <a href="../../wp-content/uploads/2022/09/kafka-a-message-from-the-emperor.pdf">PDF</a>. [10 min]</li>
+<li>A Message from the Emperor <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/ambivalence-towards-authority.md">PDF</a>. [10 min]</li>
 </ul>
 </li>
 

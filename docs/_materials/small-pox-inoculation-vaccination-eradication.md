@@ -7,16 +7,18 @@ permalink: "/pages/small-pox-inoculation-vaccination-eradication/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/small-pox-inoculation-vaccination-eradication.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Preparation </h2>
 
 
 <p>Read <em><strong>The Spotted Pimple of Death</strong></em> (Ch. 1, pp. 23-29) and <em><strong>Milkmaid Envy and a Fear of Modernity</strong></em> (Ch. 2, pp.30-38).  Links to the PDFs are below.</p>
 
 
-<div class="wp-block-file"><a id="wp-block-file--media-95a75b87-7d2b-489c-92cb-52543431e6b7" href="../../wp-content/uploads/2023/10/the-panic-virus-ch-1.pdf"><strong>The Spotted Pimple of Death</strong></a><a href="../../wp-content/uploads/2023/10/the-panic-virus-ch-1.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-95a75b87-7d2b-489c-92cb-52543431e6b7">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-95a75b87-7d2b-489c-92cb-52543431e6b7" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/small-pox-inoculation-vaccination-eradication.md"><strong>The Spotted Pimple of Death</strong></a></div>
 
 
-<div class="wp-block-file"><a id="wp-block-file--media-de3f844e-9dd3-4542-b591-da59710bf4c9" href="../../wp-content/uploads/2023/10/the-panic-virus-ch-2.pdf"><strong>Milkmaid Envy and a Fear of Modernity</strong></a><a href="../../wp-content/uploads/2023/10/the-panic-virus-ch-2.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-de3f844e-9dd3-4542-b591-da59710bf4c9">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-de3f844e-9dd3-4542-b591-da59710bf4c9" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/small-pox-inoculation-vaccination-eradication.md"><strong>Milkmaid Envy and a Fear of Modernity</strong></a></div>
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
@@ -38,7 +40,7 @@ render_with_liquid: false
 <h3 class="wp-block-heading"><a href="https://www.cdc.gov/vaccines/schedules/parents/index.html">CDC immunization schedules</a></h3>
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="../../wp-content/uploads/2023/10/parent-ver-sch-0-6yrs.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="parent-ver-sch-0-6yrs"></object><a id="wp-block-file--media-95cc9a6d-9c9e-4da4-992b-793871cac3cc" href="../../wp-content/uploads/2023/10/parent-ver-sch-0-6yrs.pdf">parent-ver-sch-0-6yrs</a><a href="../../wp-content/uploads/2023/10/parent-ver-sch-0-6yrs.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-95cc9a6d-9c9e-4da4-992b-793871cac3cc">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-95cc9a6d-9c9e-4da4-992b-793871cac3cc" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/small-pox-inoculation-vaccination-eradication.md">parent-ver-sch-0-6yrs</a></div>
 
 
 <h2 class="wp-block-heading">Misinformation age</h2>
@@ -86,4 +88,4 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="../../wp-content/uploads/2023/10/hop-main-graphic-03012023.jpg.pdf" type="application/pdf" style="width:100%;height:710px" aria-label="hop-main-graphic-03012023.jpg"></object><a id="wp-block-file--media-aac3a09a-c185-4875-95fd-cef2481763f4" href="../../wp-content/uploads/2023/10/hop-main-graphic-03012023.jpg.pdf">hop-main-graphic-03012023.jpg</a><a href="../../wp-content/uploads/2023/10/hop-main-graphic-03012023.jpg.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-aac3a09a-c185-4875-95fd-cef2481763f4">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-aac3a09a-c185-4875-95fd-cef2481763f4" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/small-pox-inoculation-vaccination-eradication.md">hop-main-graphic-03012023.jpg</a></div>

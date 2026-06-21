@@ -7,6 +7,8 @@ permalink: "/pages/manufactured-uncertainty-and-product-defense/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/manufactured-uncertainty-and-product-defense.md). Access requires permission to the private repository.
+
 <figure class="wp-block-pullquote"><blockquote><p>And so it goes today, in industry after industry, with study after study, year after year. Data is disputed, data has to be reanalyzed. Animal data is deemed not relevant, human data not representative, exposure data not reliable. More research is always needed. Uncertainty is manufactured. Its purpose is always the same: shielding corporate interests from the inconvenience and economic consequences of public health protections.</p><cite>David Michaels</cite></blockquote></figure>
 
 
@@ -14,7 +16,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read <em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels. <a href="../../wp-content/uploads/2022/09/michaelsmanufactureduncertainty.pdf">PDF</a> <a href="../readings/">Readings</a> This is Chapter 4 of Proctor, R. N., & Schiebinger, L. (2008). <em>Agnotology: The making and unmaking of ignorance.</em> Stanford University Press.</li>
+<li>Read <em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/manufactured-uncertainty-and-product-defense.md">PDF</a> <a href="../readings/">Readings</a> This is Chapter 4 of Proctor, R. N., & Schiebinger, L. (2008). <em>Agnotology: The making and unmaking of ignorance.</em> Stanford University Press.</li>
 </ul>
 
 

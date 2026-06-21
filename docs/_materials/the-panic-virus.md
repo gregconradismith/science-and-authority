@@ -7,6 +7,8 @@ permalink: "/pages/the-panic-virus/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Overview </h2>
 
 
@@ -33,7 +35,7 @@ render_with_liquid: false
 <p>An example <a rel="noreferrer noopener" href="https://www.cdc.gov/vaccines/schedules/parents/index.html" target="_blank">CDC immunization schedules for parents</a>:</p>
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="../../wp-content/uploads/2022/10/parent-ver-sch-0-6yrs.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="parent-ver-sch-0-6yrs"></object><a id="wp-block-file--media-7f484c56-a3bb-4bbf-af1b-e8e4e368d23c" href="../../wp-content/uploads/2022/10/parent-ver-sch-0-6yrs.pdf">parent-ver-sch-0-6yrs</a><a href="../../wp-content/uploads/2022/10/parent-ver-sch-0-6yrs.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-7f484c56-a3bb-4bbf-af1b-e8e4e368d23c">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-7f484c56-a3bb-4bbf-af1b-e8e4e368d23c" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus.md">parent-ver-sch-0-6yrs</a></div>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

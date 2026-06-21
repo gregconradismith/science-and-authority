@@ -7,6 +7,8 @@ permalink: "/pages/looking-up-the-truth/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/looking-up-the-truth.md). Access requires permission to the private repository.
+
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="../../wp-content/uploads/2022/09/5cf030388da28.jpg" alt="" class="wp-image-4194" /><figcaption class="wp-element-caption">Image from <em>Galileo</em>, directed by Joseph Losey</figcaption></figure>
 
 
@@ -131,7 +133,7 @@ render_with_liquid: false
 <p>Few scientists have the opportunity to look at the universe at both large and small scales, nor to do work that strong affects society and religion. It's not surprising, therefore, that the world has turned its lenses on Galileo and his science by examining him in works for theatre, film, video and television.  (Perkowitz, 2011)</p>
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="../../wp-content/uploads/2022/09/galileostageandscreen.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Galileo on stage and screen"></object><a id="wp-block-file--media-a28812c6-6813-44f6-aff7-688427c1f7ca" href="../../wp-content/uploads/2022/09/galileostageandscreen.pdf">Galileo on stage and screen</a><a href="../../wp-content/uploads/2022/09/galileostageandscreen.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-a28812c6-6813-44f6-aff7-688427c1f7ca">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-a28812c6-6813-44f6-aff7-688427c1f7ca" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/looking-up-the-truth.md">Galileo on stage and screen</a></div>
 <cite>Perkowitz 2011</cite></blockquote>
 
 

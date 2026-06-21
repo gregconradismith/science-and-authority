@@ -7,6 +7,8 @@ permalink: "/pages/fall-2024-calendar/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md). Access requires permission to the private repository.
+
 <p><strong>(1) Thursday August 29 - <em>First Day of Classes -</em><a href="https://science-authority.com/week-0/"> </a><a href="../introduction-to-science-and-authority/"><span>Introduction</span> to Science &amp; Authority</a>.</strong></p>
 
 
@@ -26,7 +28,7 @@ render_with_liquid: false
 <li><em>The Distinction Between Power and Authority</em> (Lecture 1 of <em>What is Authority?</em>) by sociologist Isaac Ariail Reed. <a href="../isaac-ariail-reed-on-what-is-authority/">[Audio]</a></li>
 
 
-<li><em>What is Authority?</em> - an excerpt from <em>Authority</em> by Richard Sennett. <a href="../../wp-content/uploads/2022/08/richardsennettwhatisauthority-1.pdf">[PDF]</a></li>
+<li><em>What is Authority?</em> - an excerpt from <em>Authority</em> by Richard Sennett. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a></li>
 </ul>
 
 
@@ -59,7 +61,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li><em>Francis Bacon’s New Atlantis</em> (chapter 1 of The <em>Workshop and the World</em>) by Robert P. Crease. <a href="../../wp-content/uploads/2024/08/crease2019-workshop-and-the-world-ch1-francis-bacons-new-atlantis.pdf">[PDF] </a></li>
+<li><em>Francis Bacon’s New Atlantis</em> (chapter 1 of The <em>Workshop and the World</em>) by Robert P. Crease. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF] </a></li>
 </ul>
 
 
@@ -73,7 +75,7 @@ render_with_liquid: false
 <li><em>Religious Authority in a Differentiated World</em> (Lecture 4) by Isaac Ariail Reed. <a href="../isaac-ariail-reed-on-what-is-authority/">[Audio]</a></li>
 
 
-<li><em>Galileo Galilei and the Authority of Science</em> (chapter 2 of <em>The Workshop and the World</em>) by Robert P. Crease. <a href="../../wp-content/uploads/2024/08/crease2019-workshop-and-the-world-ch2-galileo-galilei-and-the-authority-of-science.pdf">[PDF]</a></li>
+<li><em>Galileo Galilei and the Authority of Science</em> (chapter 2 of <em>The Workshop and the World</em>) by Robert P. Crease. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a></li>
 </ul>
 
 
@@ -84,7 +86,7 @@ render_with_liquid: false
 <li><em>Kafka and Ambivalence Towards Authority</em> (Lecture 5) by Isaac Ariail Reed <a href="../isaac-ariail-reed-on-what-is-authority/">[Audio]</a>.  </li>
 
 
-<li><em>Before the Law</em> <a href="../../wp-content/uploads/2022/09/kafka-before-the-law-1.pdf">[PDF]</a> and <em>A Message from the Emperor</em> <a href="../../wp-content/uploads/2022/09/kafka-a-message-from-the-emperor.pdf">[PDF]</a> by Franz Kafka.</li>
+<li><em>Before the Law</em> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a> and <em>A Message from the Emperor</em> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a> by Franz Kafka.</li>
 </ul>
 
 
@@ -98,7 +100,7 @@ render_with_liquid: false
 <li><em>Modernity and Authority in the Work of Max Weber</em> (Lecture 6) by Isaac Ariail Reed. <a href="../isaac-ariail-reed-on-what-is-authority/">[Audio]</a> </li>
 
 
-<li><em>Science as a Vocation</em> (or <em>The Scholars Work</em>) by Max Weber (pp. 3-31). <a href="../../wp-content/uploads/2024/09/weber-thescholarswork-scienceasavocation-reitterwellmon.pdf">[PDF]</a></li>
+<li><em>Science as a Vocation</em> (or <em>The Scholars Work</em>) by Max Weber (pp. 3-31). <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a></li>
 </ul>
 
 
@@ -106,7 +108,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li><em>The Normative Structure of Science</em> by Robert K. Merton. <a href="../../wp-content/uploads/2022/09/merton-normative-structure-of-science.pdf">[PDF]</a></li>
+<li><em>The Normative Structure of Science</em> by Robert K. Merton. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a></li>
 
 
 <li><em>Genius of the Modern World - Friedrich Nietzsche</em>, a documentary presented by Bettany Hughes. <a href="https://youtu.be/_poZE8833t4?si=RJNyCQd2L5tWqNZ2">[Video]</a></li>
@@ -129,7 +131,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>The Misinformation Age: How False Beliefs Spread by Cailin O'Connor and James Owen Weatherall (pp. 46-50). <a href="../../wp-content/uploads/2022/09/mercuryfish.pdf">[PDF]</a> </li>
+<li>The Misinformation Age: How False Beliefs Spread by Cailin O'Connor and James Owen Weatherall (pp. 46-50). <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a> </li>
 
 
 <li><a href="https://youtu.be/51Roz8CfRXM">"Diagnosis: Mercury" Podcast</a> summarizing "Diagnosis: Mercury: Money, Politics and Poison by Jane Marie Hightower, M.D." <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991012831099703196">[SWEM Online]</a> </li>
@@ -154,7 +156,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li><em>The Panic Virus</em> by Seth Mnookin: Enter Andrew Wakefield <a href="../../wp-content/uploads/2022/10/the-panic-virus-ch8-enter-andrew-wakefield.pdf">[PDF]</a> (Ch. 8), The Lancet Paper <a href="../../wp-content/uploads/2022/10/the-panic-virus-ch9-the-lancet-paper.pdf">[PDF] </a>(Ch. 9), and The Media and Its Messages <a href="../../wp-content/uploads/2022/10/the-panic-virus-ch13-the-media-and-its-messages.pdf">[PDF] </a>(Ch. 13).  </li>
+<li><em>The Panic Virus</em> by Seth Mnookin: Enter Andrew Wakefield <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a> (Ch. 8), The Lancet Paper <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF] </a>(Ch. 9), and The Media and Its Messages <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF] </a>(Ch. 13).  </li>
 </ul>
 
 
@@ -196,7 +198,7 @@ render_with_liquid: false
 <li>David E. Adelman's review of <em>Bending Science</em> in Perspectives in Biology and Medicine, Volume 52, Number 3, Summer 2009, pp. 464-469. <a href="https://muse.jhu.edu/article/315732" target="_blank" rel="noreferrer noopener">[PDF]</a></li>
 
 
-<li><em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels. <a href="../../wp-content/uploads/2022/09/michaelsmanufactureduncertainty.pdf">[PDF]</a> </li>
+<li><em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a> </li>
 
 
 <li>In class: <em>Merchants of Doubt</em>, a documentary inspired by the <a href="https://www.amazon.com/dp/1608193942" target="_blank" rel="noreferrer noopener">book</a> by Naomi Oreskes and Erik M. Conway. <a href="../merchants-of-doubt-2/">[Video]</a></li>
@@ -207,7 +209,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read <em>The Universal Solvent (A Matter of Money, Selling Health)</em>, pp. 128-164 of <em>Making Sense of Science: Separating Substance from Spin</em> by Cornelia Dean (2017, Harvard University Press). [<a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991032884831303196">SWEM Online</a>] [<a href="../../wp-content/uploads/2023/10/making_sense_of_science_ch4_the_universal_solvent.pdf">PDF</a>]</li>
+<li>Read <em>The Universal Solvent (A Matter of Money, Selling Health)</em>, pp. 128-164 of <em>Making Sense of Science: Separating Substance from Spin</em> by Cornelia Dean (2017, Harvard University Press). [<a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991032884831303196">SWEM Online</a>] [<a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">PDF</a>]</li>
 </ul>
 
 
@@ -257,7 +259,7 @@ render_with_liquid: false
 <li>Read Read Burnett, Thomas. <strong>What is scientism?</strong> <a href="https://sciencereligiondialogue.org/resources/what-is-scientism/" target="_blank" rel="noreferrer noopener">[Online]</a></li>
 
 
-<li>Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>. <em>The New Atlantis</em>, 32-50. <a href="https://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20121116_TNA37Hughes.pdf" target="_blank" rel="noreferrer noopener">[PDF]</a></li>
+<li>Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>. <em>The New Atlantis</em>, 32-50. <a href="https://thenewatlantis.com/https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md" target="_blank" rel="noreferrer noopener">[PDF]</a></li>
 </ul>
 
 
@@ -265,7 +267,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="../../wp-content/uploads/2024/10/hardin-1968-tragedy-of-the-commons.pdf">[PDF]</a></li>
+<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2024-calendar.md">[PDF]</a></li>
 
 
 <li>In class:  Watch <strong><a href="https://youtu.be/NA0JXEzQrZM?si=Zwj7Brw07e2c4Qek">Hannah Arendt on Political Life</a></strong> by Ellie Anderson.</li>

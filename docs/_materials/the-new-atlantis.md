@@ -7,6 +7,8 @@ permalink: "/pages/the-new-atlantis/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-new-atlantis.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Overview</h2>
 
 
@@ -86,4 +88,4 @@ render_with_liquid: false
 <p><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-cyan-blue-color"><code>What is the connection between 17th century science and colonialism? </code></mark></p>
 
 
-<p><a href="../../wp-content/uploads/2024/09/francisbaconsnewatlantis.pdf">Instructor Notes </a></p>
+<p><a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-new-atlantis.md">Instructor Notes </a></p>

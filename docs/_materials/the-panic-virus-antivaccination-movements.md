@@ -7,6 +7,8 @@ permalink: "/pages/the-panic-virus-antivaccination-movements/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus-antivaccination-movements.md). Access requires permission to the private repository.
+
 <h2>Preparation</h2>
 
 
@@ -39,7 +41,7 @@ render_with_liquid: false
 <h2>Discussion </h2>
 
 
-<p>Read this <a href="../../wp-content/uploads/2022/09/konnerreviewofthepanicvirus.pdf">review</a> of <em>The Panic Virus</em> by Konner, M. (2011). <a href="../../wp-content/uploads/2022/09/konnerreviewofthepanicvirus.pdf">Epidemiology: Epidemic of panic.</a> <em>Nature</em>, <em>469</em>(7331), 468-469.</p>
+<p>Read this <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus-antivaccination-movements.md">review</a> of <em>The Panic Virus</em> by Konner, M. (2011). <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-panic-virus-antivaccination-movements.md">Epidemiology: Epidemic of panic.</a> <em>Nature</em>, <em>469</em>(7331), 468-469.</p>
 
 
 <p>Center for Disease Control and Convention <a rel="noreferrer noopener" href="https://www.cdc.gov/mmwr/" target="_blank">Morbidity and Mortality Weekly Report (MMWR)</a>.</p>

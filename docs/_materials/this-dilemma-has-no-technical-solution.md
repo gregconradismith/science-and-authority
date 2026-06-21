@@ -7,6 +7,8 @@ permalink: "/pages/this-dilemma-has-no-technical-solution/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md). Access requires permission to the private repository.
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
@@ -17,7 +19,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">[</a><a href="../../wp-content/uploads/2024/10/hardin-1968-tragedy-of-the-commons.pdf">PDF</a><a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">]</a></li>
+<li>Read Hardin, G. (1968).<strong> The tragedy of the commons. </strong><em>Science</em>, 162(3859), 1243-1248. <a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">[</a><a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md">PDF</a><a href="http://ecoevo.wdfiles.com/local--files/start/Hardin1968.pdf" target="_blank" rel="noreferrer noopener">]</a></li>
 </ul>
 
 
@@ -96,7 +98,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading"><a href="../readings/">Further Reading</a></h2>
 
 
-<p>Hughes, A. L. (2012). The folly of scientism. <em>The New Atlantis</em>, 32-50. <a rel="noreferrer noopener" href="https://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20121116_TNA37Hughes.pdf" target="_blank">[PDF]</a></p>
+<p>Hughes, A. L. (2012). The folly of scientism. <em>The New Atlantis</em>, 32-50. <a rel="noreferrer noopener" href="https://thenewatlantis.com/https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/this-dilemma-has-no-technical-solution.md" target="_blank">[PDF]</a></p>
 
 
 <p><a rel="noreferrer noopener" href="https://ecampusontario.pressbooks.pub/businessethicsopenstax/chapter/utilitarianism-the-greatest-good-for-the-greatest-number/" target="_blank">Utilitarianism: The Greatest Good for the Greatest Number</a>.  Ch. 9 of Byars, S., &amp; Stanberry, K. (2018). <em>Business Ethics</em>. Openstax College.  </p>

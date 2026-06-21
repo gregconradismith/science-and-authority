@@ -7,6 +7,8 @@ permalink: "/pages/the-institutionalization-of-uncertainty/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md). Access requires permission to the private repository.
+
 <h2>Preparation</h2>
 
 
@@ -20,25 +22,25 @@ render_with_liquid: false
 <li>If you have not done so already, read xxx</li>
 
 
-<li>Read "The Institutionalization of Uncertainty," which is Chapter 14 (pp 176-191) of <em><a rel="noreferrer noopener" href="https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&amp;lang=en&amp;" target="_blank">Doubt Is Their Product: How Industry's Assault on Science Threatens Your Health</a></em> by David Michaels. Oxford University Press, Incorporated, 2008. <a href="../../wp-content/uploads/2022/09/doubt_is_their_product_how_industry27s_assault_on_s..._-_14_the_institutionalization_of_uncertainty.pdf">[PDF]</a> <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196" target="_blank">[SWEM Online]</a></li>
+<li>Read "The Institutionalization of Uncertainty," which is Chapter 14 (pp 176-191) of <em><a rel="noreferrer noopener" href="https://global.oup.com/academic/product/doubt-is-their-product-9780195300673?cc=us&amp;lang=en&amp;" target="_blank">Doubt Is Their Product: How Industry's Assault on Science Threatens Your Health</a></em> by David Michaels. Oxford University Press, Incorporated, 2008. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033122348903196" target="_blank">[SWEM Online]</a></li>
 
 
 <li></li>
 
 
-<li>Rosenstock, L. (2006). Protecting special interests in the name of “good science”. <em>JAMA</em>, <em>295</em>(20), 2407-2410. <a href="../../wp-content/uploads/2022/09/jco60011.pdf">[PDF]</a> <a href="https://jamanetwork.com/journals/jama/article-abstract/202889" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<li>Rosenstock, L. (2006). Protecting special interests in the name of “good science”. <em>JAMA</em>, <em>295</em>(20), 2407-2410. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://jamanetwork.com/journals/jama/article-abstract/202889" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
 
 
-<li>Kennedy, D. (2004). Disclosure and disinterest. <em>Science</em>, <em>303</em>(5654), 15-15. <a href="../../wp-content/uploads/2022/09/science.303.5654.15.pdf">[PDF]</a> <a href="https://www.science.org/doi/full/10.1126/science.303.5654.15" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<li>Kennedy, D. (2004). Disclosure and disinterest. <em>Science</em>, <em>303</em>(5654), 15-15. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://www.science.org/doi/full/10.1126/science.303.5654.15" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
 
 
-<li>Houck, O. (2003). Tales from a troubled marriage: science and law in environmental policy. <em>Science</em>, <em>302</em>(5652), 1926-1929. <a href="../../wp-content/uploads/2022/09/science.1093758.pdf">[PDF]</a> <a href="https://www.science.org/doi/abs/10.1126/science.1093758" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
+<li>Houck, O. (2003). Tales from a troubled marriage: science and law in environmental policy. <em>Science</em>, <em>302</em>(5652), 1926-1929. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="https://www.science.org/doi/abs/10.1126/science.1093758" target="_blank" rel="noreferrer noopener">[HTML]</a></li>
 </ul>
 <p></p>
 
 
 <ul type="wp-embed">
-<li>Read <em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels. <a href="../../wp-content/uploads/2022/09/michaelsmanufactureduncertainty.pdf">[PDF]</a> <a href="../readings/">[Readings]</a>  This is Chapter 4 of Proctor, R. N., &amp; Schiebinger, L. (2008). <em>Agnotology: The making and unmaking of ignorance.</em> Stanford University Press.</li>
+<li>Read <em>Manufactured Uncertainty: Contested Science and the Protection of the Public's Heath and Environment</em> by David Michaels. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/the-institutionalization-of-uncertainty.md">[PDF]</a> <a href="../readings/">[Readings]</a>  This is Chapter 4 of Proctor, R. N., &amp; Schiebinger, L. (2008). <em>Agnotology: The making and unmaking of ignorance.</em> Stanford University Press.</li>
 </ul>
 
 

@@ -7,6 +7,8 @@ permalink: "/pages/art-music-poetry/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/art-music-poetry.md). Access requires permission to the private repository.
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
@@ -18,7 +20,7 @@ render_with_liquid: false
 </div>
 
 
-<p><a href="../../wp-content/uploads/2022/11/sellsellselllyrics.pdf">Sell, Sell, Sell lyrics</a> </p>
+<p><a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/art-music-poetry.md">Sell, Sell, Sell lyrics</a> </p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -32,7 +34,7 @@ render_with_liquid: false
 </div>
 
 
-<p><a href="../../wp-content/uploads/2022/11/the-priest-by-joni-mitchell.pdf">The Priest lyrics</a></p>
+<p><a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/art-music-poetry.md">The Priest lyrics</a></p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

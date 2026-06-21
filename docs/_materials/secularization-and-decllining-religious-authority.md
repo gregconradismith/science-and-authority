@@ -7,8 +7,10 @@ permalink: "/pages/secularization-and-decllining-religious-authority/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/secularization-and-decllining-religious-authority.md). Access requires permission to the private repository.
+
 <ul class="wp-block-list">
-<li>Read this <a href="../../wp-content/uploads/2022/09/kuhn_summary.pdf">[Two Page Summary]</a> of <a href="https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions">The Structure of Scientific Revolutions</a> by <a rel="noreferrer noopener" href="https://plato.stanford.edu/entries/thomas-kuhn/" target="_blank">Thomas Kuhn</a>. [10 min]</li>
+<li>Read this <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/secularization-and-decllining-religious-authority.md">[Two Page Summary]</a> of <a href="https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions">The Structure of Scientific Revolutions</a> by <a rel="noreferrer noopener" href="https://plato.stanford.edu/entries/thomas-kuhn/" target="_blank">Thomas Kuhn</a>. [10 min]</li>
 
 
 <li>Respond to the following writing prompts<strong> In Your Notebook</strong>:
@@ -26,10 +28,10 @@ render_with_liquid: false
 
 <li>Read these two short parables from by Franz Kafka (or watch the videos below)
 <ul class="wp-block-list">
-<li>Before the Law <a href="../../wp-content/uploads/2022/09/kafka-before-the-law-1.pdf">[PDF]</a>. [10 min ]</li>
+<li>Before the Law <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/secularization-and-decllining-religious-authority.md">[PDF]</a>. [10 min ]</li>
 
 
-<li>A Message from the Emperor <a href="../../wp-content/uploads/2022/09/kafka-a-message-from-the-emperor.pdf">[PDF]</a>. [10 min]</li>
+<li>A Message from the Emperor <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/secularization-and-decllining-religious-authority.md">[PDF]</a>. [10 min]</li>
 </ul>
 </li>
 
@@ -76,10 +78,10 @@ render_with_liquid: false
 <h3 class="wp-block-heading">Secularization in two dimensions (Society, Individual)</h3>
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="../../wp-content/uploads/2022/09/chasesecularizationfig1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Chaves 1994 Fig 1"></object><a id="wp-block-file--media-9c71c349-7672-4e01-a459-8634303cddad" href="../../wp-content/uploads/2022/09/chasesecularizationfig1.pdf">Chaves 1994 Fig 1</a><a href="../../wp-content/uploads/2022/09/chasesecularizationfig1.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-9c71c349-7672-4e01-a459-8634303cddad">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-9c71c349-7672-4e01-a459-8634303cddad" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/secularization-and-decllining-religious-authority.md">Chaves 1994 Fig 1</a></div>
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="../../wp-content/uploads/2022/09/chasesecularizationfig2.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Chaves 1994 Fig 2"></object><a id="wp-block-file--media-c2151ebe-b133-44df-8401-87626c761979" href="../../wp-content/uploads/2022/09/chasesecularizationfig2.pdf">Chaves 1994 Fig 2</a><a href="../../wp-content/uploads/2022/09/chasesecularizationfig2.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-c2151ebe-b133-44df-8401-87626c761979">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-c2151ebe-b133-44df-8401-87626c761979" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/secularization-and-decllining-religious-authority.md">Chaves 1994 Fig 2</a></div>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

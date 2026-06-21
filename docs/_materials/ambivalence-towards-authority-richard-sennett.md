@@ -7,6 +7,8 @@ permalink: "/pages/ambivalence-towards-authority-richard-sennett/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/ambivalence-towards-authority-richard-sennett.md). Access requires permission to the private repository.
+
 <h2>Response to Class Discussion</h2>
 
 
@@ -97,7 +99,7 @@ render_with_liquid: false
 </ul>
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="../../wp-content/uploads/2022/09/scharronsennettautority.pdf" type="application/pdf" style="width:100%;height:600px;" aria-label="Embed of scharr on sennett authority."></object><a id="wp-block-file--media-022f5eb9-7ddc-4a7f-aceb-93b9b1af468b" href="../../wp-content/uploads/2022/09/scharronsennettautority.pdf">scharr on sennett authority</a><a href="../../wp-content/uploads/2022/09/scharronsennettautority.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-022f5eb9-7ddc-4a7f-aceb-93b9b1af468b">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-022f5eb9-7ddc-4a7f-aceb-93b9b1af468b" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/ambivalence-towards-authority-richard-sennett.md">scharr on sennett authority</a></div>
 
 
 <ul>

@@ -3,3 +3,5 @@ _site/
 docs/.bundle/
 docs/.jekyll-cache/
 docs/vendor/
+docs/wp-content/uploads/**/*.pdf
+docs/wp-content/uploads/**/*.PDF

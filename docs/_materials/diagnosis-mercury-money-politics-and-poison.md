@@ -7,6 +7,8 @@ permalink: "/pages/diagnosis-mercury-money-politics-and-poison/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/diagnosis-mercury-money-politics-and-poison.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Overview </h2>
 
 
@@ -78,13 +80,13 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<div class="wp-block-file aligncenter"><object class="wp-block-file__embed" data="../../wp-content/uploads/2022/09/mercurytimeline.pdf" type="application/pdf" style="width:100%;height:580px" aria-label="mercury timeline"></object><a id="wp-block-file--media-daafaf42-cef8-4784-a5f9-eb0f61dd4b42" href="../../wp-content/uploads/2022/09/mercurytimeline.pdf">mercury timeline</a><a href="../../wp-content/uploads/2022/09/mercurytimeline.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-daafaf42-cef8-4784-a5f9-eb0f61dd4b42">Download</a></div>
+<div class="wp-block-file aligncenter"><a id="wp-block-file--media-daafaf42-cef8-4784-a5f9-eb0f61dd4b42" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/diagnosis-mercury-money-politics-and-poison.md">mercury timeline</a></div>
 
 
 <p>The table above is from Grandjean et al. (2011).  The table below is from Hightower, the author of Diagnosis: Mercury. </p>
 
 
-<div class="wp-block-file aligncenter"><object class="wp-block-file__embed" data="../../wp-content/uploads/2022/09/mercurytimeline8_alt.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="mercury timeline"></object><a id="wp-block-file--media-162e06c9-c485-4822-8ce8-1e923ade5ffd" href="../../wp-content/uploads/2022/09/mercurytimeline8_alt.pdf">mercury timeline</a><a href="../../wp-content/uploads/2022/09/mercurytimeline8_alt.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-162e06c9-c485-4822-8ce8-1e923ade5ffd">Download</a></div>
+<div class="wp-block-file aligncenter"><a id="wp-block-file--media-162e06c9-c485-4822-8ce8-1e923ade5ffd" href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/diagnosis-mercury-money-politics-and-poison.md">mercury timeline</a></div>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -142,7 +144,7 @@ render_with_liquid: false
 <p>Grandjean, P., Choi, A., Weihe, P., Murata, K. (2011)  Methylmercury neurotoxicology: From rare poisonings to silent pandemic. In: Wang, C., &amp; Slikker Jr, W. (Eds.). <em>Developmental Neurotoxicology Research: Principles, Models, Techniques, Strategies, and Mechanisms</em>. John Wiley &amp; Sons. </p>
 
 
-<p>1998 Mercury Study Report to Congress <a href="https://www.epa.gov/mercury/mercury-study-report-congress">Publisher</a> <a href="../../wp-content/uploads/2022/09/volume1.pdf">4-page Overview of Executive Summary</a></p>
+<p>1998 Mercury Study Report to Congress <a href="https://www.epa.gov/mercury/mercury-study-report-congress">Publisher</a> <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/diagnosis-mercury-money-politics-and-poison.md">4-page Overview of Executive Summary</a></p>
 
 
 <p>US Food and Drug Administration <a href="https://www.fda.gov/">Home</a> / <a href="https://www.fda.gov/food">Food</a> / <a href="https://www.fda.gov/food/chemical-contaminants-metals-pesticides-food">Chemical Contaminants, Metals &amp; Pesticides in Food</a>  <a href="https://www.fda.gov/food/chemical-contaminants-metals-pesticides-food/metals-and-your-food">Metals and Your Food</a> / <a rel="noreferrer noopener" href="https://www.fda.gov/food/metals-and-your-food/mercury-and-methylmercury" target="_blank"> Mercury and Methylmercury</a>  </p>

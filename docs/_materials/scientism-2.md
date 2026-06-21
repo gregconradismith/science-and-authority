@@ -7,6 +7,8 @@ permalink: "/pages/scientism-2/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/scientism-2.md). Access requires permission to the private repository.
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
@@ -20,7 +22,7 @@ render_with_liquid: false
 <li>Read Burnett, Thomas. <strong>What is scientism?</strong> <a href="https://sciencereligiondialogue.org/resources/what-is-scientism/">Online</a></li>
 
 
-<li>Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>. <em>The New Atlantis</em>, 32-50. <a href="https://thenewatlantis.com/wp-content/uploads/legacy-pdfs/20121116_TNA37Hughes.pdf">PDF</a></li>
+<li>Read Hughes, A. L. (2012). <strong>The folly of scientism</strong>. <em>The New Atlantis</em>, 32-50. <a href="https://thenewatlantis.com/https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/scientism-2.md">PDF</a></li>
 </ul>
 
 

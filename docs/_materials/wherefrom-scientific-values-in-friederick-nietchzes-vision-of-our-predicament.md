@@ -7,6 +7,8 @@ permalink: "/pages/wherefrom-scientific-values-in-friederick-nietchzes-vision-of
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/wherefrom-scientific-values-in-friederick-nietchzes-vision-of-our-predicament.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Overview </h2>
 
 
@@ -20,7 +22,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read The Normative Structure of Science by Robert K. Merton. <a href="../../wp-content/uploads/2022/09/merton-normative-structure-of-science.pdf">PDF</a></li>
+<li>Read The Normative Structure of Science by Robert K. Merton. <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/wherefrom-scientific-values-in-friederick-nietchzes-vision-of-our-predicament.md">PDF</a></li>
 
 
 <li>Watch Genius of the Modern World - Friedrich Nietzsche <a href="https://youtu.be/vzcD-LCKuNs">Video</a>, a documentary presented by Bettany Hughes. [1 hr]</li>
