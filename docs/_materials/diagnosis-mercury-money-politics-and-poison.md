@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "diagnosis-mercury-money-politics-and-poison"
 permalink: "/pages/diagnosis-mercury-money-politics-and-poison/"
 render_with_liquid: false
+image: "/wp-content/uploads/2022/09/mercurytimeline8_alt.jpg"
+image_alt: "Timeline of mercury poisoning and public health response"
 ---
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/diagnosis-mercury-money-politics-and-poison.md). Access requires permission to the private repository.

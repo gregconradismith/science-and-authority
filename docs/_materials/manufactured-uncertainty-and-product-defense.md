@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "manufactured-uncertainty-and-product-defense"
 permalink: "/pages/manufactured-uncertainty-and-product-defense/"
 render_with_liquid: false
+image: "/wp-content/uploads/2022/09/fundingeffect-e1664406237875.jpg"
+image_alt: "Chart showing the effect of funding source on scientific findings"
 ---
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/manufactured-uncertainty-and-product-defense.md). Access requires permission to the private repository.

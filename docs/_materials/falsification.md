@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "falsification"
 permalink: "/pages/falsification/"
 render_with_liquid: false
+image: "/wp-content/uploads/2022/09/venn.png"
+image_alt: "Venn diagram about science and falsification"
 ---
 
 <h2 class="wp-block-heading">Overview</h2>

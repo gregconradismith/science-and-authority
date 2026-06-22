@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "surveillance-capitalism"
 permalink: "/pages/surveillance-capitalism/"
 render_with_liquid: false
+image: "/wp-content/uploads/2024/08/cool-graphic-reflecting-modern-science-and-totalitarian-society.png"
+image_alt: "Illustration of technology, surveillance, and society"
 ---
 
 <h2 class="wp-block-heading">Preparation</h2>

@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "galileo"
 permalink: "/pages/galileo/"
 render_with_liquid: false
+image: "/wp-content/uploads/2022/09/product_650.jpg"
+image_alt: "Poster image for Galileo"
 ---
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
