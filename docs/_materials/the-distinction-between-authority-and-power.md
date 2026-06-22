@@ -22,7 +22,7 @@ render_with_liquid: false
 <h2><strong><a href="https://isaacreed.net/about-and-contact/">Isaac Ariail Reed</a></strong></h2>
 
 
-<figure class="wp-block-audio aligncenter"><audio controls src="https://scienceauthority.wordpress.com/wp-content/uploads/2022/09/lecture-1-introduction-and-the-distinction-between-power-and-authority-online-audio-converter.com_.mp3"></audio></figure>
+<p>Private audio for this lecture is available in the <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/isaac-ariail-reed-on-what-is-authority.md">course resource companion</a>. Access requires permission to the private repository.</p>
 
 
 <p>What is authority?<strong> </strong>We will begin with some basic distinctions and definitions from which your knowledge of this topic can grow. Of course, these are not intended to be the final word, but rather, the beginning of a semester long journey.</p>

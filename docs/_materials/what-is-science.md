@@ -21,7 +21,7 @@ You will also need a <strong><span style="color:#ff0000;">Binder</span></strong>
 <hr />
 
 <h2>Preparation for next class</h2>
-For your homework assignment see <a href="https://apsc450computationalneuroscience.wordpress.com/the-empty-brain/">Is your brain a computer?</a>
+For your homework assignment see <a href="https://gregconradismith.github.io/computational-neuroscience/pages/the-empty-brain/">Is your brain a computer?</a>
 
 <hr />
 
@@ -30,7 +30,7 @@ The Further Reading sections of the course blog will list supplementary papers, 
 
 Do not let the Further Reading section(s) distract you from preparation for the next class, which is very much required.
 
-If you are a William &amp; Mary student, you have access to an electronic version of most of the required and suggested readings under <a href="https://apsc450computationalneuroscience.wordpress.com/readings/">Local / Readings</a> (password protected).
+If you are a William &amp; Mary student, you have access to an electronic version of most of the required and suggested readings under <a href="https://gregconradismith.github.io/computational-neuroscience/pages/readings/">Local / Readings</a> (password protected).
 
 <a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=l7vsCgAAQBAJ&amp;oi=fnd&amp;pg=PT42&amp;dq=What+Is+Computational+Neuroscience%3F&amp;ots=JUCZnQsS9d&amp;sig=IPrywAy5vmHx65uhf_1qf_Yu-uc#v=onepage&amp;q=What%20Is%20Computational%20Neuroscience%3F&amp;f=false">Churchland, P.S., Koch, C. and Sejnowski, T.J., 1994. What Is Computational Neuroscience?</a> In: <span class="author notFaded">Gutfreund, </span><span class="author notFaded">Hanoch and <span class="contribution"><span class="a-color-secondary"> Toulouse, </span></span></span><span class="author notFaded">Gerard, editors. </span><i>Biology And Computation: A Physicist's Choice</i>, <i>3</i>, p.25.  <a href="https://www.amazon.com/dp/9810214057">[Amazon]</a>
 

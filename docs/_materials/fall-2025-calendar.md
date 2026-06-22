@@ -9,7 +9,7 @@ render_with_liquid: false
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/fall-2025-calendar.md). Access requires permission to the private repository.
 
-<p><strong>(1) Thursday January 22 - <em>First Day of Classes -</em><a href="https://science-authority.com/week-0/"></a><a href="../introduction-to-science-and-authority/"><span>Introduction</span> to Science &amp; Authority</a>.</strong></p>
+<p><strong>(1) Thursday January 22 - <em>First Day of Classes -</em> <a href="../introduction-to-science-and-authority/"><span>Introduction</span> to Science &amp; Authority</a>.</strong></p>
 
 
 <h2 class="wp-block-heading">Part 1 - Foundations</h2>
@@ -46,7 +46,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p><strong>(4) Tuesday February 3</strong> - <strong><a href="https://science-authority.com/?page_id=3964">Falsification and Scientific Authority</a></strong></p>
+<p><strong>(4) Tuesday February 3</strong> - <strong><a href="../falsification/">Falsification and Scientific Authority</a></strong></p>
 
 
 <ul class="wp-block-list">
@@ -68,7 +68,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p><strong>(6) Tuesday <strong>February </strong>10  - <a href="https://science-authority.com/?page_id=3995">Lookin' up the truth (The Galileo Affair)</a></strong></p>
+<p><strong>(6) Tuesday <strong>February </strong>10  - <a href="../looking-up-the-truth/">Lookin' up the truth (The Galileo Affair)</a></strong></p>
 
 
 <ul class="wp-block-list">
@@ -241,7 +241,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p><strong>(18) Tuesday March 31 </strong>- <strong><a href="https://science-authority.com/science-and-ideology/">Science and Ideology</a></strong></p>
+<p><strong>(18) Tuesday March 31 </strong>- <strong><a href="../science-of-exploitation/">Science and Ideology</a></strong></p>
 
 
 <ul class="wp-block-list">
@@ -274,7 +274,7 @@ render_with_liquid: false
 </ul>
 
 
-<p><strong>(21) Thursday April 9  </strong>- <strong><a href="https://science-authority.com/a-minor-episode-in-the-science-wars/">A Minor Episode in the Science Wars</a> </strong></p>
+<p><strong>(21) Thursday April 9  </strong>- <strong><a href="../postmodernism-and-the-science-wars-of-the-1990s/">A Minor Episode in the Science Wars</a> </strong></p>
 
 
 <ul class="wp-block-list">

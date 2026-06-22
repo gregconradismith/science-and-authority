@@ -7,7 +7,7 @@ permalink: "/pages/calendar-2/"
 render_with_liquid: false
 ---
 
-<p><strong>Wednesday August 30 - <em>First Day of Classes - </em><a href="https://scienceauthority.wordpress.com/week-0/">How ought we think about science?</a></strong></p>
+<p><strong>Wednesday August 30 - <em>First Day of Classes - </em><a href="../introduction-to-science-and-authority/">How ought we think about science?</a></strong></p>
 
 
 <p><strong>Friday September 1 - <a rel="noreferrer noopener" href="../what-is-authority/" target="_blank">Defining terms … What is Authority?</a></strong></p>
@@ -19,10 +19,10 @@ render_with_liquid: false
 <p><strong>Wednesday September 6 - <a href="../the-new-atlantis/">Francis Bacon's New Atlantis</a></strong></p>
 
 
-<p><strong>Friday September 8 - <a href="https://science-authority.com/?page_id=3964">Falsification and What `Theory' Means</a></strong></p>
+<p><strong>Friday September 8 - <a href="../falsification/">Falsification and What `Theory' Means</a></strong></p>
 
 
-<p><strong>Monday September 11 - <a href="https://science-authority.com/?page_id=3995">Lookin' up the truth (The Galileo Affair, Part I)</a></strong></p>
+<p><strong>Monday September 11 - <a href="../looking-up-the-truth/">Lookin' up the truth (The Galileo Affair, Part I)</a></strong></p>
 
 
 <p><strong>Wednesday September 13 -</strong> <a href="../lookin-up-the-truth-the-galileo-affair-part-ii/"><strong>Lookin’ up the truth (The Galileo Affair, Part II)</strong></a></p>
@@ -34,7 +34,7 @@ render_with_liquid: false
 <p><strong>Monday September 18 -</strong> <strong><a href="../modernity-and-authority-in-max-weber/">Modernity and Authority in the Work of Max Weber</a></strong></p>
 
 
-<p><strong>Wednesday September 20 -</strong> <strong><a href="../wherefrom-scientific-values-in-friederick-nietchzes-vision-of-our-predicament/">Wherefrom Scientific Values in the Modern World?</a></strong> and <strong><a rel="noreferrer noopener" href="https://science-authority.com/value-antimony-pluralism-and-good-will/" target="_blank">Value Antimony, Pluralism, and Good Will</a></strong></p>
+<p><strong>Wednesday September 20 -</strong> <strong><a href="../wherefrom-scientific-values-in-friederick-nietchzes-vision-of-our-predicament/">Wherefrom Scientific Values in the Modern World?</a></strong> and <strong>Value Antimony, Pluralism, and Good Will</strong></p>
 
 
 <p><strong>Friday September 22 -</strong> <a href="../diagnosis-mercury-money-politics-and-poison/"><strong>Diagnosis: Mercury: Money, Politics, and Poisson</strong></a></p>
@@ -65,7 +65,7 @@ render_with_liquid: false
 
 
 <ul>
-<li><strong><a href="https://science-authority.com/one-bad-apple/">One Bad apple?</a></strong> </li>
+<li><strong>One Bad apple?</strong> </li>
 
 
 <li><strong><a href="../what-our-case-studies-reveal/">What Our Case Studies Reveal</a></strong></li>
@@ -114,13 +114,13 @@ render_with_liquid: false
 <p><strong>Friday November 10 -</strong> <a href="../data-ism/"><strong>Data-ism: The Ideology of Big Data</strong></a></p>
 
 
-<p><strong>Monday November 13 -</strong> <strong><a href="https://science-authority.com/science-and-ideology/">Science and Ideology</a></strong> and (optional) <strong><a href="../this-dilemma-has-no-technical-solution/">This Dilemma Has No Technical Solution</a></strong></p>
+<p><strong>Monday November 13 -</strong> <strong><a href="../science-of-exploitation/">Science and Ideology</a></strong> and (optional) <strong><a href="../this-dilemma-has-no-technical-solution/">This Dilemma Has No Technical Solution</a></strong></p>
 
 
-<p><strong>Wednesday November 15 -</strong> <a href="https://science-authority.com/fall-2023-final-project-description/"><strong>Final Project Statement</strong></a> (brainstorm your project)</p>
+<p><strong>Wednesday November 15 -</strong> <a href="../fall-2025-final-project-description/"><strong>Final Project Statement</strong></a> (brainstorm your project)</p>
 
 
-<p><strong>Friday November 17 -</strong>  <strong><a href="https://science-authority.com/a-minor-episode-in-the-science-wars/">A Minor Episode in the Science Wars</a></strong>  Class online and asynchronous.</p>
+<p><strong>Friday November 17 -</strong>  <strong><a href="../postmodernism-and-the-science-wars-of-the-1990s/">A Minor Episode in the Science Wars</a></strong>  Class online and asynchronous.</p>
 
 
 <p class="has-vivid-red-color has-text-color has-link-color"><strong>Friday November 17 - Target date for project idea (400 words) and a list (3 or more) of references/resources to be engaged</strong></p>

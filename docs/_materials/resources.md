@@ -6,7 +6,7 @@ slug: "resources"
 permalink: "/pages/resources/"
 render_with_liquid: false
 ---
-A bibliography of <a href="https://apsc450computationalneuroscience.wordpress.com/books-on-computational-neuroscience/">computational neuroscience books and monographs</a>.
+A bibliography of <a href="https://gregconradismith.github.io/computational-neuroscience/pages/books-on-computational-neuroscience/">computational neuroscience books and monographs</a>.
 <p class="a-size-medium a-color-null s-inline s-access-title a-text-normal"><a href="https://www.weizmann.ac.il/mcb/UriAlon/download/collection-complex-networks">The Uri Alon Lab Collection of Complex Networks</a></p>
 <a href="https://www.nature.com/subjects/computational-neuroscience">Nature.com / Subject / Computational Neuroscience</a>
 

@@ -58,7 +58,7 @@ render_with_liquid: false
 <h2>Late work, Collaboration, Etc.</h2>
 <p>Late work will not be evaluated without a letter from an undergraduate dean with a specific request and justification. Serious schedule conflicts may be resolved by arranging to complete assignments earlier than required, but this will occur at the instructor's discretion.</p>
 <p>Collaboration on out-of-class assignments is encouraged.  Be sure to acknowledge your collaborators.  Note that each student must submit their own final version of any assignment.  The term project will be independent work.</p>
-<p>The relationship between numerical and letter grades is <a href="https://apsc450computationalneuroscience.wordpress.com/grading-scheme/">as follows</a>.</p>
+<p>The relationship between numerical and letter grades is <a href="https://gregconradismith.github.io/computational-neuroscience/pages/grading-scheme/">as follows</a>.</p>
 <p>Violations of academic integrity will be pursued within the <a href="https://www.wm.edu/offices/deanofstudents/services/communityvalues/honorcodeandcouncils/honorcode/index.php">W&amp;M Honor System</a>.</p>
 <h2>Mental and Physical Well-Being</h2>
 <p>We all have responsibilities and concerns  beyond our commitment to learning.  These include respect and care for oneself and for others. To seek assistance for interpersonal, academic, and wellness challenges, please contact <a href="http://wm.edu/care">Care Support Services</a> at <a href="http://wm.edu/care">wm.edu/care</a> (care@wm.edu) or any of the other <a href="https://www.wm.edu/offices/wellness/resources/">resources</a> available at W&amp;M to help students navigate emotional/psychological, physical/medical, material/accessibility concerns, including:</p>

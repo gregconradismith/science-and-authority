@@ -23,7 +23,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Sign up to receive emails when I post to the course blog. Click Home <a href="https://scienceauthority.wordpress.com">Publisher</a> to see posts. You will see the place to enter your email at the top of rightmost column.</li>
+<li>Bookmark the course site and check the course blog regularly for updates.</li>
 
 
 <li>Add a page on this <strong><em>Names & Faces</em></strong> Google doc <a href="https://docs.google.com/presentation/d/1azgRyAcujM03HR23HB3_LUIpT17QoLvOPiLQXafH1KY/edit?usp=sharing">Publisher</a>. Be creative!</li>

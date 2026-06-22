@@ -372,7 +372,7 @@ main { min-height: 70vh; }
   white-space: nowrap;
 }
 .content-page {
-  width: min(940px, calc(100% - 36px));
+  width: calc(100% - clamp(24px, 8vw, 120px));
   margin: 0 auto;
   padding: clamp(34px, 6vw, 76px) 0;
 }
@@ -399,7 +399,7 @@ main { min-height: 70vh; }
 }
 .wp-content h1, .wp-content h2, .wp-content h3 { line-height: 1.15; margin-top: 1.5em; }
 .wp-content h1:first-child, .wp-content h2:first-child, .wp-content h3:first-child { margin-top: 0; }
-.wp-content p, .wp-content li { max-width: 78ch; }
+.wp-content p, .wp-content li { max-width: none; }
 .wp-content figure { margin: 26px 0; }
 .wp-content img {
   height: auto;

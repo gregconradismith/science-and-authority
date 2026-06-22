@@ -15,7 +15,7 @@ render_with_liquid: false
 </ul>
 
 
-<figure class="wp-block-audio"><audio controls src="https://scienceauthority.wordpress.com/wp-content/uploads/2022/10/1995-01-29_gilfronsdal_clingingtoviewsandopinions.mp3"></audio></figure>
+<p>Private audio for this page is available in the <a href="https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/clinging-to-views-and-opinions.md">course resource companion</a>. Access requires permission to the private repository.</p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

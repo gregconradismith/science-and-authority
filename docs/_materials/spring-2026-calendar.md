@@ -10,7 +10,7 @@ layout: calendar
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/science-and-authority-private/blob/main/docs/_materials/spring-2026-calendar.md). Access requires permission to the private repository.
 
-<p><strong>(1) <em>First Day of Classes -</em> <a href="https://science-authority.com/week-0/"></a><a href="../introduction-to-science-and-authority/"><span>Introduction</span> to Science &amp; Authority</a>.</strong></p>
+<p><strong>(1) <em>First Day of Classes -</em> <a href="../introduction-to-science-and-authority/"><span>Introduction</span> to Science &amp; Authority</a>.</strong></p>
 
 
 <h2 class="wp-block-heading">Part 1 - Foundations</h2>
@@ -44,7 +44,7 @@ layout: calendar
 </ul>
 
 
-<p><strong>(4) <a href="https://science-authority.com/?page_id=3964">Falsification and Scientific Authority</a></strong></p>
+<p><strong>(4) <a href="../falsification/">Falsification and Scientific Authority</a></strong></p>
 
 
 <ul class="wp-block-list">
@@ -63,7 +63,7 @@ layout: calendar
 </ul>
 
 
-<p><strong>(6) <a href="https://science-authority.com/?page_id=3995">Lookin' up the truth (The Galileo Affair)</a></strong></p>
+<p><strong>(6) <a href="../looking-up-the-truth/">Lookin' up the truth (The Galileo Affair)</a></strong></p>
 
 
 <ul class="wp-block-list">
