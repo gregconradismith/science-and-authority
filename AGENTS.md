@@ -44,3 +44,12 @@ git diff --check
 
 Avoid committing `_site/`, Bundler artifacts, local caches, or regenerated
 export clutter unless explicitly requested.
+
+## Codex Coordination
+
+At the start of work, read `.codex/handoff.md` and any other Markdown files in
+`.codex/` that are relevant to the task. Before ending a session that made
+meaningful progress, update `.codex/handoff.md` with the current state, changes,
+verification, remaining work, and blockers. Record durable decisions in
+`.codex/decisions.md` and concise activity history in `.codex/task-log.md` when
+those files are useful.
